@@ -1,7 +1,5 @@
-import discord, random
+import discord, os, random
 from discord.ext import tasks
-
-OWNER_ID = 611005635223617577
 
 random_status = [
     "Taller than Edelgard",
@@ -25,7 +23,7 @@ class Oifey(discord.AutoShardedClient):
         self.debug = True
         self.maji = None
         
-        self.owner = OWNER_ID
+        self.owner = int(os.getenv('OWNER_ID'))
 
     async def on_ready(self) -> None:
         print(f"Logged in as {self.user} {self.user.id}!")

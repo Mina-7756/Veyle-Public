@@ -12,6 +12,7 @@ load_dotenv()
 @maji.commands.classic("sync")
 async def sync(ctx):
     if ctx.author.id != client.owner:
+        print(f"Sync requested by {ctx.author.id}, this does not match {client.owner}. Denying.")
         return
         
     await client.maji.sync(guild=ctx.src.guild.id)
@@ -22,6 +23,7 @@ async def sync(ctx):
 @maji.commands.classic("exit")
 async def exit(ctx):
     if ctx.author.id != client.owner:
+        print(f"Exit requested by {ctx.author.id}, this does not match {client.owner}. Denying.")
         return
     
     print("Shutting down...")
