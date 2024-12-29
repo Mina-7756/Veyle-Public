@@ -1,0 +1,2 @@
+# Let's not commit any images the scraper pulls down, just the files integrated into ../database
+*.png
