@@ -18,21 +18,19 @@ with open(file, 'w') as fp:
 
 
 units = [
-"Lilina: Brilliant Flame",
-"Zeiss: Ebon Bolt",
-"Bors: Ostia's Bastion",
-"Elffin: Truth Beholden",
-"Þjazi: Ruthless Jötun",
-"Ogier: Ostia's New Blade"
-
+    "Fomortiis:_Dark_of_Night",
+    "Alear:_Gifted_Dragons",
+    "Eikþyrnir:_Blessed_Strength",
+    "Shez:_Snowfield_Envoy",
+    "Hortensia:_Winter's_Dearest"
 ]
 
 
 
-#bj = {}
-
+#alts = None
+alts = ["Winter", "Christmas", "W"]
 for i in range(0, len(units)):
-    Webscraper.scrape_page(f"/wiki/{units[i]}")
+    Webscraper.scrape_page(f"/wiki/{units[i]}", alts=alts)
     
 
 #with open(file, 'w') as fp:
@@ -46,4 +44,4 @@ for i in range(0, len(units)):
   
 
 
- 
+

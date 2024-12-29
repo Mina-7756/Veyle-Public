@@ -29,14 +29,11 @@ def determine_key(name):
 
     return try_key, ref
 
-def scrape_page(page_name):
-    maindis = ""
+def scrape_page(page_name, alts=None):
+    if alts is None:
+        alts = ["Base, Normal, Regular"]
 
-    alts = [
-        "Base",
-        "Normal",
-        "Regular"
-    ]   
+    maindis = ""
 
     with open('templates/blank.json', 'r') as f:
         template = json.load(f)
@@ -68,8 +65,16 @@ def scrape_page(page_name):
     blank['artist'] = art[5]
     blank['description'] = list(wiki_info[2].stripped_strings)[1]
 
-    rarity = list(wiki_info[3].stripped_strings)
+    if "Female units" in soup.text:
+        blank['gender'] = 'F'
+    if "Male units" in soup.text:
+        if blank['gender']:
+            # We got both? Duo maybe? Dunno what the protocol is, marking blank.
+            blank['gender'] = ''
+        else:
+            blank['gender'] = 'M'
 
+    rarity = list(wiki_info[3].stripped_strings)
 
     if 'Rearmed' in rarity:
         blank['type'] = 'rearmed'
@@ -100,11 +105,9 @@ def scrape_page(page_name):
         alts.append('Ascendent')
         maindis = 'Ascended '
         blank['rarity'] = 5
-
     if 'Legendary' in rarity or 'Mythic' in rarity:
         blank['type'] = 'legendary'
         blank['pool'] = 'legend'
-
         blank['rarity'] = 5
     if 'Emblem' in rarity:
         blank['type'] = 'emblem'
@@ -138,7 +141,10 @@ def scrape_page(page_name):
             if len(strings) >= 5:
                 blank['voice'] = (strings[2] + ' ' + strings[3] + ' ' + strings[4])
             else:
-                blank['voice'] = strings[2]
+                try:
+                    blank['voice'] = strings[2]
+                except IndexError:
+                    blank['voice'] = "Not yet recorded."
         if "Entry" in i.text:
             strings = list(i.stripped_strings)
             blank['origin'] = strings[1]
