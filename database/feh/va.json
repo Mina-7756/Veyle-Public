@@ -1291,7 +1291,13 @@
       "Normal Faye",
       "Normal Hortensia",
       "Arm Hortensia",
-      "Faye: Drawn Heartstring"
+      "Faye: Drawn Heartstring",
+      "Winter's Dearest",
+      "Hortensia: Winter's Dearest",
+      "Winter Hortensia",
+      "Christmas Hortensia",
+      "W Hortensia",
+      "hortensia2"
     ],
     "HARD_ALT_NAME": [
       "Valentine Efi",
@@ -1324,13 +1330,20 @@
       "faye",
       "Normal Faye",
       "Normal Hortensia",
-      "Arm Hortensia"
+      "Arm Hortensia",
+      "Winter's Dearest",
+      "Hortensia: Winter's Dearest",
+      "Winter Hortensia",
+      "Christmas Hortensia",
+      "W Hortensia",
+      "hortensia2"
     ],
     "heroes": {
       "faye": "<:Colorless_Bow:1124845636659982457>Faye",
       "faye2": "<:Colorless_Bow:1124845636659982457>Valentines Faye",
       "fayeR": "<:Colorless_Bow:1124845636659982457>Faye (Resplendent)",
-      "hortensia": "<:Colorless_Staff:1124845704444137592>Rearmed Hortensia"
+      "hortensia": "<:Colorless_Staff:1124845704444137592>Rearmed Hortensia",
+      "hortensia2": "<:Colorless_Staff:1124845704444137592>Winter Hortensia"
     },
     "name": "Amber Connor"
   },
@@ -7872,7 +7885,14 @@
       "Summer Female Shez",
       "Summer Shez Female",
       "Summer F Shez",
-      "Summer Shez F"
+      "Summer Shez F",
+      "Snowfield Envoy",
+      "Shez: Snowfield Envoy",
+      "Winter Shez",
+      "Winter Female Shez",
+      "Christmas Shez",
+      "W Shez",
+      "shez7"
     ],
     "HARD_ALT_NAME": [
       "ullr",
@@ -7961,12 +7981,20 @@
       "Summer Shez",
       "Summer Shez Female",
       "Summer F Shez",
-      "Summer Shez F"
+      "Summer Shez F",
+      "Snowfield Envoy",
+      "Shez: Snowfield Envoy",
+      "Winter Shez",
+      "Winter Female Shez",
+      "Christmas Shez",
+      "W Shez",
+      "shez7"
     ],
     "heroes": {
       "shez2": "<:Green_Axe:1124845885277343754>Female Shez",
       "shez3": "<:Blue_Dagger:1124845543026335764>Legendary Female Shez",
       "shez4": "<:Red_Sword:1124846201070698536>Summer Female Shez",
+      "shez7": "<:Green_Dagger:1124845796169351320>Winter Female Shez",
       "ullr": "<:Blue_Bow:1124845525695475845>Ullr"
     },
     "name": "Dawn M. Bennett"
@@ -29112,6 +29140,58 @@
       "Rearm pjazi",
       "Arm pjazi",
       "pjazi"
+    ]
+  },
+  "notyetrecorded": {
+    "heroes": {
+      "alear6": "<:Blue_Breath:1124845312637403236>Winter Duo Alear",
+      "eik\u00feyrnir2": "<:Blue_Beast:1124845338688233575>Winter Eik\u00feyrnir",
+      "fomortiis2": "<:Red_Beast:1124846309208248381>Winter Fomortiis"
+    },
+    "name": "Not yet recorded.",
+    "ALT_NAME": [
+      "Dark of Night",
+      "Fomortiis: Dark of Night",
+      "Winter Fomortiis",
+      "Christmas Fomortiis",
+      "W Fomortiis",
+      "fomortiis2",
+      "Gifted Dragons",
+      "Alear: Gifted Dragons",
+      "Winter Alear",
+      "Winter Duo Alear",
+      "Christmas Alear",
+      "Christmas Duo Alear",
+      "W Alear",
+      "alear6",
+      "Blessed Strength",
+      "Eik\u00feyrnir: Blessed Strength",
+      "Winter Eik\u00feyrnir",
+      "Christmas Eik\u00feyrnir",
+      "W Eik\u00feyrnir",
+      "eik\u00feyrnir2"
+    ],
+    "HARD_ALT_NAME": [
+      "Dark of Night",
+      "Fomortiis: Dark of Night",
+      "Winter Fomortiis",
+      "Christmas Fomortiis",
+      "W Fomortiis",
+      "fomortiis2",
+      "Gifted Dragons",
+      "Alear: Gifted Dragons",
+      "Winter Alear",
+      "Winter Duo Alear",
+      "Christmas Alear",
+      "Christmas Duo Alear",
+      "W Alear",
+      "alear6",
+      "Blessed Strength",
+      "Eik\u00feyrnir: Blessed Strength",
+      "Winter Eik\u00feyrnir",
+      "Christmas Eik\u00feyrnir",
+      "W Eik\u00feyrnir",
+      "eik\u00feyrnir2"
     ]
   }
 }

@@ -4028,7 +4028,13 @@
       "Base Nidavellir",
       "Normal Nidavellir",
       "Regular Nidavellir",
-      "nidavellir"
+      "nidavellir",
+      "Dark of Night",
+      "Fomortiis: Dark of Night",
+      "Winter Fomortiis",
+      "Christmas Fomortiis",
+      "W Fomortiis",
+      "fomortiis2"
     ],
     "HARD_ALT_NAME": [
       "New Experiences",
@@ -4319,12 +4325,19 @@
       "Base Nidavellir",
       "Normal Nidavellir",
       "Regular Nidavellir",
-      "nidavellir"
+      "nidavellir",
+      "Dark of Night",
+      "Fomortiis: Dark of Night",
+      "Winter Fomortiis",
+      "Christmas Fomortiis",
+      "W Fomortiis",
+      "fomortiis2"
     ],
     "heroes": {
       "ashnard": "<:Red_Sword:1124846201070698536>Fallen Ashnard",
       "blackknight": "<:Red_Sword:1124846201070698536>Black Knight",
       "fomortiis": "<:Colorless_Beast:1124845615935918110>Fomortiis",
+      "fomortiis2": "<:Red_Beast:1124846309208248381>Winter Fomortiis",
       "greil": "<:Green_Axe:1124845885277343754>Valentines Greil",
       "gustav": "<:Green_Axe:1124845885277343754>Valentines Gustav",
       "hardin": "<:Blue_Lance:1124845569496584302>Hardin",
@@ -27249,7 +27262,8 @@
   },
   "takubon": {
     "heroes": {
-      "lumera3": "<:Red_Breath:1124846247673610240>Rearmed Lumera"
+      "lumera3": "<:Red_Breath:1124846247673610240>Rearmed Lumera",
+      "shez7": "<:Green_Dagger:1124845796169351320>Winter Female Shez"
     },
     "name": "TAKUBON",
     "ALT_NAME": [
@@ -27262,7 +27276,14 @@
       "Rearm Lumera",
       "Arm Lumera",
       "lumera3",
-      "\u305f\u304f\u307c\u3093"
+      "\u305f\u304f\u307c\u3093",
+      "Snowfield Envoy",
+      "Shez: Snowfield Envoy",
+      "Winter Shez",
+      "Winter Female Shez",
+      "Christmas Shez",
+      "W Shez",
+      "shez7"
     ],
     "HARD_ALT_NAME": [
       "Corrupted Dragon",
@@ -27273,7 +27294,14 @@
       "Rearmed Lumera",
       "Rearm Lumera",
       "Arm Lumera",
-      "lumera3"
+      "lumera3",
+      "Snowfield Envoy",
+      "Shez: Snowfield Envoy",
+      "Winter Shez",
+      "Winter Female Shez",
+      "Christmas Shez",
+      "W Shez",
+      "shez7"
     ]
   },
   "shibayamawankuro": {
@@ -27633,6 +27661,76 @@
       "Ninja Celine",
       "N Celine",
       "celine2"
+    ]
+  },
+  "xieshaneishi": {
+    "heroes": {
+      "alear6": "<:Blue_Breath:1124845312637403236>Winter Duo Alear"
+    },
+    "name": "\u8449\u5c71\u3048\u3044\u3057",
+    "ALT_NAME": [
+      "Gifted Dragons",
+      "Alear: Gifted Dragons",
+      "Winter Alear",
+      "Winter Duo Alear",
+      "Christmas Alear",
+      "Christmas Duo Alear",
+      "W Alear",
+      "alear6"
+    ],
+    "HARD_ALT_NAME": [
+      "Gifted Dragons",
+      "Alear: Gifted Dragons",
+      "Winter Alear",
+      "Winter Duo Alear",
+      "Christmas Alear",
+      "Christmas Duo Alear",
+      "W Alear",
+      "alear6"
+    ]
+  },
+  "ppoco": {
+    "heroes": {
+      "eik\u00feyrnir2": "<:Blue_Beast:1124845338688233575>Winter Eik\u00feyrnir"
+    },
+    "name": "P-POCO",
+    "ALT_NAME": [
+      "Blessed Strength",
+      "Eik\u00feyrnir: Blessed Strength",
+      "Winter Eik\u00feyrnir",
+      "Christmas Eik\u00feyrnir",
+      "W Eik\u00feyrnir",
+      "eik\u00feyrnir2"
+    ],
+    "HARD_ALT_NAME": [
+      "Blessed Strength",
+      "Eik\u00feyrnir: Blessed Strength",
+      "Winter Eik\u00feyrnir",
+      "Christmas Eik\u00feyrnir",
+      "W Eik\u00feyrnir",
+      "eik\u00feyrnir2"
+    ]
+  },
+  "boren": {
+    "heroes": {
+      "hortensia2": "<:Colorless_Staff:1124845704444137592>Winter Hortensia"
+    },
+    "name": "\u9262\u4eba",
+    "ALT_NAME": [
+      "Winter's Dearest",
+      "Hortensia: Winter's Dearest",
+      "Winter Hortensia",
+      "Christmas Hortensia",
+      "W Hortensia",
+      "hortensia2"
+    ],
+    "HARD_ALT_NAME": [
+      "Winter's Dearest",
+      "Hortensia: Winter's Dearest",
+      "Winter Hortensia",
+      "Christmas Hortensia",
+      "W Hortensia",
+      "hortensia2"
     ]
   }
 }
