@@ -7892,6 +7892,7 @@
       "Winter Female Shez",
       "Christmas Shez",
       "W Shez",
+      "W F Shez",
       "shez7"
     ],
     "HARD_ALT_NAME": [
@@ -7988,6 +7989,7 @@
       "Winter Female Shez",
       "Christmas Shez",
       "W Shez",
+      "W F Shez",
       "shez7"
     ],
     "heroes": {
@@ -29167,8 +29169,14 @@
       "Blessed Strength",
       "Eik\u00feyrnir: Blessed Strength",
       "Winter Eik\u00feyrnir",
+      "Winter Eikthyrnir",
+      "Winter Eiki",
       "Christmas Eik\u00feyrnir",
+      "Christmas Eikthyrnir",
+      "Christmas Eiki",
       "W Eik\u00feyrnir",
+      "W Eikthyrnir",
+      "W Eiki",
       "eik\u00feyrnir2"
     ],
     "HARD_ALT_NAME": [
@@ -29189,8 +29197,14 @@
       "Blessed Strength",
       "Eik\u00feyrnir: Blessed Strength",
       "Winter Eik\u00feyrnir",
+      "Winter Eikthyrnir",
+      "Winter Eiki",
       "Christmas Eik\u00feyrnir",
+      "Christmas Eikthyrnir",
+      "Christmas Eiki",
       "W Eik\u00feyrnir",
+      "W Eikthyrnir",
+      "W Eiki",
       "eik\u00feyrnir2"
     ]
   }

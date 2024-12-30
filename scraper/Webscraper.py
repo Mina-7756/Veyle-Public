@@ -65,6 +65,7 @@ def scrape_page(page_name, alts=None):
     blank['artist'] = art[5]
     blank['description'] = list(wiki_info[2].stripped_strings)[1]
 
+    # This doesn't appear in wiki_info, so we have to grab it from the whole mess of soup. It's a page category.
     if "Female units" in soup.text:
         blank['gender'] = 'F'
     if "Male units" in soup.text:
@@ -154,13 +155,7 @@ def scrape_page(page_name, alts=None):
             blank['origin'] = ' + '.join(strings)
         if "Version" in i.text:
             strings = list(i.stripped_strings)
-            ver = strings[1].split('.')[0]
-
-            month = datetime.now().month
-            if (month == 12):
-                month = 0
-            
-            blank['version'] = ver + '.' + str(month)
+            blank['version'] = strings[1]
         if "Internal" in i.text and 'Enemy' not in i.text:
             strings = list(i.stripped_strings)
             blank['internal_id'] = strings[1]

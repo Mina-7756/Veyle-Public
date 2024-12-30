@@ -133044,12 +133044,12 @@
     "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
-      "Christmas Fomortiis",
-      "W Fomortiis",
-      "fomortiis2",
       "Winter Fomortiis",
+      "Christmas Fomortiis",
+      "Dark of Night",
       "Fomortiis: Dark of Night",
-      "Dark of Night"
+      "fomortiis2",
+      "W Fomortiis"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -133142,13 +133142,13 @@
     "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
+      "alear6",
+      "Alear: Gifted Dragons",
       "Winter Alear",
-      "Christmas Alear",
       "Christmas Duo Alear",
       "W Alear",
-      "alear6",
+      "Christmas Alear",
       "Winter Duo Alear",
-      "Alear: Gifted Dragons",
       "Gifted Dragons"
     ],
     "ALT_NAME": [],
@@ -133377,11 +133377,17 @@
     "icon": false,
     "HARD_ALT_NAME": [
       "Christmas Eik\u00feyrnir",
+      "W Eikthyrnir",
+      "W Eiki",
+      "Eik\u00feyrnir: Blessed Strength",
       "eik\u00feyrnir2",
-      "Winter Eik\u00feyrnir",
+      "Christmas Eikthyrnir",
+      "Winter Eikthyrnir",
+      "Winter Eiki",
       "W Eik\u00feyrnir",
+      "Winter Eik\u00feyrnir",
       "Blessed Strength",
-      "Eik\u00feyrnir: Blessed Strength"
+      "Christmas Eiki"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -133413,13 +133419,14 @@
     "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
-      "Winter Shez",
-      "Winter Female Shez",
       "Shez: Snowfield Envoy",
+      "Christmas Shez",
+      "Winter Female Shez",
       "W Shez",
-      "shez7",
+      "W F Shez",
+      "Winter Shez",
       "Snowfield Envoy",
-      "Christmas Shez"
+      "shez7"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
@@ -133520,12 +133527,12 @@
     "refine": {},
     "icon": false,
     "HARD_ALT_NAME": [
-      "hortensia2",
-      "Hortensia: Winter's Dearest",
-      "W Hortensia",
       "Winter Hortensia",
+      "hortensia2",
+      "Winter's Dearest",
       "Christmas Hortensia",
-      "Winter's Dearest"
+      "Hortensia: Winter's Dearest",
+      "W Hortensia"
     ],
     "ALT_NAME": [],
     "slot": "Weapon",
