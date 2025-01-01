@@ -1,6 +1,5 @@
 import requests
 import maps
-import datetime
 from datetime import datetime
 from bs4 import BeautifulSoup
 import json
@@ -29,15 +28,23 @@ def determine_key(name):
 
     return try_key, ref
 
-def scrape_page(page_name, alts=None):
+def scrape_page(page_name, alts=None, version=None):
     if alts is None:
         alts = ["Base, Normal, Regular"]
+    if version is None:
+        book = datetime.now().year - 2016
+        chapter = datetime.now().month
+        if chapter == 12:
+            chapter = 0
+            book += 1
+        version = f"{book}.{chapter}"
 
     maindis = ""
 
     with open('templates/blank.json', 'r') as f:
         template = json.load(f)
     blank = template
+    blank['version']= version
     # Follow the same steps for feheroes.fandom
     fandom = requests.get(f'https://feheroes.fandom.com{page_name}')
     soup = BeautifulSoup(fandom.text, 'html.parser')
@@ -153,9 +160,6 @@ def scrape_page(page_name, alts=None):
             strings = list(i.stripped_strings)
             strings.pop(0)
             blank['origin'] = ' + '.join(strings)
-        if "Version" in i.text:
-            strings = list(i.stripped_strings)
-            blank['version'] = strings[1]
         if "Internal" in i.text and 'Enemy' not in i.text:
             strings = list(i.stripped_strings)
             blank['internal_id'] = strings[1]
