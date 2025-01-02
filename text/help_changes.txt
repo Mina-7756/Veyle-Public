@@ -5,7 +5,7 @@ All of the commands can also be used via DMs!
 To use them, type `/` to see all of the available ones!
 To use the classic way (via text), do this:
 
-`@Veyle help`
+`@Ninian help`
 
 And a list of commands will be show!
 
