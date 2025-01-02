@@ -5117,7 +5117,14 @@
       "Aided Reginn",
       "A Reginn",
       "Aide Reginn",
-      "reginn3"
+      "reginn3",
+      "Of Blazing",
+      "Lyn: Of Blazing",
+      "Sniper Lyn",
+      "Emblem Lyn",
+      "Engage Lyn",
+      "E Lyn",
+      "lyn9"
     ],
     "HARD_ALT_NAME": [
       "Leg Myrrh",
@@ -5177,13 +5184,21 @@
       "Aided Reginn",
       "A Reginn",
       "Aide Reginn",
-      "reginn3"
+      "reginn3",
+      "Of Blazing",
+      "Lyn: Of Blazing",
+      "Sniper Lyn",
+      "Emblem Lyn",
+      "Engage Lyn",
+      "E Lyn",
+      "lyn9"
     ],
     "heroes": {
       "corrin14": "<:Colorless_Breath:1124845679076978798>Brave Corrin",
       "effie2": "<:Green_Axe:1124845885277343754>Valentines Effie",
       "hilda5": "<:Green_Axe:1124845885277343754>Ascended Fodlan Hilda",
       "lumera2": "<:Blue_Breath:1124845312637403236>Lumera",
+      "lyn9": "<:Green_Bow:1124845936426897428>Emblem Lyn",
       "myrrh4": "<:Blue_Breath:1124845312637403236>Legendary Myrrh",
       "reginn3": "<:Blue_Lance:1124845569496584302>Aided Reginn"
     },

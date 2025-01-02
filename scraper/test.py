@@ -18,15 +18,12 @@ with open(file, 'w') as fp:
 
 
 units = [
-    "Hector: Steel Warrior",
-    "Leila: Superb Shadow",
-    "Rune: Source of Wisdom",
-    "Uther: Frugal Militarist"
+    "Lyn: Of Blazing"
 ]
 
 
 
-alts = None     # uses defaults such as "normal" and "regular", use [] for no alts, maybe this is unintuitive.
+alts = ["Sniper"]  # 'None' (as in null) uses defaults such as "normal" and "regular". use [] for no alts. maybe this is unintuitive.
 #version = None  # will calculate the book & chapter the game is currently on when this is run
 #alts = ["Winter", "Christmas", "W"]
 version = "9.0"
