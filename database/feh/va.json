@@ -1291,7 +1291,13 @@
       "Normal Faye",
       "Normal Hortensia",
       "Arm Hortensia",
-      "Faye: Drawn Heartstring"
+      "Faye: Drawn Heartstring",
+      "Winter's Dearest",
+      "Hortensia: Winter's Dearest",
+      "Winter Hortensia",
+      "Christmas Hortensia",
+      "W Hortensia",
+      "hortensia2"
     ],
     "HARD_ALT_NAME": [
       "Valentine Efi",
@@ -1324,13 +1330,20 @@
       "faye",
       "Normal Faye",
       "Normal Hortensia",
-      "Arm Hortensia"
+      "Arm Hortensia",
+      "Winter's Dearest",
+      "Hortensia: Winter's Dearest",
+      "Winter Hortensia",
+      "Christmas Hortensia",
+      "W Hortensia",
+      "hortensia2"
     ],
     "heroes": {
       "faye": "<:Colorless_Bow:1124845636659982457>Faye",
       "faye2": "<:Colorless_Bow:1124845636659982457>Valentines Faye",
       "fayeR": "<:Colorless_Bow:1124845636659982457>Faye (Resplendent)",
-      "hortensia": "<:Colorless_Staff:1124845704444137592>Rearmed Hortensia"
+      "hortensia": "<:Colorless_Staff:1124845704444137592>Rearmed Hortensia",
+      "hortensia2": "<:Colorless_Staff:1124845704444137592>Winter Hortensia"
     },
     "name": "Amber Connor"
   },
@@ -7872,7 +7885,15 @@
       "Summer Female Shez",
       "Summer Shez Female",
       "Summer F Shez",
-      "Summer Shez F"
+      "Summer Shez F",
+      "Snowfield Envoy",
+      "Shez: Snowfield Envoy",
+      "Winter Shez",
+      "Winter Female Shez",
+      "Christmas Shez",
+      "W Shez",
+      "W F Shez",
+      "shez7"
     ],
     "HARD_ALT_NAME": [
       "ullr",
@@ -7961,12 +7982,21 @@
       "Summer Shez",
       "Summer Shez Female",
       "Summer F Shez",
-      "Summer Shez F"
+      "Summer Shez F",
+      "Snowfield Envoy",
+      "Shez: Snowfield Envoy",
+      "Winter Shez",
+      "Winter Female Shez",
+      "Christmas Shez",
+      "W Shez",
+      "W F Shez",
+      "shez7"
     ],
     "heroes": {
       "shez2": "<:Green_Axe:1124845885277343754>Female Shez",
       "shez3": "<:Blue_Dagger:1124845543026335764>Legendary Female Shez",
       "shez4": "<:Red_Sword:1124846201070698536>Summer Female Shez",
+      "shez7": "<:Green_Dagger:1124845796169351320>Winter Female Shez",
       "ullr": "<:Blue_Bow:1124845525695475845>Ullr"
     },
     "name": "Dawn M. Bennett"
@@ -17668,7 +17698,17 @@
       "Mending Hand",
       "Ratatoskr: Mending Hand",
       "Regular Ratatoskr",
-      "Normal Lara"
+      "Normal Lara",
+      "Sisters of Healing",
+      "Hei\u00f0r\u00fan: Sisters of Healing",
+      "New Year Hei\u00f0r\u00fan",
+      "New Years Hei\u00f0r\u00fan",
+      "NY Hei\u00f0r\u00fan",
+      "New Year Heidrun",
+      "New Years Heidrun",
+      "NY Heidrun",
+      "hei\u00f0r\u00fan2",
+      "heidrun2"
     ],
     "HARD_ALT_NAME": [
       "ratatouille",
@@ -17686,9 +17726,20 @@
       "Mending Hand",
       "Ratatoskr: Mending Hand",
       "Regular Ratatoskr",
-      "Normal Lara"
+      "Normal Lara",
+      "Sisters of Healing",
+      "Hei\u00f0r\u00fan: Sisters of Healing",
+      "New Year Hei\u00f0r\u00fan",
+      "New Years Hei\u00f0r\u00fan",
+      "NY Hei\u00f0r\u00fan",
+      "New Year Heidrun",
+      "New Years Heidrun",
+      "NY Heidrun",
+      "hei\u00f0r\u00fan2",
+      "heidrun2"
     ],
     "heroes": {
+      "heidrun2": "<:Colorless_Tome:1124845725960904734>New Year Hei\u00f0r\u00fan",
       "lara": "<:Red_Dagger:1124846223518605324>Lara",
       "ratatoskr": "<:Blue_Beast:1124845338688233575>Ratatoskr"
     },
@@ -20081,7 +20132,13 @@
       "Arm Dana",
       "Rearmed Turner",
       "Rearm Turner",
-      "Arm Turner"
+      "Arm Turner",
+      "Soaring New Year",
+      "Tana: Soaring New Year",
+      "New Year Tana",
+      "New Years Tana",
+      "NY Tana",
+      "tana6"
     ],
     "HARD_ALT_NAME": [
       "tana",
@@ -20181,7 +20238,13 @@
       "Arm Dana",
       "Rearmed Turner",
       "Rearm Turner",
-      "Arm Turner"
+      "Arm Turner",
+      "Soaring New Year",
+      "Tana: Soaring New Year",
+      "New Year Tana",
+      "New Years Tana",
+      "NY Tana",
+      "tana6"
     ],
     "heroes": {
       "maribelle": "<:Colorless_Staff:1124845704444137592>Maribelle",
@@ -20189,6 +20252,7 @@
       "tana3": "<:Blue_Lance:1124845569496584302>Young Tana",
       "tana4": "<:Green_Dagger:1124845796169351320>Harmonic Tana",
       "tana5": "<:Colorless_Bow:1124845636659982457>Rearmed Tana",
+      "tana6": "<:Red_Sword:1124846201070698536>New Year Tana",
       "tanaR": "<:Blue_Lance:1124845569496584302>Tana (Resplendent)"
     },
     "name": "Melissa Fahn"
@@ -21907,7 +21971,12 @@
       "Normal Doga",
       "Normal Mamori",
       "Mamori: Microwavin' Idol",
-      "Normal Bramimmond"
+      "Normal Bramimmond",
+      "Steel Warrior",
+      "Hector: Steel Warrior",
+      "Sword Hector",
+      "Attuned Hector",
+      "hector7"
     ],
     "HARD_ALT_NAME": [
       "Mysterious Knight",
@@ -22059,7 +22128,12 @@
       "Sirius",
       "Normal Bramimmond",
       "edrag1",
-      "M Brammimmond"
+      "M Brammimmond",
+      "Steel Warrior",
+      "Hector: Steel Warrior",
+      "Sword Hector",
+      "Attuned Hector",
+      "hector7"
     ],
     "heroes": {
       "basilio": "<:Green_Axe:1124845885277343754>Basilio",
@@ -22074,6 +22148,7 @@
       "hector4R": "<:Blue_Lance:1124845569496584302>Brave Hector (Resplendent)",
       "hector5": "<:Red_Sword:1124846201070698536>Duo Hector",
       "hector6": "<:Green_Axe:1124845885277343754>Young Hector",
+      "hector7": "<:Red_Sword:1124846201070698536>Attuned Hector",
       "hectorR": "<:Green_Axe:1124845885277343754>Hector (Resplendent)",
       "mamori": "<:Green_Axe:1124845885277343754>Mamori",
       "sirius": "<:Blue_Lance:1124845569496584302>Sirius",
@@ -26721,7 +26796,13 @@
       "Resplendent Micaiah",
       "Resp Micaiah",
       "R Micaiah",
-      "Micaiah (Resplendent)"
+      "Micaiah (Resplendent)",
+      "Source of Wisdom",
+      "Rune: Source of Wisdom",
+      "Base Rune",
+      "Normal Rune",
+      "Regular Rune",
+      "rune"
     ],
     "HARD_ALT_NAME": [
       "micaiah",
@@ -26785,7 +26866,13 @@
       "Resplendent Micaiah",
       "Resp Micaiah",
       "R Micaiah",
-      "Micaiah (Resplendent)"
+      "Micaiah (Resplendent)",
+      "Source of Wisdom",
+      "Rune: Source of Wisdom",
+      "Base Rune",
+      "Normal Rune",
+      "Regular Rune",
+      "rune"
     ],
     "heroes": {
       "manuela": "<:Red_Sword:1124846201070698536>Winter Manuela",
@@ -26797,7 +26884,8 @@
       "micaiah5": "<:Colorless_Tome:1124845725960904734>Legendary Micaiah",
       "micaiah6": "<:Colorless_Tome:1124845725960904734>Summer Micaiah",
       "micaiah7": "<:Green_Tome:1124845959873036289>Attuned Micaiah",
-      "micaiahR": "<:Blue_Tome:1124845593211191297>Micaiah (Resplendent)"
+      "micaiahR": "<:Blue_Tome:1124845593211191297>Micaiah (Resplendent)",
+      "rune": "<:Colorless_Tome:1124845725960904734>Rune"
     },
     "name": "Veronica Taylor"
   },
@@ -27078,7 +27166,14 @@
       "Y Emmeryn",
       "Baby Emmeryn",
       "Child Emmeryn",
-      "emmeryn2"
+      "emmeryn2",
+      "Of Blazing",
+      "Lyn: Of Blazing",
+      "Sniper Lyn",
+      "Emblem Lyn",
+      "Engage Lyn",
+      "E Lyn",
+      "lyn9"
     ],
     "HARD_ALT_NAME": [
       "Bride of the Plains",
@@ -27435,7 +27530,14 @@
       "Y Emmeryn",
       "Baby Emmeryn",
       "Child Emmeryn",
-      "emmeryn2"
+      "emmeryn2",
+      "Of Blazing",
+      "Lyn: Of Blazing",
+      "Sniper Lyn",
+      "Emblem Lyn",
+      "Engage Lyn",
+      "E Lyn",
+      "lyn9"
     ],
     "heroes": {
       "bramimond": "<:Colorless_Tome:1124845725960904734>Bramimond",
@@ -27449,6 +27551,7 @@
       "lyn6": "<:Blue_Bow:1124845525695475845>Summer Lyn",
       "lyn7": "<:Colorless_Dagger:1124845658617155734>Duo Lyn",
       "lyn8": "<:Blue_Lance:1124845569496584302>Flame Lyn",
+      "lyn9": "<:Green_Bow:1124845936426897428>Emblem Lyn",
       "lynR": "<:Red_Sword:1124846201070698536>Lyn (Resplendent)",
       "maria": "<:Colorless_Staff:1124845704444137592>Maria",
       "maria2": "<:Green_Axe:1124845885277343754>Spring Maria",
@@ -28753,7 +28856,8 @@
   },
   "bobcarter": {
     "heroes": {
-      "jarod": "<:Blue_Lance:1124845569496584302>Jarod"
+      "jarod": "<:Blue_Lance:1124845569496584302>Jarod",
+      "laeradr": "<:Colorless_Beast:1124845615935918110>L\u00e6ra\u00f0r"
     },
     "name": "Bob Carter",
     "ALT_NAME": [
@@ -28762,7 +28866,13 @@
       "Regular Jarod",
       "Base Jarod",
       "Normal Jarod",
-      "jarod"
+      "jarod",
+      "Quieting Heart",
+      "L\u00e6ra\u00f0r: Quieting Heart",
+      "Base L\u00e6ra\u00f0r",
+      "Normal L\u00e6ra\u00f0r",
+      "Regular L\u00e6ra\u00f0r",
+      "laeradr"
     ],
     "HARD_ALT_NAME": [
       "Nevassa General",
@@ -28770,7 +28880,13 @@
       "Regular Jarod",
       "Base Jarod",
       "Normal Jarod",
-      "jarod"
+      "jarod",
+      "Quieting Heart",
+      "L\u00e6ra\u00f0r: Quieting Heart",
+      "Base L\u00e6ra\u00f0r",
+      "Normal L\u00e6ra\u00f0r",
+      "Regular L\u00e6ra\u00f0r",
+      "laeradr"
     ]
   },
   "michaelsorich": {
@@ -28895,20 +29011,41 @@
   },
   "catprotano": {
     "heroes": {
-      "heidrun": "<:Green_Beast:1124845912385138738>Hei\u00f0r\u00fan"
+      "heidrun": "<:Green_Beast:1124845912385138738>Hei\u00f0r\u00fan",
+      "heidrun2": "<:Colorless_Tome:1124845725960904734>New Year Hei\u00f0r\u00fan"
     },
     "name": "Cat Protano",
     "ALT_NAME": [
       "Healing Nectar",
       "Hei\u00f0r\u00fan: Healing Nectar",
       "heidrun",
-      "heithrun"
+      "heithrun",
+      "Sisters of Healing",
+      "Hei\u00f0r\u00fan: Sisters of Healing",
+      "New Year Hei\u00f0r\u00fan",
+      "New Years Hei\u00f0r\u00fan",
+      "NY Hei\u00f0r\u00fan",
+      "New Year Heidrun",
+      "New Years Heidrun",
+      "NY Heidrun",
+      "hei\u00f0r\u00fan2",
+      "heidrun2"
     ],
     "HARD_ALT_NAME": [
       "Healing Nectar",
       "Hei\u00f0r\u00fan: Healing Nectar",
       "heidrun",
-      "heithrun"
+      "heithrun",
+      "Sisters of Healing",
+      "Hei\u00f0r\u00fan: Sisters of Healing",
+      "New Year Hei\u00f0r\u00fan",
+      "New Years Hei\u00f0r\u00fan",
+      "NY Hei\u00f0r\u00fan",
+      "New Year Heidrun",
+      "New Years Heidrun",
+      "NY Heidrun",
+      "hei\u00f0r\u00fan2",
+      "heidrun2"
     ]
   },
   "kenn": {
@@ -28948,7 +29085,8 @@
   },
   "justinelee": {
     "heroes": {
-      "hraesvelgr": "<:Blue_Beast:1124845338688233575>Hr\u00e6svelgr"
+      "hraesvelgr": "<:Blue_Beast:1124845338688233575>Hr\u00e6svelgr",
+      "hraesvelgr2": "<:Green_Beast:1124845912385138738>New Year Hr\u00e6svelgr"
     },
     "name": "Justine Lee",
     "ALT_NAME": [
@@ -28969,7 +29107,16 @@
       "M Hraesvelgr",
       "Mythical Hraesvelgr",
       "Legendary Hraesvelgr",
-      "hraesvelgr"
+      "hraesvelgr",
+      "Wings of Healing",
+      "Hr\u00e6svelgr: Wings of Healing",
+      "New Year Hr\u00e6svelgr",
+      "New Years Hr\u00e6svelgr",
+      "NY Hr\u00e6svelgr",
+      "New Year Hraesvelgr",
+      "New Years Hraesvelgr",
+      "NY Hraesvelgr",
+      "hraesvelgr2"
     ],
     "HARD_ALT_NAME": [
       "Quieting Blade",
@@ -28989,7 +29136,16 @@
       "M Hraesvelgr",
       "Mythical Hraesvelgr",
       "Legendary Hraesvelgr",
-      "hraesvelgr"
+      "hraesvelgr",
+      "Wings of Healing",
+      "Hr\u00e6svelgr: Wings of Healing",
+      "New Year Hr\u00e6svelgr",
+      "New Years Hr\u00e6svelgr",
+      "NY Hr\u00e6svelgr",
+      "New Year Hraesvelgr",
+      "New Years Hraesvelgr",
+      "NY Hraesvelgr",
+      "hraesvelgr2"
     ]
   },
   "coryyee": {
@@ -29112,6 +29268,166 @@
       "Rearm pjazi",
       "Arm pjazi",
       "pjazi"
+    ]
+  },
+  "notyetrecorded": {
+    "heroes": {
+      "alear6": "<:Blue_Breath:1124845312637403236>Winter Duo Alear",
+      "eik\u00feyrnir2": "<:Blue_Beast:1124845338688233575>Winter Eik\u00feyrnir",
+      "fomortiis2": "<:Red_Beast:1124846309208248381>Winter Fomortiis"
+    },
+    "name": "Not yet recorded.",
+    "ALT_NAME": [
+      "Dark of Night",
+      "Fomortiis: Dark of Night",
+      "Winter Fomortiis",
+      "Christmas Fomortiis",
+      "W Fomortiis",
+      "fomortiis2",
+      "Gifted Dragons",
+      "Alear: Gifted Dragons",
+      "Winter Alear",
+      "Winter Duo Alear",
+      "Christmas Alear",
+      "Christmas Duo Alear",
+      "W Alear",
+      "alear6",
+      "Blessed Strength",
+      "Eik\u00feyrnir: Blessed Strength",
+      "Winter Eik\u00feyrnir",
+      "Winter Eikthyrnir",
+      "Winter Eiki",
+      "Christmas Eik\u00feyrnir",
+      "Christmas Eikthyrnir",
+      "Christmas Eiki",
+      "W Eik\u00feyrnir",
+      "W Eikthyrnir",
+      "W Eiki",
+      "eik\u00feyrnir2"
+    ],
+    "HARD_ALT_NAME": [
+      "Dark of Night",
+      "Fomortiis: Dark of Night",
+      "Winter Fomortiis",
+      "Christmas Fomortiis",
+      "W Fomortiis",
+      "fomortiis2",
+      "Gifted Dragons",
+      "Alear: Gifted Dragons",
+      "Winter Alear",
+      "Winter Duo Alear",
+      "Christmas Alear",
+      "Christmas Duo Alear",
+      "W Alear",
+      "alear6",
+      "Blessed Strength",
+      "Eik\u00feyrnir: Blessed Strength",
+      "Winter Eik\u00feyrnir",
+      "Winter Eikthyrnir",
+      "Winter Eiki",
+      "Christmas Eik\u00feyrnir",
+      "Christmas Eikthyrnir",
+      "Christmas Eiki",
+      "W Eik\u00feyrnir",
+      "W Eikthyrnir",
+      "W Eiki",
+      "eik\u00feyrnir2"
+    ]
+  },
+  "anjalikunapaneni": {
+    "heroes": {
+      "nidhoggr": "<:Red_Beast:1124846309208248381>N\u00ed\u00f0h\u00f6ggr"
+    },
+    "name": "Anjali Kunapaneni",
+    "ALT_NAME": [
+      "Quieting Dose",
+      "N\u00ed\u00f0h\u00f6ggr: Quieting Dose",
+      "Base N\u00ed\u00f0h\u00f6ggr",
+      "Normal N\u00ed\u00f0h\u00f6ggr",
+      "Regular N\u00ed\u00f0h\u00f6ggr",
+      "nidhoggr"
+    ],
+    "HARD_ALT_NAME": [
+      "Quieting Dose",
+      "N\u00ed\u00f0h\u00f6ggr: Quieting Dose",
+      "Base N\u00ed\u00f0h\u00f6ggr",
+      "Normal N\u00ed\u00f0h\u00f6ggr",
+      "Regular N\u00ed\u00f0h\u00f6ggr",
+      "nidhoggr"
+    ]
+  },
+  "hikasayoko": {
+    "heroes": {
+      "leila3": "<:Colorless_Dagger:1124845658617155734>Rearmed Leila"
+    },
+    "name": "Hikasa Yoko (\u65e5\u7b20\u967d\u5b50)",
+    "ALT_NAME": [
+      "Superb Shadow",
+      "Leila: Superb Shadow",
+      "Rearmed Leila",
+      "Rearm Leila",
+      "Arm Leila",
+      "leila3"
+    ],
+    "HARD_ALT_NAME": [
+      "Superb Shadow",
+      "Leila: Superb Shadow",
+      "Rearmed Leila",
+      "Rearm Leila",
+      "Arm Leila",
+      "leila3"
+    ]
+  },
+  "byronpatrick": {
+    "heroes": {
+      "uther": "<:Green_Axe:1124845885277343754>Uther"
+    },
+    "name": "Byron Patrick",
+    "ALT_NAME": [
+      "Frugal Militarist",
+      "Uther: Frugal Militarist",
+      "Base Uther",
+      "Normal Uther",
+      "Regular Uther",
+      "Hector's Brother",
+      "uther"
+    ],
+    "HARD_ALT_NAME": [
+      "Frugal Militarist",
+      "Uther: Frugal Militarist",
+      "Base Uther",
+      "Normal Uther",
+      "Regular Uther",
+      "Hector's Brother",
+      "uther"
+    ]
+  },
+  "toyosakiaki": {
+    "heroes": {
+      "nnidhoggr2": "<:Blue_Beast:1124845338688233575>New Year N\u00ed\u00f0h\u00f6ggr"
+    },
+    "name": "Toyosaki Aki (\u8c4a\u5d0e\u611b\u751f)",
+    "ALT_NAME": [
+      "Daze of Healing",
+      "N\u00ed\u00f0h\u00f6ggr: Daze of Healing",
+      "New Year N\u00ed\u00f0h\u00f6ggr",
+      "New Years N\u00ed\u00f0h\u00f6ggr",
+      "NY N\u00ed\u00f0h\u00f6ggr",
+      "New Year Nidhoggr",
+      "New Years Nidhoggr",
+      "NY Nidhoggr",
+      "nidhoggr2"
+    ],
+    "HARD_ALT_NAME": [
+      "Daze of Healing",
+      "N\u00ed\u00f0h\u00f6ggr: Daze of Healing",
+      "New Year N\u00ed\u00f0h\u00f6ggr",
+      "New Years N\u00ed\u00f0h\u00f6ggr",
+      "NY N\u00ed\u00f0h\u00f6ggr",
+      "New Year Nidhoggr",
+      "New Years Nidhoggr",
+      "NY Nidhoggr",
+      "nidhoggr2"
     ]
   }
 }

@@ -1,0 +1,1024 @@
+{
+  "lilina6": {
+    "name": "Lilina",
+    "title": "Brilliant Flame",
+    "description": "Princess of House Ostia, a leader of the Lycian League. She fought through an ocean of chaos while being swept up in the currents of destiny. Appears in Fire Emblem: The Binding Blade.",
+    "origin": "The Binding Blade",
+    "artist": "HACCAN",
+    "move": "Infantry",
+    "weapon": "Tome",
+    "color": "Green",
+    "duel": false,
+    "id": "1166",
+    "type": "rearmed",
+    "version": "8.11",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 18,
+      "atk": 9,
+      "spd": 9,
+      "def": 4,
+      "res": 13
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 90,
+      "spd": 60,
+      "def": 30,
+      "res": 80
+    },
+    "superboon": [
+      "atk"
+    ],
+    "superbane": [
+      "hp",
+      "def"
+    ],
+    "weapons": {
+      "Wind": "1",
+      "Elwind": "2",
+      "Rexcalibur": "3",
+      "Arcane Truthfire": "5"
+    },
+    "assist": {},
+    "special": {
+      "Rising Flame": "3",
+      "Blazing Flame": "4",
+      "Gift for Magic": "5"
+    },
+    "passive": {
+      "A": {
+        "Warding Blow 1": "2",
+        "Mirror Strike 1": "3",
+        "Mirror Strike 2": "4",
+        "Sly Mirror": "5"
+      },
+      "B": {
+        "Poison Strike 1": "2",
+        "Poison Strike 2": "3",
+        "Poison Strike 3": "4",
+        "Occultist's Strike": "5"
+      },
+      "C": {
+        "Res Ploy 1": "2",
+        "Res Ploy 2": "3",
+        "Res Ploy 3": "4",
+        "Atk/Res Ploy 3": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e2/Lilina_Brilliant_Flame_Face.webp/revision/latest?cb=20241115043712",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/e/e7/Lilina_Brilliant_Flame_BtlFace_D.webp/revision/latest?cb=20241115043707",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a8/Lilina_Brilliant_Flame_BtlFace_C.webp/revision/latest?cb=20241115043702",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f4/Lilina_Brilliant_Flame_BtlFace.webp/revision/latest?cb=20241115043647"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Brilliant Flame",
+      "Lilina: Brilliant Flame",
+      "Rearmed Lilina",
+      "Rearm Lilina",
+      "Arm Lilina",
+      "lilina6"
+    ],
+    "HARD_ALT_NAME": [
+      "Brilliant Flame",
+      "Lilina: Brilliant Flame",
+      "Rearmed Lilina",
+      "Rearm Lilina",
+      "Arm Lilina",
+      "lilina6"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u9b54\u5668\u30ea\u30ea\u30fc\u30ca",
+    "voice": "Julie Kliewer",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": "fe6",
+    "quotes": {
+      "Castle Hall": [
+        "As the daughter of Hector, I refuse to run from battle.",
+        "It is said that although he was small of frame, the hero Roland wielded Durandal with ease, despite its size.",
+        "Princess Guinivere... She is wise and so noble. Anything I can do to aid her strength, I will.",
+        "Both Bors and Cecilia feel that we all grow as our station warrants and by meeting the challenges ahead of us.",
+        "When we finally reunited, Roy gave me this magic tome. It is...precious to me."
+      ],
+      "Visit": [
+        "Please, keep watching over [F]."
+      ],
+      "Level": [
+        "Father... Please, watch over me.",
+        "I am the daughter of a warrior. I will not falter in battle.",
+        "I won't be able to protect everyone unless I fight. Still...have I truly readied myself for what that means?"
+      ],
+      "Summon": [
+        "My name is Lilina. With my magic, I hope to help as many as I can."
+      ],
+      "Learn Skill": [
+        "I hope to learn more about you\u2014not your past or the status you were born into, but about who you are now."
+      ],
+      "Confession": [
+        "In the humans' battle against dragons, powerful legendary weapons have been passed down through the ages.\nOstia's first leader, and my ancestor, Roland, inherited the mighty blade Durandal, the sword of sacred fire.\nAfter the Scouring, Roland returned to his homeland, Ostia, and thrust his blade toward the sky in victory.\nIt is said that in that moment, the land that had been decimated by war was not just saved, but healed.\nI believe the power of these weapons can bring about both destruction and prosperity.\nWith my anima magic and your guidance, I hope to aid as many people as I can. Just as Roland did."
+      ],
+      "Special": [
+        "Using this power...",
+        "I am with you!",
+        "For your sake...",
+        "Raging inferno!"
+      ],
+      "Status": [
+        "Oh!",
+        "With this new tome, I can use my skills to greater advantage in battle!",
+        "Ah! Come on now, Roy... Oh, it's you?",
+        "Should I be wearing such an impressive outfit? Yes! I will endeavor to become equally impressive.",
+        "I've been supplementing my studies by learning from the mages in the Order of Heroes.",
+        "I wonder what my father would say if he could see how my power has grown.",
+        "I won't be pushed aside by some other girl!",
+        "I promise to be by your side, now and on into the future."
+      ],
+      "Map Select": [
+        "You mean this way?",
+        "Oh...",
+        "I'll keep my guard up."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Rearmed Lilina",
+    "SEARCH_NAME": "Rearmed Lilina",
+    "DISPLAY_NAME": "<:Green_Tome:1124845959873036289>Rearmed Lilina",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [
+      "lilina",
+      "lilina2",
+      "lilina3",
+      "lilina4",
+      "lilina5"
+    ],
+    "prf": {
+      "": "arcanetruthfire",
+      "eff": "arcanetruthfire",
+      "atk": "arcanetruthfire",
+      "spd": "arcanetruthfire",
+      "def": "arcanetruthfire",
+      "res": "arcanetruthfire"
+    }
+  },
+  "zeiss": {
+    "name": "Zeiss",
+    "title": "Ebon Bolt",
+    "description": "A wyvern rider of Bern. The younger brother of Melady, who is ever by Princess Guinivere's side. Appears in Fire Emblem: The Binding Blade.",
+    "origin": "The Binding Blade",
+    "artist": "HAGIYA Kaoru (\u8429\u8c37\u85ab)",
+    "move": "Flying",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": false,
+    "id": "1171",
+    "type": false,
+    "version": "8.11",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 19,
+      "atk": 13,
+      "spd": 6,
+      "def": 11,
+      "res": 6
+    },
+    "growth": {
+      "hp": 55,
+      "atk": 80,
+      "spd": 70,
+      "def": 70,
+      "res": 45
+    },
+    "superboon": [
+      "spd",
+      "def",
+      "res"
+    ],
+    "superbane": [],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Reversal Lance": "3",
+      "Reversal Lance+": "5"
+    },
+    "assist": {},
+    "special": {
+      "Dragon Gaze": "3",
+      "Dragon Fang": "4"
+    },
+    "passive": {
+      "A": {
+        "Atk/Def Clash 1": "3",
+        "Atk/Def Clash 2": "4",
+        "Atk/Def Clash 3": "5"
+      },
+      "B": {},
+      "C": {
+        "Air Orders 1": "1",
+        "Air Orders 2": "2",
+        "Air Orders 3": "4"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/81/Zeiss_Ebon_Bolt_Face.webp/revision/latest?cb=20241115043932",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/75/Zeiss_Ebon_Bolt_BtlFace_D.webp/revision/latest?cb=20241115043927",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/bc/Zeiss_Ebon_Bolt_BtlFace_C.webp/revision/latest?cb=20241115043922",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c3/Zeiss_Ebon_Bolt_BtlFace.webp/revision/latest?cb=20241115043907"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Ebon Bolt",
+      "Zeiss: Ebon Bolt",
+      "Base Zeiss",
+      "Normal Zeiss",
+      "Regular Zeiss",
+      "zeiss"
+    ],
+    "HARD_ALT_NAME": [
+      "Ebon Bolt",
+      "Zeiss: Ebon Bolt",
+      "Base Zeiss",
+      "Normal Zeiss",
+      "Regular Zeiss",
+      "zeiss"
+    ],
+    "gender": "M",
+    "rarity": 3,
+    "pool": "grail",
+    "internal_id": "PID_\u30c4\u30a1\u30a4\u30b9",
+    "voice": "Cory Yee",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": "fe6",
+    "quotes": {
+      "Castle Hall": [
+        "So Galle was telling the truth... I am still not completely convinced, but... I do believe Melady.",
+        "I've decided to see Lady Guinivere's will through to the end, even if it means fighting against my country.",
+        "Elen hails from the same town I do, so I feel a certain responsibility to protect her.",
+        "Are you...going to eat now? Do you mind if I join you, [S]?",
+        "I am a wyvern rider of Bern. And after I aid Princess Guinivere, I will return one day with my head held high!"
+      ],
+      "Visit": [
+        "I come bearing supplies from [F]'s castle."
+      ],
+      "Level": [
+        "Zeiss, abandon your doubts... You must be stronger and crush those who stand in your path!",
+        "With pride, for the wyvern riders of Bern!",
+        "I charged ahead using purely my momentum, without even thinking... There is still so much for me to learn."
+      ],
+      "Summon": [
+        "I am Zeiss, a wyvern rider of Bern. I am on the run since being accused of treason, but...I have faith in this path."
+      ],
+      "Learn Skill": [
+        "My sister has always been the one to protect me... I must get stronger so that I can protect her for once."
+      ],
+      "Confession": [
+        "Not long before I came here, I was fighting against someone I called a brother... Galle, another wyvern rider.\nHis skill was equal to that of the three Wyvern Generals of Bern. I looked up to him, aspired to be like him...\nMy sister was also quite fond of him. I... I never thought we would fight against one another...\nI know... \"One must carve their own path.\" Even though I did abandon my homeland, I have no regrets.\nI will keep moving forward on this path. And one day, I wish to be as strong as Galle!"
+      ],
+      "Special": [
+        "I must be stronger!",
+        "You disgraceful...",
+        "Have you no pride?!",
+        "I regret nothing."
+      ],
+      "Status": [
+        "Ah...",
+        "I am Zeiss, a wyvern knight of Bern.",
+        "*startle* Oh, it's you. I was worried Sin was targeting me with his bow again.",
+        "I did abandon my homeland of Bern, but...I have no regrets.",
+        "I need to ascertain for myself how Lady Guinivere's convictions can be worthy of my sister's unbridled faith.",
+        "Galle was like my true brother, someone I looked up to and aspired to become.",
+        "I will get stronger for my sister. I want to be the one to protect her for once.",
+        "I want to stay by your side and protect you until the end. Would that...be all right with you?"
+      ],
+      "Map Select": [
+        "Good idea.",
+        "Oh?",
+        "I trust you."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Zeiss",
+    "SEARCH_NAME": "Zeiss",
+    "DISPLAY_NAME": "<:Blue_Lance:1124845569496584302>Zeiss",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "reversallance",
+      "eff": "reversallance",
+      "atk": "reversallance",
+      "spd": "reversallance",
+      "def": "reversallance",
+      "res": "reversallance"
+    }
+  },
+  "bors": {
+    "name": "Bors",
+    "title": "Ostia's Bastion",
+    "description": "A heavily armored knight dispatched to escort Lilina. On her request, he agreed to stay with Roy and loyally fight beside him. Appears in Fire Emblem: The Binding Blade.",
+    "origin": "The Binding Blade",
+    "artist": "Soeda Ippei (\u6dfb\u7530\u4e00\u5e73)",
+    "move": "Armored",
+    "weapon": "Lance",
+    "color": "Blue",
+    "duel": false,
+    "id": "1169",
+    "type": false,
+    "version": "8.11",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 21,
+      "atk": 17,
+      "spd": 8,
+      "def": 9,
+      "res": 6
+    },
+    "growth": {
+      "hp": 70,
+      "atk": 70,
+      "spd": 60,
+      "def": 90,
+      "res": 45
+    },
+    "superboon": [
+      "hp",
+      "atk",
+      "def",
+      "res"
+    ],
+    "superbane": [],
+    "weapons": {
+      "Iron Lance": "1",
+      "Steel Lance": "2",
+      "Doubler Lance": "3",
+      "Doubler Lance+": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4"
+    },
+    "passive": {
+      "A": {
+        "Atk/Def Form 1": "1",
+        "Atk/Def Form 2": "2",
+        "Atk/Def Form 3": "4"
+      },
+      "B": {
+        "Vengeful Fighter 1": "3",
+        "Vengeful Fighter 2": "4",
+        "Vengeful Fighter 3": "5"
+      },
+      "C": {},
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3d/Bors_Ostias_Bastion_Face.webp/revision/latest?cb=20241115043822",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4f/Bors_Ostias_Bastion_BtlFace_D.webp/revision/latest?cb=20241115043817",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7d/Bors_Ostias_Bastion_BtlFace_C.webp/revision/latest?cb=20241115043812",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/62/Bors_Ostias_Bastion_BtlFace.webp/revision/latest?cb=20241115043757"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Ostia's Bastion",
+      "Bors: Ostia's Bastion",
+      "Base Bors",
+      "Normal Bors",
+      "Regular Bors",
+      "bors"
+    ],
+    "HARD_ALT_NAME": [
+      "Ostia's Bastion",
+      "Bors: Ostia's Bastion",
+      "Base Bors",
+      "Normal Bors",
+      "Regular Bors",
+      "bors"
+    ],
+    "gender": "M",
+    "rarity": 3,
+    "pool": "global",
+    "internal_id": "PID_\u30dc\u30fc\u30eb\u30b9",
+    "voice": "Jalen K. Cassell",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": "fe6",
+    "quotes": {
+      "Castle Hall": [
+        "I want my sister to think of her own happiness rather than dwelling on thoughts of conflict and war.",
+        "People grow as their station requires, but this does not change the essence of who they are.",
+        "I am not impressed by arenas. As a knight, I cannot condone making battle into entertainment for profit.",
+        "Remaining ever wary is part of a knight's duty. Do not let my vigilance concern you.",
+        "I have known Barthe since I took my knightly vows. If one of us is showing off, the other will see through it."
+      ],
+      "Visit": [
+        "I was asked to deliver this with the message \"Wishing you all the best\" from [F]."
+      ],
+      "Level": [
+        "The armored knights of Ostia use their armor as a shield to protect those precious to them.",
+        "Battles should be carried out with purpose. There is no such thing as a battle for the sake of it.",
+        "How is Gwendolyn? Is she eating well? Has she been injured? Does her armor weigh heavy upon her?"
+      ],
+      "Summon": [
+        "I am Bors, an armored knight of Ostia. I will protect you as ordered by the lady Lilina."
+      ],
+      "Learn Skill": [
+        "I am thankful for this."
+      ],
+      "Confession": [
+        "I was ordered to protect Lady Lilina, the marquess's daughter, and ensure her safe return to Ostia.\nAt Lilina's insistence, I accompanied Lord Roy, who stood at the head of the Lycian League's army.\nLady Lilina is akin to Lord Hector in her strength of will. They both have an innate desire to protect everyone...\nBecause of this, I am proud to be an armored knight of Ostia, sworn to protect my lady and her people.\nI shall be a shield to deflect hardship for the sake of the world my master, she who leads Ostia, wishes to forge."
+      ],
+      "Special": [
+        "Be the strongest shield!",
+        "In Lord Hector's memory!",
+        "Advancing!",
+        "I will clear the way!"
+      ],
+      "Status": [
+        "Ah, haha!",
+        "I am Bors, a knight of Ostia",
+        "Oh!? That was you then? I was afraid it might be my sister stopping by.",
+        "I am a knight who has chosen to give his loyalty to Lady Lilina.",
+        "Hm... I am pleased to see how Lord Roy has grown from all his experience.",
+        "We lost our Lord Hector. The responsibility for that loss is one we must bear together.",
+        "Have you seen Gwendolyn? No, I am not trying to find her...not exactly.",
+        "I swear to stand by your side and to protect you."
+      ],
+      "Map Select": [
+        "Yes.",
+        "Your orders?",
+        "I will go!"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Bors",
+    "SEARCH_NAME": "Bors",
+    "DISPLAY_NAME": "<:Blue_Lance:1124845569496584302>Bors",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "doublerlance",
+      "eff": "doublerlance",
+      "atk": "doublerlance",
+      "spd": "doublerlance",
+      "def": "doublerlance",
+      "res": "doublerlance"
+    }
+  },
+  "elffin": {
+    "name": "Elffin",
+    "title": "Truth Beholden",
+    "description": "A supporter of the resistance fighters in the west, he lives as a mysterious bard. But his true identity is that of Prince Myrddin of Etruria. Appears in Fire Emblem: The Binding Blade.",
+    "origin": "The Binding Blade",
+    "artist": "PavilionUshima (\u30d1\u30d3\u30ea\u30aa\u30f3\u53f3\u5cf6)",
+    "move": "Infantry",
+    "weapon": "Tome",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1168",
+    "type": false,
+    "version": "8.11",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 15,
+      "atk": 3,
+      "spd": 14,
+      "def": 6,
+      "res": 7
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 40,
+      "spd": 75,
+      "def": 50,
+      "res": 90
+    },
+    "superboon": [
+      "res"
+    ],
+    "superbane": [
+      "hp",
+      "spd",
+      "def"
+    ],
+    "weapons": {
+      "Stone": "1",
+      "Elstone": "2",
+      "Atlas": "3",
+      "Light of Etruria": "5"
+    },
+    "assist": {
+      "Play": "3"
+    },
+    "special": {},
+    "passive": {
+      "A": {},
+      "B": {
+        "Atk Cantrip 1": "2",
+        "Atk Cantrip 2": "3",
+        "Atk Cantrip 3": "4",
+        "A/R Cantrip 3": "5"
+      },
+      "C": {
+        "Inf. Null Follow 1": "2",
+        "Inf. Null Follow 2": "3",
+        "Inf. Null Follow 3": "4",
+        "Inf. Null Follow 4": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f2/Elffin_Truth_Beholden_Face.webp/revision/latest?cb=20241115043747",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d4/Elffin_Truth_Beholden_BtlFace_D.webp/revision/latest?cb=20241115043742",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/2d/Elffin_Truth_Beholden_BtlFace_C.webp/revision/latest?cb=20241115043737",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/84/Elffin_Truth_Beholden_BtlFace.webp/revision/latest?cb=20241115043722"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Truth Beholden",
+      "Elffin: Truth Beholden",
+      "Base Elffin",
+      "Normal Elffin",
+      "Regular Elffin",
+      "elffin"
+    ],
+    "HARD_ALT_NAME": [
+      "Truth Beholden",
+      "Elffin: Truth Beholden",
+      "Base Elffin",
+      "Normal Elffin",
+      "Regular Elffin",
+      "elffin"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "global",
+    "internal_id": "PID_\u30a8\u30eb\u30d5\u30a3\u30f3",
+    "voice": "Kayleigh McKee",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": "fe6",
+    "quotes": {
+      "Castle Hall": [
+        "Oh... My eyes...",
+        "A blow to the Etrurian government is necessary in order to save those across the Western Isles.",
+        "It is best to take a breath and rest a moment before one pushes too far.",
+        "My eyesight is still hindered at times... It is an aftereffect of the poison...\nPlease, do not concern yourself. I need but a moment to recover.",
+        "Though he is young, Roy understands the people. With him as leader, the future is bright."
+      ],
+      "Visit": [
+        "I am a traveling bard who mends the hearts of those scarred from battle. Care to listen to a soothing melody?"
+      ],
+      "Level": [
+        "When I awoke from the brink of death, I did not recognize the world. Perhaps it always looked this way.",
+        "Shh! We never know where the enemy spies may hide. I am a mere bard...as I have always been.",
+        "I must eliminate my father's fear of losing me. Once that is gone, I will see him again."
+      ],
+      "Summon": [
+        "I am Elffin, a bard. It is an honor to make your acquaintance. May I interest you in a song?"
+      ],
+      "Learn Skill": [
+        "At some point this fighting will end. And when that time comes, what shall I do then?"
+      ],
+      "Confession": [
+        "I once died in the most literal sense. My horse was shot, and I was thrown off and struck by a poisoned arrow.\nGeneral Douglas reported me fallen and arranged for my escape to the Western Isles. He...saved me.\nI teetered between life and death with a high fever. And at some point, the poison affected my sight as well.\nWhen I finally opened my eyes, I saw the Etrurian aristocrats' countless abuses against those in the west.\nI was ashamed of myself and my country. I regarded my misfortune as punishment for my ignorance.\nAnd so...I joined the resistance, in hopes of eradicating the infection that runs through Etruria.\nMy sincerest hope is to restore some semblance of justice."
+      ],
+      "Special": [
+        "I will not give up!",
+        "I shall return!",
+        "They will be saved.",
+        "For our people!"
+      ],
+      "Status": [
+        "Hmm...",
+        "I will not give up!",
+        "They will be saved.",
+        "I...regret my ignorance... To be so blind to the offenses committed beyond my country's border...",
+        "Roy... When I first met Lord Roy, I felt as though I could entrust him with my life.",
+        "Something you deem simply coincidence may very well be destiny.",
+        "I will never give up. And with Roy, the future is bright.",
+        "Please, simply regard me as another of your retainers."
+      ],
+      "Map Select": [
+        "As you say.",
+        "I see...",
+        "Stay on guard."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Elffin",
+    "SEARCH_NAME": "Elffin",
+    "DISPLAY_NAME": "<:Colorless_Tome:1124845725960904734>Elffin",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "lightofetruria",
+      "eff": "lightofetruria",
+      "atk": "lightofetruria",
+      "spd": "lightofetruria",
+      "def": "lightofetruria",
+      "res": "lightofetruria"
+    }
+  },
+  "pjazi": {
+    "name": "\u00dejazi",
+    "title": "Ruthless J\u00f6tun",
+    "description": "The younger sister of the queen of ancient J\u00f6tunheimr. She is fierce and merciless, and will not acknowledge dvergr independence.",
+    "origin": "Heroes",
+    "artist": "Chiko (\u30c1\u30fc\u30b3)",
+    "move": "Armored",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": false,
+    "id": "1167",
+    "type": "rearmed",
+    "version": "8.11",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 23,
+      "atk": 11,
+      "spd": 3,
+      "def": 12,
+      "res": 12
+    },
+    "growth": {
+      "hp": 60,
+      "atk": 90,
+      "spd": 35,
+      "def": 80,
+      "res": 70
+    },
+    "superboon": [
+      "atk",
+      "res"
+    ],
+    "superbane": [],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "2",
+      "Silver Axe": "3",
+      "Arcane Giant Axe": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Bonfire": "4",
+      "Armored Blaze": "5"
+    },
+    "passive": {
+      "A": {
+        "Fire Boost 1": "2",
+        "Fire Boost 2": "3",
+        "Fire Boost 3": "4",
+        "Earthfire Boost 3": "5"
+      },
+      "B": {
+        "Brutal Ferocity": "5"
+      },
+      "C": {
+        "A/D Near Save 1": "2",
+        "A/D Near Save 2": "3",
+        "A/D Near Save 3": "4",
+        "A/D Twin N Save": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/79/Thjazi_Ruthless_Jotun_Face.webp/revision/latest?cb=20241105051448",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/af/Thjazi_Ruthless_Jotun_BtlFace_D.webp/revision/latest?cb=20241105050555",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/cc/Thjazi_Ruthless_Jotun_BtlFace_C.webp/revision/latest?cb=20241105050550",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/97/Thjazi_Ruthless_Jotun_BtlFace.webp/revision/latest?cb=20241105050535"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Ruthless J\u00f6tun",
+      "\u00dejazi: Ruthless J\u00f6tun",
+      "Base \u00dejazi",
+      "Normal \u00dejazi",
+      "Regular \u00dejazi",
+      "Rearmed \u00dejazi",
+      "Rearm \u00dejazi",
+      "Arm \u00dejazi",
+      "Ruthless Jotun",
+      "Base thjazi",
+      "Normal thjazi",
+      "Regular thjazi",
+      "Rearmed thjazi",
+      "Rearm thjazi",
+      "Arm thjazi",
+      "thjazi",
+      "Base pjazi",
+      "Normal pjazi",
+      "Regular pjazi",
+      "Rearmed pjazi",
+      "Rearm pjazi",
+      "Arm pjazi",
+      "pjazi"
+    ],
+    "HARD_ALT_NAME": [
+      "Ruthless J\u00f6tun",
+      "\u00dejazi: Ruthless J\u00f6tun",
+      "Base \u00dejazi",
+      "Normal \u00dejazi",
+      "Regular \u00dejazi",
+      "Rearmed \u00dejazi",
+      "Rearm \u00dejazi",
+      "Arm \u00dejazi",
+      "Ruthless Jotun",
+      "Base thjazi",
+      "Normal thjazi",
+      "Regular thjazi",
+      "Rearmed thjazi",
+      "Rearm thjazi",
+      "Arm thjazi",
+      "thjazi",
+      "Base pjazi",
+      "Normal pjazi",
+      "Regular pjazi",
+      "Rearmed pjazi",
+      "Rearm pjazi",
+      "Arm pjazi",
+      "pjazi"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u9b54\u5668\u30b7\u30a2\u30c1\u5473\u65b9",
+    "voice": "Stephanie Kerbis",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": "heroes",
+    "quotes": {
+      "Castle Hall": [
+        "Dvergr independence? Hah! I will put them in their place and take my rightful one on the throne.",
+        "J\u00f6tunheimr is a country of strong warriors with no use for weaklings.",
+        "Hm? Oh, you... You are so small I didn't notice you. Next time, chirp louder if you wish to draw attention.",
+        "Hey, you! Hold out your hand... Hah! Just as I thought. It only takes one arm to lift such a puny being.",
+        "Aha! Worthy opponents...show yourselves. Hm... Who should I crush first?!"
+      ],
+      "Visit": [
+        "Point me to the strongest one here so I can crush them to bits! You can thank [F]."
+      ],
+      "Level": [
+        "Hahahah! Did you catch sight of that?! That...is true strength!",
+        "Those who dare oppose me, I will rip to pieces, limb by limb.",
+        "I won't lose!"
+      ],
+      "Summon": [
+        "I am \u00dejazi, a proud j\u00f6tun warrior. Bow before me!"
+      ],
+      "Learn Skill": [
+        "I see you have an eye for true strength."
+      ],
+      "Confession": [
+        "You... What are you\u2014 Refrain from prancing around my feet, unless your wish is to be crushed!\nWhy must I listen to an ant like you, squeaking and chirping in my ear?\nStrength is the true equalizer. Should you defeat me in combat, I will accept your orders. Until then...\nI refuse to partake in this contract. You have wasted what little power you have in summoning me.\nI will flick these chains off with my pinkie. Then I shall brandish my blade. Say goodbye to your head!"
+      ],
+      "Special": [
+        "You dare oppose me?!",
+        "Shut up and obey!",
+        "Impudent scum!",
+        "Quiet!"
+      ],
+      "Status": [
+        "Haha!",
+        "I am \u00dejazi, a proud j\u00f6tun warrior.",
+        "Hah! You thought you could stagger me with that subtle graze?",
+        "*spit* Impudent dvergar... Their place is to serve us and bring us something to feast on!",
+        "The queen is a coward, trembling at the sight of dvergar prancing around, playing soldier with their little toys.",
+        "For j\u00f6tnar, our strength is our virtue. Ha! We have no use for weaklings.",
+        "They'll see... I will defeat Ni\u00f0avellir. Then I shall take my rightful place on the throne.",
+        "You... I think I could make fine use of you as my subordinate."
+      ],
+      "Map Select": [
+        "Who made you leader?",
+        "Faster.",
+        "Kill them all!"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Rearmed \u00dejazi",
+    "SEARCH_NAME": "Rearmed \u00dejazi",
+    "DISPLAY_NAME": "<:Green_Axe:1124845885277343754>Rearmed \u00dejazi",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "arcanegiantaxe",
+      "eff": "arcanegiantaxe",
+      "atk": "arcanegiantaxe",
+      "spd": "arcanegiantaxe",
+      "def": "arcanegiantaxe",
+      "res": "arcanegiantaxe"
+    }
+  },
+  "ogier": {
+    "name": "Ogier",
+    "title": "Ostia's New Blade",
+    "description": "A mercenary hired by House Ostia. Even though his armor is substandard, he holds his head high in battle as a member of the heavy knights. Appears in Fire Emblem: The Binding Blade.",
+    "origin": "The Binding Blade",
+    "artist": "Naruse Uroko (\u9cf4\u702c\u3046\u308d\u3053)",
+    "move": "Infantry",
+    "weapon": "Sword",
+    "color": "Red",
+    "duel": false,
+    "id": "1170",
+    "type": false,
+    "version": "8.11",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 20,
+      "atk": 14,
+      "spd": 10,
+      "def": 8,
+      "res": 5
+    },
+    "growth": {
+      "hp": 60,
+      "atk": 70,
+      "spd": 85,
+      "def": 65,
+      "res": 45
+    },
+    "superboon": [
+      "atk",
+      "res"
+    ],
+    "superbane": [],
+    "weapons": {
+      "Iron Sword": "1",
+      "Steel Sword": "2",
+      "Doubler Sword": "3",
+      "Doubler Sword+": "5"
+    },
+    "assist": {},
+    "special": {
+      "New Moon": "3",
+      "Luna": "4"
+    },
+    "passive": {
+      "A": {
+        "Spd/Res Ideal 1": "1",
+        "Spd/Res Ideal 2": "2",
+        "Spd/Res Ideal 3": "4"
+      },
+      "B": {
+        "Close Call 1": "3",
+        "Close Call 2": "4",
+        "Close Call 3": "5"
+      },
+      "C": {},
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/66/Ogier_Ostias_New_Blade_Face.webp/revision/latest?cb=20241115043857",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f8/Ogier_Ostias_New_Blade_BtlFace_D.webp/revision/latest?cb=20241115043852",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f0/Ogier_Ostias_New_Blade_BtlFace_C.webp/revision/latest?cb=20241115043847",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d7/Ogier_Ostias_New_Blade_BtlFace.webp/revision/latest?cb=20241115043832"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Ostia's New Blade",
+      "Ogier: Ostia's New Blade",
+      "Base Ogier",
+      "Normal Ogier",
+      "Regular Ogier",
+      "ogier"
+    ],
+    "HARD_ALT_NAME": [
+      "Ostia's New Blade",
+      "Ogier: Ostia's New Blade",
+      "Base Ogier",
+      "Normal Ogier",
+      "Regular Ogier",
+      "ogier"
+    ],
+    "gender": "M",
+    "rarity": 3,
+    "pool": "global",
+    "internal_id": "PID_\u30aa\u30fc\u30b8\u30a7",
+    "voice": "KENN",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": "fe6",
+    "quotes": {
+      "Castle Hall": [
+        "I chose a lighter style of garb to make up for my inadequacy as a heavily armored knight.",
+        "I became a mercenary to feed my family back home.",
+        "I am honored that you called on a new recruit such as myself. I will do my best!",
+        "I'm going to run some laps so I can strengthen my hips and legs!",
+        "Yah! Hiyah! These practice swings help me to reinforce my basic sword skills."
+      ],
+      "Visit": [
+        "It is a pleasure to finally meet you. I have heard wonderful things about you from [F]."
+      ],
+      "Level": [
+        "I'm able to focus very well right now! It's important to remember how to do this.",
+        "*sigh* Growth happens one step at a time...",
+        "For my brothers. For all my family... I must not falter!"
+      ],
+      "Summon": [
+        "I am Ogier of the knights of Ostia. I want to be useful to you all!"
+      ],
+      "Learn Skill": [
+        "Are you sure I'm the right choice for this duty? I'll do my best to meet your expectations!"
+      ],
+      "Confession": [
+        "My story is a boring one, you know. I was born in a typical village. We had nothing of note.\nI traveled all the way to Ostia to feed my brothers and parents. I had a sister who was close to my age.\nBut, it's the men who do the work in our village, so... When a girl is born into a poor home...\nShe was left in a distant town with only a few beautiful outfits and a hope for a good future.\nMy brothers and I did not begrudge my parents' choice. This way, none of us would starve.\nThank you for listening to my story until the end. I must remind myself, not even a god can save everyone..."
+      ],
+      "Special": [
+        "I will not lose!",
+        "I can!",
+        "For the sake of all!",
+        "I will stand on my own!"
+      ],
+      "Status": [
+        "Hm.",
+        "I am Ogier of the Ostian Knights.",
+        "Oh!? I apologize if I bumped into you. It was not intentional.",
+        "I would hate to lose an ally because I was not strong enough.",
+        "The act of fighting must always serve some purpose. For me, that purpose is to feed my family.",
+        "Saving everyone is impossible, even for a saint like Elimine.",
+        "I have to believe my sister is out there somewhere making a life for herself.",
+        "I will put in the effort necessary to acquire the skills I still lack."
+      ],
+      "Map Select": [
+        "Yes.",
+        "What should I do?",
+        "I will go!"
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Ogier",
+    "SEARCH_NAME": "Ogier",
+    "DISPLAY_NAME": "<:Red_Sword:1124846201070698536>Ogier",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "doublersword",
+      "eff": "doublersword",
+      "atk": "doublersword",
+      "spd": "doublersword",
+      "def": "doublersword",
+      "res": "doublersword"
+    }
+  }
+}

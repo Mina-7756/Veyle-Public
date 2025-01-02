@@ -1,12 +1,21 @@
 import requests
 import maps
-import datetime
 from datetime import datetime
 from bs4 import BeautifulSoup
 import json
 import portrait
 import utility
 
+POSSIBLE_BLESSINGS = [  #in lowercase plz
+    "fire",
+    "water",
+    "wind",
+    "earth",
+    "light",
+    "dark",
+    "astra",
+    "anima"
+]
 
 obj = {}
 
@@ -29,18 +38,23 @@ def determine_key(name):
 
     return try_key, ref
 
-def scrape_page(page_name):
-    maindis = ""
+def scrape_page(page_name, alts=None, version=None):
+    if alts is None:
+        alts = ["Base", "Normal", "Regular"]
+    if version is None:
+        book = datetime.now().year - 2016
+        chapter = datetime.now().month
+        if chapter == 12:
+            chapter = 0
+            book += 1
+        version = f"{book}.{chapter}"
 
-    alts = [
-        "Base",
-        "Normal",
-        "Regular"
-    ]   
+    maindis = ""
 
     with open('templates/blank.json', 'r') as f:
         template = json.load(f)
     blank = template
+    blank['version']= version
     # Follow the same steps for feheroes.fandom
     fandom = requests.get(f'https://feheroes.fandom.com{page_name}')
     soup = BeautifulSoup(fandom.text, 'html.parser')
@@ -68,8 +82,17 @@ def scrape_page(page_name):
     blank['artist'] = art[5]
     blank['description'] = list(wiki_info[2].stripped_strings)[1]
 
-    rarity = list(wiki_info[3].stripped_strings)
+    # This doesn't appear in wiki_info, so we have to grab it from the whole mess of soup. It's a page category.
+    if "Female units" in soup.text:
+        blank['gender'] = 'F'
+    if "Male units" in soup.text:
+        if blank['gender']:
+            # We got both? Duo maybe? Dunno what the protocol is, marking blank.
+            blank['gender'] = ''
+        else:
+            blank['gender'] = 'M'
 
+    rarity = list(wiki_info[3].stripped_strings)
 
     if 'Rearmed' in rarity:
         blank['type'] = 'rearmed'
@@ -100,11 +123,9 @@ def scrape_page(page_name):
         alts.append('Ascendent')
         maindis = 'Ascended '
         blank['rarity'] = 5
-
     if 'Legendary' in rarity or 'Mythic' in rarity:
         blank['type'] = 'legendary'
         blank['pool'] = 'legend'
-
         blank['rarity'] = 5
     if 'Emblem' in rarity:
         blank['type'] = 'emblem'
@@ -138,7 +159,10 @@ def scrape_page(page_name):
             if len(strings) >= 5:
                 blank['voice'] = (strings[2] + ' ' + strings[3] + ' ' + strings[4])
             else:
-                blank['voice'] = strings[2]
+                try:
+                    blank['voice'] = strings[2]
+                except IndexError:
+                    blank['voice'] = "Not yet recorded."
         if "Entry" in i.text:
             strings = list(i.stripped_strings)
             blank['origin'] = strings[1]
@@ -146,15 +170,6 @@ def scrape_page(page_name):
             strings = list(i.stripped_strings)
             strings.pop(0)
             blank['origin'] = ' + '.join(strings)
-        if "Version" in i.text:
-            strings = list(i.stripped_strings)
-            ver = strings[1].split('.')[0]
-
-            month = datetime.now().month
-            if (month == 12):
-                month = 0
-            
-            blank['version'] = ver + '.' + str(month)
         if "Internal" in i.text and 'Enemy' not in i.text:
             strings = list(i.stripped_strings)
             blank['internal_id'] = strings[1]
@@ -162,9 +177,10 @@ def scrape_page(page_name):
         if "Legendary Effect" in i.text:
             strings = list(i.stripped_strings)
             blank['blessing'] = strings[1]
-        if "Mythic Effect" in i.text and '2' not in i.text:
+        if "Mythic Effect" in i.text:
             strings = list(i.stripped_strings)
-            blank['blessing'] = strings[1]
+            if strings[1].lower() in POSSIBLE_BLESSINGS:
+                blank['blessing'] = strings[1]
 
         if "Ally Boost" in i.text:
             strings = list(i.stripped_strings)
