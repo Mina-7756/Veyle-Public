@@ -209,7 +209,7 @@ async def remix(ctx):
 # help command
 @maji.commands.classic("help")
 async def help_command(ctx):
-    embed = maji.Embed(title = "Veyle Bot")
+    embed = maji.Embed(title = "Ninian Bot")
     
     def read(txt):
         with open(txt, "r", encoding="utf-8" ) as f:
