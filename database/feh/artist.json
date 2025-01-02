@@ -3502,7 +3502,17 @@
       "Harmonic Goldmary",
       "Harmonized GOldmary",
       "Beach Goldmary",
-      "goldmary"
+      "goldmary",
+      "Sisters of Healing",
+      "Hei\u00f0r\u00fan: Sisters of Healing",
+      "New Year Hei\u00f0r\u00fan",
+      "New Years Hei\u00f0r\u00fan",
+      "NY Hei\u00f0r\u00fan",
+      "New Year Heidrun",
+      "New Years Heidrun",
+      "NY Heidrun",
+      "hei\u00f0r\u00fan2",
+      "heidrun2"
     ],
     "HARD_ALT_NAME": [
       "Harvest Kagerou",
@@ -3828,13 +3838,24 @@
       "Summer Goldmary",
       "S Goldmary",
       "Beach Goldmary",
-      "goldmary"
+      "goldmary",
+      "Sisters of Healing",
+      "Hei\u00f0r\u00fan: Sisters of Healing",
+      "New Year Hei\u00f0r\u00fan",
+      "New Years Hei\u00f0r\u00fan",
+      "NY Hei\u00f0r\u00fan",
+      "New Year Heidrun",
+      "New Years Heidrun",
+      "NY Heidrun",
+      "hei\u00f0r\u00fan2",
+      "heidrun2"
     ],
     "heroes": {
       "byleth3": "<:Red_Tome:1124846175577710642>Duo Byleth",
       "dagr2": "<:Green_Bow:1124845936426897428>Duo Dagr",
       "edelgard3": "<:Green_Axe:1124845885277343754>Brave Edelgard",
       "goldmary": "<:Blue_Lance:1124845569496584302>Summer Goldmary",
+      "heidrun2": "<:Colorless_Tome:1124845725960904734>New Year Hei\u00f0r\u00fan",
       "igrene": "<:Red_Bow:1124846280951218289>Igrene",
       "igrene2": "<:Colorless_Dagger:1124845658617155734>Ninja Igrene",
       "ivy2": "<:Green_Tome:1124845959873036289>Summer Ivy",
@@ -4587,7 +4608,13 @@
       "You",
       "Yourself",
       "urself",
-      "veyle"
+      "veyle",
+      "Soaring New Year",
+      "Tana: Soaring New Year",
+      "New Year Tana",
+      "New Years Tana",
+      "NY Tana",
+      "tana6"
     ],
     "HARD_ALT_NAME": [
       "bernadetta3",
@@ -4614,10 +4641,17 @@
       "Mythic Veyle",
       "Mythical Veyle",
       "veyle",
-      "veyle"
+      "veyle",
+      "Soaring New Year",
+      "Tana: Soaring New Year",
+      "New Year Tana",
+      "New Years Tana",
+      "NY Tana",
+      "tana6"
     ],
     "heroes": {
       "bernadetta3": "<:Blue_Bow:1124845525695475845>Spring Bernadetta",
+      "tana6": "<:Red_Sword:1124846201070698536>New Year Tana",
       "veyle": "<:Blue_Tome:1124845593211191297>Veyle"
     },
     "name": "Done Kanda (\u9928\u7530\u30c0\u30f3)"
@@ -11839,7 +11873,16 @@
       "Ascended Amelia",
       "Ascendant Amelia",
       "Ascendent Amelia",
-      "amelia2"
+      "amelia2",
+      "Wings of Healing",
+      "Hr\u00e6svelgr: Wings of Healing",
+      "New Year Hr\u00e6svelgr",
+      "New Years Hr\u00e6svelgr",
+      "NY Hr\u00e6svelgr",
+      "New Year Hraesvelgr",
+      "New Years Hraesvelgr",
+      "NY Hraesvelgr",
+      "hraesvelgr2"
     ],
     "HARD_ALT_NAME": [
       "Celica (Resplendent)",
@@ -11915,7 +11958,16 @@
       "Ascended Amelia",
       "Ascendant Amelia",
       "Ascendent Amelia",
-      "amelia2"
+      "amelia2",
+      "Wings of Healing",
+      "Hr\u00e6svelgr: Wings of Healing",
+      "New Year Hr\u00e6svelgr",
+      "New Years Hr\u00e6svelgr",
+      "NY Hr\u00e6svelgr",
+      "New Year Hraesvelgr",
+      "New Years Hraesvelgr",
+      "NY Hraesvelgr",
+      "hraesvelgr2"
     ],
     "heroes": {
       "amelia2": "<:Blue_Lance:1124845569496584302>Ascended Amelia",
@@ -11923,6 +11975,7 @@
       "cath": "<:Green_Dagger:1124845796169351320>Cath",
       "celica3R": "<:Red_Sword:1124846201070698536>Brave Celica (Resplendent)",
       "fir3": "<:Red_Sword:1124846201070698536>Ascended Fir",
+      "hraesvelgr2": "<:Green_Beast:1124845912385138738>New Year Hr\u00e6svelgr",
       "mareeta": "<:Red_Sword:1124846201070698536>Mareeta",
       "mareeta2": "<:Red_Sword:1124846201070698536>Fallen Mareeta",
       "melady": "<:Blue_Lance:1124845569496584302>Melady",
@@ -27482,6 +27535,7 @@
   },
   "yoshio": {
     "heroes": {
+      "nnidhoggr2": "<:Blue_Beast:1124845338688233575>New Year N\u00ed\u00f0h\u00f6ggr",
       "petra2": "<:Red_Bow:1124846280951218289>Summer Petra"
     },
     "name": "YOSHIO",
@@ -27492,7 +27546,16 @@
       "Summer Petra",
       "S Petra",
       "Beach Petra",
-      "petra2"
+      "petra2",
+      "Daze of Healing",
+      "N\u00ed\u00f0h\u00f6ggr: Daze of Healing",
+      "New Year N\u00ed\u00f0h\u00f6ggr",
+      "New Years N\u00ed\u00f0h\u00f6ggr",
+      "NY N\u00ed\u00f0h\u00f6ggr",
+      "New Year Nidhoggr",
+      "New Years Nidhoggr",
+      "NY Nidhoggr",
+      "nidhoggr2"
     ],
     "HARD_ALT_NAME": [
       "Faraway Sun",
@@ -27500,7 +27563,16 @@
       "Summer Petra",
       "S Petra",
       "Beach Petra",
-      "petra2"
+      "petra2",
+      "Daze of Healing",
+      "N\u00ed\u00f0h\u00f6ggr: Daze of Healing",
+      "New Year N\u00ed\u00f0h\u00f6ggr",
+      "New Years N\u00ed\u00f0h\u00f6ggr",
+      "NY N\u00ed\u00f0h\u00f6ggr",
+      "New Year Nidhoggr",
+      "New Years Nidhoggr",
+      "NY Nidhoggr",
+      "nidhoggr2"
     ]
   },
   "zaiyouzi": {

@@ -6469,7 +6469,8 @@
         "felix3": "3",
         "yarne3": "3",
         "hraesvelgr": "3",
-        "lyn9": "3"
+        "lyn9": "3",
+        "hraesvelgr2": "3"
       }
     },
     "refine": {},
@@ -6639,7 +6640,8 @@
         "chrom8": "5",
         "yarne3": "4",
         "hraesvelgr": "4",
-        "lyn9": "4"
+        "lyn9": "4",
+        "hraesvelgr2": "4"
       }
     },
     "refine": {},
@@ -7571,7 +7573,8 @@
         "panette": "3",
         "shez6": "3",
         "lethe3": "3",
-        "zeiss": "3"
+        "zeiss": "3",
+        "tana6": "3"
       }
     },
     "refine": {},
@@ -7671,7 +7674,8 @@
         "chloe2": "4",
         "sylvain3": "4",
         "sharena3": "4",
-        "shez6": "4"
+        "shez6": "4",
+        "tana6": "4"
       }
     },
     "refine": {},
@@ -7892,7 +7896,8 @@
         "pjazi": "3",
         "nidhoggr": "3",
         "hector7": "3",
-        "uther": "3"
+        "uther": "3",
+        "nnidhoggr2": "3"
       }
     },
     "refine": {},
@@ -8070,7 +8075,8 @@
         "askr3": "4",
         "bors": "4",
         "nidhoggr": "4",
-        "uther": "4"
+        "uther": "4",
+        "nnidhoggr2": "4"
       }
     },
     "refine": {},
@@ -8545,7 +8551,8 @@
         "igrene": "5",
         "olwen2": "5",
         "dimitri3": "5",
-        "igrene3": "3"
+        "igrene3": "3",
+        "heidrun2": "3"
       }
     },
     "refine": {},
@@ -8626,7 +8633,8 @@
         "dimitri3": "5",
         "ced2": "5",
         "sonya3": "5",
-        "igrene3": "4"
+        "igrene3": "4",
+        "heidrun2": "4"
       }
     },
     "refine": {},
@@ -37260,7 +37268,8 @@
         "lilina5": "5",
         "ganglot": "5",
         "wil": "5",
-        "laeradr": "4"
+        "laeradr": "4",
+        "nnidhoggr2": "4"
       },
       "Distant Guard 2": {},
       "Distant Guard 1": {}
@@ -49223,7 +49232,8 @@
         "marla": "5",
         "sanaki3": "5",
         "seidr2": "4",
-        "marianne3": "4"
+        "marianne3": "4",
+        "heidrun2": "4"
       },
       "Sabotage Res 2": {},
       "Sabotage Res 1": {}
@@ -55690,7 +55700,8 @@
         "anna3": "5",
         "inigo": "4",
         "claude6": "4",
-        "hraesvelgr": "4"
+        "hraesvelgr": "4",
+        "hraesvelgr2": "4"
       },
       "Atk/Spd Form 2": {},
       "Atk/Spd Form 1": {}
@@ -73714,7 +73725,8 @@
         "ingrid3": "5",
         "sayri2": "5",
         "reina": "5",
-        "petra2": "4"
+        "petra2": "4",
+        "tana6": "4"
       },
       "Spd/Def Rein 2": {},
       "Spd/Def Rein 1": {}
@@ -98528,7 +98540,8 @@
         "linhardt2": "5",
         "veyle2": "4",
         "leo5": "4",
-        "marianne3": "4"
+        "marianne3": "4",
+        "heidrun2": "4"
       },
       "Still Water 2": {},
       "Still Water 1": {}
@@ -106538,7 +106551,8 @@
         "ratatoskr": "5"
       },
       "Beast Agility 3": {
-        "embla": "5"
+        "embla": "5",
+        "hraesvelgr2": "4"
       },
       "Beast Agility 2": {},
       "Beast Agility 1": {}
@@ -113485,7 +113499,8 @@
     ],
     "reference": {
       "S/D Rein Snap": {
-        "sayri2": "5"
+        "sayri2": "5",
+        "tana6": "5"
       }
     },
     "refine": {},
@@ -124773,7 +124788,8 @@
     "reference": {
       "Crystalline Water": {
         "veyle2": "5",
-        "marianne3": "5"
+        "marianne3": "5",
+        "heidrun2": "5"
       }
     },
     "icon": 2129,
@@ -131362,7 +131378,8 @@
     "reference": {
       "Sturdy Beast": {
         "askr3": "5",
-        "nidhoggr": "5"
+        "nidhoggr": "5",
+        "nnidhoggr2": "5"
       }
     },
     "icon": false,
@@ -132126,7 +132143,8 @@
     ],
     "reference": {
       "Nimble Beast": {
-        "hraesvelgr": "5"
+        "hraesvelgr": "5",
+        "hraesvelgr2": "5"
       }
     },
     "icon": false,
@@ -132162,7 +132180,8 @@
     ],
     "reference": {
       "Atk/Spd Fortune": {
-        "hraesvelgr": "5"
+        "hraesvelgr": "5",
+        "hraesvelgr2": "5"
       }
     },
     "icon": 2273,
@@ -132190,7 +132209,8 @@
     ],
     "reference": {
       "Divine Talon": {
-        "hraesvelgr": "5"
+        "hraesvelgr": "5",
+        "hraesvelgr2": "5"
       }
     },
     "icon": 2274,
@@ -133684,7 +133704,8 @@
     ],
     "reference": {
       "Divine Toxin": {
-        "nidhoggr": "5"
+        "nidhoggr": "5",
+        "nnidhoggr2": "5"
       }
     },
     "icon": 2299,
@@ -134497,6 +134518,335 @@
       "Speedtaker 2",
       "Speedtaker 3",
       "Speedtaker 4"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "newyeartreats": {
+    "name": "New Year Treats",
+    "skill": [
+      {
+        "name": "New Year Treats",
+        "description": "Accelerates Special trigger (cooldown count-1).\nIf a Rally or movement Assist skill (like Reposition, Shove, Pivot, etc.) is used by an ally with the\u3010Divine Nectar\u3011effect active (excluding unit), grants Atk/Res+6 and \u3010Charge\u3011to unit and that ally for 1 turn and grants Special cooldown count-1 to unit and that ally (once per turn).\nAt start of combat, if unit's HP \u2265 25%, grants bonus to unit's Atk/Def/Res = 20% of unit's Res at start of combat + 5, deals damage = 20% of unit's Res (including when dealing damage with an area-of-effect Special), neutralizes effects that inflict \"Special cooldown charge -X\" on unit, and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\n\u3010Divine Nectar\u3011\nNeutralizes\u3010Deep Wounds\u3011during combat.\nRestores 20 HP to unit as unit's combat begins (triggers after effects that deal damage as combat begins; only highest value applied; does not stack). If it is unit's first combat initiated by foe or first combat initiated by unit that turn, reduces damage from foe's attacks by 10 during combat (excluding area-of-effect Specials).\n\u3010Charge\u3011\nUnit can move up to 3 spaces in any cardinal direction. (Cannot move through foes, terrain that blocks movement, or effects of skills like Obstruct. Granted movement treated as Warp movement.)\n\u3010Deep Wounds\u3011\nUnit's HP cannot be healed through its next action.\n",
+        "stats": {
+          "mt": "14",
+          "rng": "2",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Colorless_Tome",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "New Year Treats": {
+        "heidrun2": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "New Years Hei\u00f0r\u00fan",
+      "NY Hei\u00f0r\u00fan",
+      "New Year Heidrun",
+      "New Years Heidrun",
+      "heidrun2",
+      "Sisters of Healing",
+      "New Year Hei\u00f0r\u00fan",
+      "Hei\u00f0r\u00fan: Sisters of Healing",
+      "hei\u00f0r\u00fan2",
+      "NY Heidrun"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_mg335"
+  },
+  "atkresdiscord": {
+    "name": "Atk Res Discord",
+    "skill": [
+      {
+        "name": "Atk/Res Discord",
+        "stats": {
+          "sp": "300"
+        },
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Cannot** be used by: ",
+          [
+            "Cavalry",
+            "Armored"
+          ]
+        ],
+        "description": "Sabotage Res 3\nAt start of player phase or enemy phase, inflicts Atk/Res-6 and\u3010Discord\u3011on foes with Res < unit's Res and that are within 2 spaces of another foe through their next actions.\nInflicts penalty on foe's Atk/Res during combat = number of foes inflicted with\u3010Discord\u3011 within 2 spaces of target, including target, \u00d7 2, + 4 (max 10) and deals damage = 15% of unit's Res (excluding area-of-effect Specials).\n\u3010Discord\u3011\nInflicts Atk/Spd/Def/Res-X on unit during combat (X = 2 + number of allies within 2 spaces of unit; max 5) through its next action"
+      }
+    ],
+    "reference": {
+      "Atk/Res Discord": {
+        "heidrun2": "5"
+      }
+    },
+    "icon": 2312,
+    "HARD_ALT_NAME": [
+      "Atk/Res Discord"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "nectarsmagic": {
+    "name": "Nectar's Magic",
+    "skill": [
+      {
+        "name": "Nectar's Magic",
+        "stats": {
+          "sp": "300"
+        },
+        "slot": "Passive C",
+        "exclusive": true,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "At start of player phase or enemy phase, if unit is within 2 spaces of an ally, grants \u3010Divine Nectar\u3011to unit and allies within 2 spaces of unit for 1 turn.\nIf a Rally or movement Assist skill (like Reposition, Shove, Pivot, etc.) is used by an ally with the\u3010Divine Nectar\u3011effect active (excluding unit), grants another action to that ally (once per turn; if another effect that grants action to ally has been activated at the same time, this effect is also considered to have been triggered).\nIf unit initiates combat and unit has an area-of-effect Special equipped, grants Special cooldown count-1 to unit before Special triggers before combat.\nIf unit initiates combat or is within 2 spaces of an ally, grants Atk/Def/Res+5 to unit during combat, and also, if unit's attack can trigger unit's Special (excluding area-of-effect Specials), grants Special cooldown count-1 to unit before unit's first attack during combat.\n\u3010Divine Nectar\u3011\nNeutralizes\u3010Deep Wounds\u3011during combat.\nRestores 20 HP to unit as unit's combat begins (triggers after effects that deal damage as combat begins; only highest value applied; does not stack). If it is unit's first combat initiated by foe or first combat initiated by unit that turn, reduces damage from foe's attacks by 10 during combat (excluding area-of-effect Specials).\n\u3010Deep Wounds\u3011\nUnit's HP cannot be healed through its next action"
+      }
+    ],
+    "reference": {
+      "Nectar's Magic": {
+        "heidrun2": "5"
+      }
+    },
+    "icon": 2313,
+    "HARD_ALT_NAME": [
+      "Nectar's Magic"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "newyeartalon": {
+    "name": "New Year Talon",
+    "skill": [
+      {
+        "name": "New Year Talon",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of player phase or enemy phase, inflicts Spd/Def-7,\u3010Exposure\u3011, and \u3010Sabotage\u3011on foes that are within 2 spaces of another foe through their next actions.\nIf unit is transformed or if foe's HP \u2265 75% at start of combat, grants bonus to unit's Atk/Spd/Def/Res = 15% of unit's Spd at start of combat + 5, unit deals +X damage (X = number of Bonus effects, excluding stat bonuses, and number of Penalty effects, excluding stat penalties, active on foe and foes within 2 spaces of that foe \u00d7 3; excluding area-of-effect Specials), reduces damage from foe's first attack by 7 (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes), and grants Special cooldown count-1 to unit before unit's first attack during combat.\nAt start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, unit can move 1 extra space (that turn only; does not stack) and grants Atk+2 to unit.\n\u3010Exposure\u3011\nFoe's attacks deal +10 damage.\n\u3010Sabotage\u3011\nInflicts penalty on unit's Atk/Spd/Def/Res during combat = highest penalty on each stat between unit and allies within 2 spaces of unit through its next action. Calculates each stat penalty independently.\n",
+        "stats": {
+          "mt": "14",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Green_Beast",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "New Year Talon": {
+        "hraesvelgr2": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "NY Hraesvelgr",
+      "NY Hr\u00e6svelgr",
+      "Wings of Healing",
+      "New Year Hr\u00e6svelgr",
+      "New Years Hraesvelgr",
+      "New Year Hraesvelgr",
+      "hraesvelgr2",
+      "New Years Hr\u00e6svelgr",
+      "Hr\u00e6svelgr: Wings of Healing"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": false
+  },
+  "bestialassault": {
+    "name": "Bestial Assault",
+    "skill": [
+      {
+        "name": "Bestial Assault",
+        "stats": {
+          "sp": "300"
+        },
+        "slot": "Passive B",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Beast",
+            "Blue_Beast",
+            "Green_Beast",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "Beast Follow-Up 3\nEnables\u3010Canto (Rem. +1; Min \uff12)\u3011while transformed.\nIf unit is transformed or unit's HP \u2265 25% at start of combat, inflicts Spd/Def-4 on foe, deals damage = 20% of the greater of unit's Spd or Def (excluding area-of-effect Specials), and reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% during combat (excluding area-of-effect Specials).\n\u3010Canto (Rem. +1; Min \uff12)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn +1 (min \uff12; if unit used a movement skill that warped them, unit can move \uff12 space(s)).\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement."
+      }
+    ],
+    "reference": {
+      "Bestial Assault": {
+        "hraesvelgr2": "5"
+      }
+    },
+    "icon": 2314,
+    "HARD_ALT_NAME": [
+      "Bestial Assault"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "newyearfang": {
+    "name": "New Year Fang",
+    "skill": [
+      {
+        "name": "New Year Fang",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of player phase or enemy phase, if unit is within 2 spaces of an ally, grants Def/Res+6,\u3010Hexblade\u3011, and \"reduces the percentage of foe's non-Special 'reduce damage by X%' skills by 50% during combat (excluding area-of-effect Specials)\" to unit and allies within 2 spaces of unit for 1 turn.\nIf unit is transformed or unit's HP \u2265 25% at start of combat, deals damage to foe = 25% of foe's max HP as combat begins (activates only when unit can attack in combat; only highest value applied; does not stack with other \"deals X damage as combat begins\" effects; effects that reduce damage during combat do not apply; will not reduce foe's HP below 1; excluding certain foes, such as R\u00f8kkr).\nIf unit is transformed or unit's HP \u2265 25% at start of combat, inflicts penalty on foe's Atk/Def = 6 + 20% of unit's Def at start of combat, any \"reduces damage by X%\" effect that can be triggered only once per combat by unit's equipped Special skill can be triggered up to twice per combat (excludes boosted Special effects from engaging; only highest value applied; does not stack), deals damage = 30% of foe's max HP (excluding area-of-effect Specials; excluding certain foes, such as R\u00f8kkr), and reduces damage from foe's attacks by X during combat (X = total damage dealt to foe; min 10; max 20; excluding area-of-effect Specials), and also, when foe's attack triggers foe's Special, reduces damage from foe's attacks by an additional X (excluding area-of-effect Specials).\nAt start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2, and unit can counterattack regardless of foe's range.\n\u3010Hexblade\u3011\nCalculates damage using the lower of foe's Def or Res during combat for 1 turn (including damage dealt by Specials before combat).\n",
+        "stats": {
+          "mt": "14",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Blue_Beast",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "New Year Fang": {
+        "nnidhoggr2": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Daze of Healing",
+      "nidhoggr2",
+      "New Year Nidhoggr",
+      "N\u00ed\u00f0h\u00f6ggr: Daze of Healing",
+      "New Year N\u00ed\u00f0h\u00f6ggr",
+      "NY N\u00ed\u00f0h\u00f6ggr",
+      "New Years N\u00ed\u00f0h\u00f6ggr",
+      "New Years Nidhoggr",
+      "NY Nidhoggr"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": false
+  },
+  "higherground": {
+    "name": "Higher Ground",
+    "skill": [
+      {
+        "name": "Higher Ground",
+        "stats": {
+          "sp": "300"
+        },
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored"
+          ]
+        ],
+        "description": "Distant Guard 3\nFoes with Range = 1 cannot warp into spaces within 3 spaces of unit and foes with Range = 2 cannot warp into spaces within 4 spaces of unit (does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains).\nIf foe with Range = 2 initiates combat against an ally within 2 spaces of unit, triggers \u3010Savior\u3011on unit.\nIf foe's Range = 2, grants Def/Res+4 to unit during combat.\n\u3010Savior\u3011\nUnit takes ally's space, enters combat in ally's place, and receives all after-combat effects.\nSavior will not trigger if ally is on terrain that unit cannot move to or if multiple units are able to use Savior during the same combat. If Savior triggers, after-combat movement effects do not occur"
+      }
+    ],
+    "reference": {
+      "Higher Ground": {
+        "nnidhoggr2": "5"
+      }
+    },
+    "icon": 2315,
+    "HARD_ALT_NAME": [
+      "Higher Ground"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "snakingsword": {
+    "name": "Snaking Sword",
+    "skill": [
+      {
+        "name": "Snaking Sword",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAllies within 2 spaces of unit can move to any space within 2 spaces of unit.\nIf unit has entered combat or used an Assist skill during the current turn, allies can move to a space within 2 spaces of unit.\nIf unit initiates combat or is within 2 spaces of an ally, grants bonus to unit's Atk/Spd/Def/Res = number of allies within 3 rows or 3 columns centered on unit \u00d7 3, + 5 (max 14), deals damage = 20% of unit's Spd (excluding area-of-effect Specials), and reduces damage from foe's first attack by 20% of unit's Spd during combat (\"first attack\" normally means only the first strike; for effects that grant \"unit attacks twice,\" it means the first and second strikes).",
+        "stats": {
+          "mt": "16",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Sword",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Snaking Sword": {
+        "tana6": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "New Years Tana",
+      "NY Tana",
+      "Tana: Soaring New Year",
+      "tana6",
+      "Soaring New Year",
+      "New Year Tana"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": "wep_sw188"
+  },
+  "heavenlywings": {
+    "name": "Heavenly Wings",
+    "skill": [
+      {
+        "name": "Heavenly Wings",
+        "stats": {
+          "sp": "300"
+        },
+        "slot": "Passive B",
+        "exclusive": true,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "Enables\u3010Canto (Dist. +1; Max \uff14)\u3011.\nAt start of combat, if unit's HP \u2265 25%, inflicts penalty to foe's Atk/Spd/Def = 5 + number of spaces from start position to end position of whoever initiated combat \u00d7 3 (max 14), neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks, grants Special cooldown charge +1 to unit per attack (only highest value applied; does not stack), and grants Special cooldown count-1 to unit before unit's first attack during combat.\n\u3010Canto (Dist. +1; Max \uff14)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = number of spaces from start position to end position of unit before the above, +1. (Max \uff14.)\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit would be able to move with normal Canto movement."
+      }
+    ],
+    "reference": {
+      "Heavenly Wings": {
+        "tana6": "5"
+      }
+    },
+    "icon": 2316,
+    "HARD_ALT_NAME": [
+      "Heavenly Wings"
     ],
     "ALT_NAME": [],
     "slot": "Passive B",

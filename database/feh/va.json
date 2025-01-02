@@ -17698,7 +17698,17 @@
       "Mending Hand",
       "Ratatoskr: Mending Hand",
       "Regular Ratatoskr",
-      "Normal Lara"
+      "Normal Lara",
+      "Sisters of Healing",
+      "Hei\u00f0r\u00fan: Sisters of Healing",
+      "New Year Hei\u00f0r\u00fan",
+      "New Years Hei\u00f0r\u00fan",
+      "NY Hei\u00f0r\u00fan",
+      "New Year Heidrun",
+      "New Years Heidrun",
+      "NY Heidrun",
+      "hei\u00f0r\u00fan2",
+      "heidrun2"
     ],
     "HARD_ALT_NAME": [
       "ratatouille",
@@ -17716,9 +17726,20 @@
       "Mending Hand",
       "Ratatoskr: Mending Hand",
       "Regular Ratatoskr",
-      "Normal Lara"
+      "Normal Lara",
+      "Sisters of Healing",
+      "Hei\u00f0r\u00fan: Sisters of Healing",
+      "New Year Hei\u00f0r\u00fan",
+      "New Years Hei\u00f0r\u00fan",
+      "NY Hei\u00f0r\u00fan",
+      "New Year Heidrun",
+      "New Years Heidrun",
+      "NY Heidrun",
+      "hei\u00f0r\u00fan2",
+      "heidrun2"
     ],
     "heroes": {
+      "heidrun2": "<:Colorless_Tome:1124845725960904734>New Year Hei\u00f0r\u00fan",
       "lara": "<:Red_Dagger:1124846223518605324>Lara",
       "ratatoskr": "<:Blue_Beast:1124845338688233575>Ratatoskr"
     },
@@ -20111,7 +20132,13 @@
       "Arm Dana",
       "Rearmed Turner",
       "Rearm Turner",
-      "Arm Turner"
+      "Arm Turner",
+      "Soaring New Year",
+      "Tana: Soaring New Year",
+      "New Year Tana",
+      "New Years Tana",
+      "NY Tana",
+      "tana6"
     ],
     "HARD_ALT_NAME": [
       "tana",
@@ -20211,7 +20238,13 @@
       "Arm Dana",
       "Rearmed Turner",
       "Rearm Turner",
-      "Arm Turner"
+      "Arm Turner",
+      "Soaring New Year",
+      "Tana: Soaring New Year",
+      "New Year Tana",
+      "New Years Tana",
+      "NY Tana",
+      "tana6"
     ],
     "heroes": {
       "maribelle": "<:Colorless_Staff:1124845704444137592>Maribelle",
@@ -20219,6 +20252,7 @@
       "tana3": "<:Blue_Lance:1124845569496584302>Young Tana",
       "tana4": "<:Green_Dagger:1124845796169351320>Harmonic Tana",
       "tana5": "<:Colorless_Bow:1124845636659982457>Rearmed Tana",
+      "tana6": "<:Red_Sword:1124846201070698536>New Year Tana",
       "tanaR": "<:Blue_Lance:1124845569496584302>Tana (Resplendent)"
     },
     "name": "Melissa Fahn"
@@ -28977,20 +29011,41 @@
   },
   "catprotano": {
     "heroes": {
-      "heidrun": "<:Green_Beast:1124845912385138738>Hei\u00f0r\u00fan"
+      "heidrun": "<:Green_Beast:1124845912385138738>Hei\u00f0r\u00fan",
+      "heidrun2": "<:Colorless_Tome:1124845725960904734>New Year Hei\u00f0r\u00fan"
     },
     "name": "Cat Protano",
     "ALT_NAME": [
       "Healing Nectar",
       "Hei\u00f0r\u00fan: Healing Nectar",
       "heidrun",
-      "heithrun"
+      "heithrun",
+      "Sisters of Healing",
+      "Hei\u00f0r\u00fan: Sisters of Healing",
+      "New Year Hei\u00f0r\u00fan",
+      "New Years Hei\u00f0r\u00fan",
+      "NY Hei\u00f0r\u00fan",
+      "New Year Heidrun",
+      "New Years Heidrun",
+      "NY Heidrun",
+      "hei\u00f0r\u00fan2",
+      "heidrun2"
     ],
     "HARD_ALT_NAME": [
       "Healing Nectar",
       "Hei\u00f0r\u00fan: Healing Nectar",
       "heidrun",
-      "heithrun"
+      "heithrun",
+      "Sisters of Healing",
+      "Hei\u00f0r\u00fan: Sisters of Healing",
+      "New Year Hei\u00f0r\u00fan",
+      "New Years Hei\u00f0r\u00fan",
+      "NY Hei\u00f0r\u00fan",
+      "New Year Heidrun",
+      "New Years Heidrun",
+      "NY Heidrun",
+      "hei\u00f0r\u00fan2",
+      "heidrun2"
     ]
   },
   "kenn": {
@@ -29030,7 +29085,8 @@
   },
   "justinelee": {
     "heroes": {
-      "hraesvelgr": "<:Blue_Beast:1124845338688233575>Hr\u00e6svelgr"
+      "hraesvelgr": "<:Blue_Beast:1124845338688233575>Hr\u00e6svelgr",
+      "hraesvelgr2": "<:Green_Beast:1124845912385138738>New Year Hr\u00e6svelgr"
     },
     "name": "Justine Lee",
     "ALT_NAME": [
@@ -29051,7 +29107,16 @@
       "M Hraesvelgr",
       "Mythical Hraesvelgr",
       "Legendary Hraesvelgr",
-      "hraesvelgr"
+      "hraesvelgr",
+      "Wings of Healing",
+      "Hr\u00e6svelgr: Wings of Healing",
+      "New Year Hr\u00e6svelgr",
+      "New Years Hr\u00e6svelgr",
+      "NY Hr\u00e6svelgr",
+      "New Year Hraesvelgr",
+      "New Years Hraesvelgr",
+      "NY Hraesvelgr",
+      "hraesvelgr2"
     ],
     "HARD_ALT_NAME": [
       "Quieting Blade",
@@ -29071,7 +29136,16 @@
       "M Hraesvelgr",
       "Mythical Hraesvelgr",
       "Legendary Hraesvelgr",
-      "hraesvelgr"
+      "hraesvelgr",
+      "Wings of Healing",
+      "Hr\u00e6svelgr: Wings of Healing",
+      "New Year Hr\u00e6svelgr",
+      "New Years Hr\u00e6svelgr",
+      "NY Hr\u00e6svelgr",
+      "New Year Hraesvelgr",
+      "New Years Hraesvelgr",
+      "NY Hraesvelgr",
+      "hraesvelgr2"
     ]
   },
   "coryyee": {
@@ -29326,6 +29400,34 @@
       "Regular Uther",
       "Hector's Brother",
       "uther"
+    ]
+  },
+  "toyosakiaki": {
+    "heroes": {
+      "nnidhoggr2": "<:Blue_Beast:1124845338688233575>New Year N\u00ed\u00f0h\u00f6ggr"
+    },
+    "name": "Toyosaki Aki (\u8c4a\u5d0e\u611b\u751f)",
+    "ALT_NAME": [
+      "Daze of Healing",
+      "N\u00ed\u00f0h\u00f6ggr: Daze of Healing",
+      "New Year N\u00ed\u00f0h\u00f6ggr",
+      "New Years N\u00ed\u00f0h\u00f6ggr",
+      "NY N\u00ed\u00f0h\u00f6ggr",
+      "New Year Nidhoggr",
+      "New Years Nidhoggr",
+      "NY Nidhoggr",
+      "nidhoggr2"
+    ],
+    "HARD_ALT_NAME": [
+      "Daze of Healing",
+      "N\u00ed\u00f0h\u00f6ggr: Daze of Healing",
+      "New Year N\u00ed\u00f0h\u00f6ggr",
+      "New Years N\u00ed\u00f0h\u00f6ggr",
+      "NY N\u00ed\u00f0h\u00f6ggr",
+      "New Year Nidhoggr",
+      "New Years Nidhoggr",
+      "NY Nidhoggr",
+      "nidhoggr2"
     ]
   }
 }
