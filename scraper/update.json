@@ -1,63 +1,62 @@
 {
-  "nidhoggr": {
-    "name": "N\u00ed\u00f0h\u00f6ggr",
-    "title": "Quieting Dose",
-    "description": "A member of Yggdrasill's Healing Hands who prefers to remain intoxicated in order to keep her true feelings from coming to the surface.",
-    "origin": "Heroes",
-    "artist": "Kozaki Yusuke (\u30b3\u30b6\u30ad\u30e6\u30fc\u30b9\u30b1)",
+  "hector7": {
+    "name": "Hector",
+    "title": "Steel Warrior",
+    "description": "Brother of Marquess Ostia and rumored to be a little rough around the edges. He dashes to aid his best friend Eliwood whenever he's in danger. Appears in Fire Emblem: The Blazing Blade.",
+    "origin": "The Blazing Blade",
+    "artist": "Wada Sachiko (\u30ef\u30c0\u30b5\u30c1\u30b3)",
     "move": "Armored",
-    "weapon": "Beast",
+    "weapon": "Sword",
     "color": "Red",
     "duel": false,
-    "id": "1173",
-    "type": "legendary",
-    "version": "8.11",
+    "id": "1175",
+    "type": "attuned",
+    "version": "9.0",
     "duo": false,
     "harmonized": false,
     "emblem": false,
     "base": {
-      "hp": 22,
-      "atk": 16,
+      "hp": 24,
+      "atk": 10,
       "spd": 4,
-      "def": 9,
-      "res": 10
+      "def": 11,
+      "res": 12
     },
     "growth": {
-      "hp": 65,
-      "atk": 75,
+      "hp": 55,
+      "atk": 90,
       "spd": 30,
-      "def": 90,
+      "def": 85,
       "res": 75
     },
     "superboon": [
-      "def"
+      "atk"
     ],
     "superbane": [
-      "atk",
       "spd",
       "res"
     ],
     "weapons": {
-      "Whelp (Armored)": "1",
-      "Yearling (Arm.)": "2",
-      "Adult (Armored)": "3",
-      "Enticing Dose": "5"
+      "Iron Sword": "1",
+      "Steel Sword": "3",
+      "Silver Sword": "3",
+      "Fellowship Blade": "5"
     },
     "assist": {},
     "special": {
       "Glowing Ember": "3",
-      "Ignis": "4",
-      "Sturdy Beast": "5"
+      "Bonfire": "4",
+      "Armored Beacon": "5"
     },
     "passive": {
       "A": {
-        "Divine Toxin": "5"
+        "Oath of Ostia": "5"
       },
       "B": {
-        "Slick Fighter 1": "2",
-        "Slick Fighter 2": "3",
-        "Slick Fighter 3": "4",
-        "Slick Fighter 4": "5"
+        "Wily Fighter 1": "2",
+        "Wily Fighter 2": "3",
+        "Wily Fighter 3": "4",
+        "Wily Fighter 4": "5"
       },
       "C": {
         "A/D Far Save 1": "2",
@@ -65,196 +64,379 @@
         "A/D Far Save 3": "4",
         "A/D Twin F Save": "5"
       },
-      "X": {}
+      "X": {
+        "D Counter Echo": "5"
+      }
     },
     "images": {
-      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c0/Nidhoggr_Quieting_Dose_Face.webp/revision/latest?cb=20231206040838",
-      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Nidhoggr_Quieting_Dose_BtlFace_D.webp/revision/latest?cb=20240315043753",
-      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fd/Nidhoggr_Quieting_Dose_BtlFace_C.webp/revision/latest?cb=20240315043748",
-      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c0/Nidhoggr_Quieting_Dose_BtlFace.webp/revision/latest?cb=20241129044043"
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/a6/Hector_Steel_Warrior_Face.webp/revision/latest?cb=20241205203015",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/66/Hector_Steel_Warrior_BtlFace_D.webp/revision/latest?cb=20241205203010",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/08/Hector_Steel_Warrior_BtlFace_C.webp/revision/latest?cb=20241205203005",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d5/Hector_Steel_Warrior_BtlFace.webp/revision/latest?cb=20241205202950"
     },
     "resplendent_images": false,
     "ALT_NAME": [
-      "Quieting Dose",
-      "N\u00ed\u00f0h\u00f6ggr: Quieting Dose",
-      "Base, Normal, Regular N\u00ed\u00f0h\u00f6ggr",
-      "nidhoggr"
+      "Steel Warrior",
+      "Hector: Steel Warrior",
+      "Sword Hector",
+      "Attuned Hector",
+      "hector7"
     ],
     "HARD_ALT_NAME": [
-      "Quieting Dose",
-      "N\u00ed\u00f0h\u00f6ggr: Quieting Dose",
-      "Base, Normal, Regular N\u00ed\u00f0h\u00f6ggr",
-      "nidhoggr"
+      "Steel Warrior",
+      "Hector: Steel Warrior",
+      "Sword Hector",
+      "Attuned Hector",
+      "hector7"
     ],
-    "gender": "F",
+    "gender": "M",
     "rarity": 5,
-    "pool": "legend",
-    "internal_id": "PID_\u30cb\u30fc\u30ba\u30d8\u30c3\u30b0\u5473\u65b9",
-    "voice": "Anjali Kunapaneni",
+    "pool": "focus",
+    "internal_id": "PID_\u97ff\u5fc3\u30d8\u30af\u30c8\u30eb",
+    "voice": "Patrick Seitz",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
-      "askr"
+      "elibe"
     ],
-    "chibi": "heroes",
+    "chibi": "fe7",
     "quotes": {
       "Castle Hall": [
-        "The injured wail and cry, but they get nice and quiet real quick if there's a few drops of poison involved.",
-        "Poison is different from medicine. It can paralyze a person and make their pain go away in an instant.",
-        "My power over poison is a gift from my pops. I like to think it's proof that I'm his favorite.",
-        "I'm better than Hr\u00e6svelgr, to be sure. I mean, she saved me once way back when, but these days...",
-        "Ratatoskr is easily overwhelmed and clumsy as a newborn deer. But I guess she's never boring."
+        "Eliwood hatched a plan to search for his father, but he didn't even come to me for help. Really, Eliwood?",
+        "My brother is no fool. We all hear what he tells people, but he knows what I'm up to, make no mistake.",
+        "You know, now that I think about it...I suspect Eliwood got himself mixed up in that succession dispute in Caelin.",
+        "Ostia is crawling with spies. Our neighbors want to know just how competent Uther will turn out to be.",
+        "Oh, we have spies too. I'd say the most competent in Ostia is Leila, no contest!"
       ],
       "Visit": [
-        "*hic* I'm...N\u00ed\u00f0h\u00f6ggr. I'm here to... Uh... What was it again? Oh yeah! I'm N\u00ed\u00f0h\u00f6ggr."
+        "Eliwood and I are thick as thieves\u2014 like you and [F]!"
       ],
       "Level": [
-        "I'm the Quieting Dose. That's me.",
-        "*hic* Heh. I'm starting to feel good...",
-        "Haha! I'm dizzy..."
+        "This is a battlefield. If you don't want to die, then you'd better run.",
+        "No time to talk\u2014I have to mop up some ne'er-do-wells.",
+        "Don't sweat the small stuff!"
       ],
       "Summon": [
-        "I am the Quieting Dose, N\u00ed\u00f0h\u00f6ggr. Forget about family, I just wanna relax and have a good time... *hic*"
+        "No need to be formal. Name's Hector, and I'll take care of what needs taking care of."
       ],
       "Learn Skill": [
-        "Uh... For me? Wh-what the heck? Why are you being nice? You're throwing me off."
+        "Oho! High expectations, I see!"
       ],
       "Confession": [
-        "Ah... *hic* Hey, Summoner, why don't you take a bite too?\nFamily? They're just people ya can't stand but can't cut out of your life 'cause you're too connected.\nOne time, I went to heal some people with Hr\u00e6svelgr and Ratatoskr. Wanna hear about it?\nNo, you don't. It was a rough time.\nThat's why I'm going it alone now. I'm good like this. Seriously. But...\nAh no! I'm not going there! I've had too much of this fruit, but...maybe I I need just one more."
+        "Eliwood and I have been bound since we were kids. We even swore a warrior's oath.\nWe cut the palms of our hands and pressed them together, mingling our blood.\nWe vowed that if either of us was in danger, the other would stake his life. That day, we became men.\nAnd now Eliwood's father, Lord Elbert, has gone missing. This is serious.\nProblem is, I can't mobilize Ostia's army. My brother must be chafing at that too. He looks up to Elbert.\nAll this is to say that I'm going to help on my own\u2014unofficially speaking.\nI don't know who's responsible. Be it the Black Fang or not, I give you my word I'll crush them!"
       ],
       "Special": [
-        "Keep it coming!",
-        "That's the stuff!",
-        "One more can't hurt...",
-        "Sk\u00e1l!"
+        "I won't hold back!",
+        "Bring it on!",
+        "I can't lose!",
+        "For Eliwood!"
       ],
       "Status": [
-        "-",
-        "N\u00ed\u00f0h\u00f6ggr! That's meee! I handle poisons for... For... Ah, I lost my train of thought there.",
-        "Care for a bite? Juuust a nibble? You might like it...",
-        "Ahh... Let me savor this bite for a moment...",
-        "Ugh. Indulge one day, regret it the next...",
-        "Hr\u00e6svelgr hates fun. Always sooo...on edge.",
-        "Ratatoskr can make her own choices, y'know?",
-        "And this can help you forget your troubles\u2014for a while, at least..."
+        "Oh ho...",
+        "This outfit matches his. Do we need to dress exactly the same?",
+        "Whoa! Do you need something to keep you occupied?",
+        "Eliwood is not built as sturdy as I am. I hope he doesn't do anything reckless.",
+        "Is there no one willing to spar with me?",
+        "I will always rush to his aid, even when I am a feeble old man.",
+        "Eliwood. If you die before me, I will never forgive you!",
+        "I am close to Eliwood because we share the same worldview. My friendship with you is growing for the same reasons, Summoner."
       ],
       "Map Select": [
-        "Comin' right up!",
-        "Slow down...",
-        "Lemme...just..."
+        "I see.",
+        "Point the way!",
+        "There they are!"
       ],
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
       "resplendent": {}
     },
-    "short_name": "N\u00ed\u00f0h\u00f6ggr",
-    "SEARCH_NAME": "N\u00ed\u00f0h\u00f6ggr",
-    "DISPLAY_NAME": "<:Red_Beast:1124846309208248381>N\u00ed\u00f0h\u00f6ggr",
+    "short_name": "Attuned Hector",
+    "SEARCH_NAME": "Attuned Hector",
+    "DISPLAY_NAME": "<:Red_Sword:1124846201070698536>Attuned Hector",
     "RANDOM_IGNORE": true,
     "alt": false,
-    "reference": [],
+    "reference": [
+      "hector",
+      "hector2",
+      "hector3",
+      "hector4",
+      "hector5",
+      "hector6"
+    ],
     "prf": {
-      "": "enticingdose",
-      "eff": "enticingdose",
-      "atk": "enticingdose",
-      "spd": "enticingdose",
-      "def": "enticingdose",
-      "res": "enticingdose"
-    },
-    "blessing": "Astra"
+      "": "fellowshipblade",
+      "eff": "fellowshipblade",
+      "atk": "fellowshipblade",
+      "spd": "fellowshipblade",
+      "def": "fellowshipblade",
+      "res": "fellowshipblade"
+    }
   },
-  "laeradr": {
-    "name": "L\u00e6ra\u00f0r",
-    "title": "Quieting Heart",
-    "description": "Leader of the Healing Hands of Yggdrasill. He is known to control people's hearts.",
-    "origin": "Heroes",
-    "artist": "Kozaki Yusuke (\u30b3\u30b6\u30ad\u30e6\u30fc\u30b9\u30b1)",
-    "move": "Armored",
-    "weapon": "Beast",
+  "leila3": {
+    "name": "Leila",
+    "title": "Superb Shadow",
+    "description": "A spy who serves House Ostia. She is exceptionally skilled and loyal, and has a romantic relationship with Matthew. Appears in Fire Emblem: The Blazing Blade.",
+    "origin": "The Blazing Blade",
+    "artist": "\u3048\u304f",
+    "move": "Infantry",
+    "weapon": "Dagger",
     "color": "Colorless",
     "duel": false,
-    "id": "1172",
-    "type": "legendary",
-    "version": "8.11",
+    "id": "1176",
+    "type": "rearmed",
+    "version": "9.0",
     "duo": false,
     "harmonized": false,
     "emblem": false,
     "base": {
-      "hp": 24,
-      "atk": 13,
-      "spd": 4,
-      "def": 11,
+      "hp": 18,
+      "atk": 10,
+      "spd": 9,
+      "def": 8,
       "res": 9
     },
     "growth": {
-      "hp": 60,
+      "hp": 50,
       "atk": 80,
-      "spd": 30,
-      "def": 75,
+      "spd": 90,
+      "def": 45,
+      "res": 55
+    },
+    "superboon": [
+      "spd",
+      "def"
+    ],
+    "superbane": [
+      "hp"
+    ],
+    "weapons": {
+      "Iron Dagger": "1",
+      "Steel Dagger": "3",
+      "Silver Dagger": "3",
+      "Arcane Sly Knife": "5"
+    },
+    "assist": {},
+    "special": {
+      "New Moon": "3",
+      "Luna": "4",
+      "Lethality": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Spd Finish 1": "2",
+        "Atk/Spd Finish 2": "3",
+        "Atk/Spd Finish 3": "4",
+        "Atk/Spd Finish 4": "5"
+      },
+      "B": {
+        "Dark Perfume": "5"
+      },
+      "C": {
+        "Lookout 1": "2",
+        "Lookout 2": "3",
+        "Lookout 3": "4",
+        "Lookout Force": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/29/Leila_Superb_Shadow_Face.webp/revision/latest?cb=20241205203050",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d3/Leila_Superb_Shadow_BtlFace_D.webp/revision/latest?cb=20241205203045",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/38/Leila_Superb_Shadow_BtlFace_C.webp/revision/latest?cb=20241205203040",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/10/Leila_Superb_Shadow_BtlFace.webp/revision/latest?cb=20241205203025"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Superb Shadow",
+      "Leila: Superb Shadow",
+      "Rearmed Leila",
+      "Rearm Leila",
+      "Arm Leila",
+      "leila3"
+    ],
+    "HARD_ALT_NAME": [
+      "Superb Shadow",
+      "Leila: Superb Shadow",
+      "Rearmed Leila",
+      "Rearm Leila",
+      "Arm Leila",
+      "leila3"
+    ],
+    "gender": "F",
+    "rarity": 5,
+    "pool": "focus",
+    "internal_id": "PID_\u9b54\u5668\u30ec\u30a4\u30e9",
+    "voice": "Hikasa Yoko (\u65e5\u7b20\u967d\u5b50)",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": "fe7",
+    "quotes": {
+      "Castle Hall": [
+        "Valor, the Dread Isle, is off the southern coast of Lycia. I hear the Dragon's Gate is there...",
+        "I was following Lord Uther's orders to investigate Marquess Pherae's disappearance.",
+        "You should really rest. The only reason I can work nonstop is because I've trained for it.",
+        "This castle is not the most secure, but in the areas that really matter, it's managed well. Impressive.",
+        "I posed as a member of the Black Fang for the past several months."
+      ],
+      "Visit": [
+        "I am Leila. Pleased to make your acquaintance. This is a gift from [F]."
+      ],
+      "Level": [
+        "Seems you were too late to challenge me. Get lost, won't you?",
+        "Not bad.",
+        "Just keep moving, Matthew...like you always do..."
+      ],
+      "Summon": [
+        "I'm Leila. My job is to gather intel, infiltrate the enemy, and sabotage them. All good uses of my skills."
+      ],
+      "Learn Skill": [
+        "Thank you. I take it this is to prepare for our next job, right?"
+      ],
+      "Confession": [
+        "The Black Fang were once regarded as chivalrous by the common folk.\nAs an organization of assassins, they targeted only nobles who preyed on the weak.\nBut their leader has changed since his second marriage. Now, their targets are based purely on price.\nA mysterious man, Nergal, controls the Black Fang through their leader's new wife, Sonia.\nMy role is to determine Nergal's goals and prevent him from achieving them.\nI have a bad feeling... Lord Uther does as well. We must stop the Black Fang, at any cost!"
+      ],
+      "Special": [
+        "Watch yourself!",
+        "Got what it takes?",
+        "Don't underestimate me.",
+        "This'll end it!"
+      ],
+      "Status": [
+        "-",
+        "So, what do you think? New weapon, new outfit...",
+        "Hey! That's it, you've done it. One day, you'll pay for this. *chuckle*",
+        "People want to know what you like. They keep asking me.",
+        "I would have served Lord Uther even at the cost of my life.",
+        "I can see Lord Hector is acting rashly, per usual...",
+        "If Matthew sees me\u2014 No, I shouldn't be daydreaming. I need to keep my head clear, my hopes low.",
+        "Go on, give me an order. Anything at all, I'll get it done. I'm more than sly words, you know."
+      ],
+      "Map Select": [
+        "Right away.",
+        "What's the plan?",
+        "It will be swift."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Rearmed Leila",
+    "SEARCH_NAME": "Rearmed Leila",
+    "DISPLAY_NAME": "<:Colorless_Dagger:1124845658617155734>Rearmed Leila",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [
+      "leila",
+      "leila2"
+    ],
+    "prf": {
+      "": "arcaneslyknife",
+      "eff": "arcaneslyknife",
+      "atk": "arcaneslyknife",
+      "spd": "arcaneslyknife",
+      "def": "arcaneslyknife",
+      "res": "arcaneslyknife"
+    }
+  },
+  "rune": {
+    "name": "Rune",
+    "title": "Source of Wisdom",
+    "description": "A boy who fled from \u00c1sgar\u00f0r, the celestial realm. Through his mysterious power he can decipher writings that depict the beginning of creation.",
+    "origin": "Heroes",
+    "artist": "Maeshima Shigeki (\u524d\u5d8b\u91cd\u6a5f)",
+    "move": "Infantry",
+    "weapon": "Tome",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1174",
+    "type": "legendary",
+    "version": "9.0",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 15,
+      "atk": 12,
+      "spd": 11,
+      "def": 6,
+      "res": 9
+    },
+    "growth": {
+      "hp": 50,
+      "atk": 80,
+      "spd": 55,
+      "def": 35,
       "res": 90
     },
     "superboon": [
       "res"
     ],
     "superbane": [
-      "spd",
-      "def"
+      "hp"
     ],
     "weapons": {
-      "Whelp (Armored)": "1",
-      "Yearling (Arm.)": "2",
-      "Adult (Armored)": "3",
-      "Quieting Branch": "5"
+      "Stone": "1",
+      "Elstone": "3",
+      "Atlas": "3",
+      "\u00d3\u00f0r of Creation": "5"
     },
     "assist": {},
     "special": {
-      "Chilling Wind": "3",
-      "Iceberg": "4",
-      "Armored Floe": "5"
+      "Daylight": "3",
+      "Noontime": "4",
+      "Flare": "5"
     },
     "passive": {
       "A": {
-        "Atk/Res Form 1": "2",
-        "Atk/Res Form 2": "3",
-        "Atk/Res Form 3": "4",
-        "Atk/Res Fortune": "5"
+        "Warding Blow 1": "2",
+        "Mirror Strike 1": "3",
+        "Mirror Strike 2": "4",
+        "Sly Mirror": "5"
       },
       "B": {
-        "Yggdrasill's Alter": "5"
+        "Font of Wisdom": "5"
       },
       "C": {
-        "Distant Guard 1": "2",
-        "Distant Guard 2": "3",
-        "Distant Guard 3": "4",
-        "Barricade": "5"
+        "Time's Pulse 1": "2",
+        "Time's Pulse 2": "3",
+        "Time's Pulse 3": "4",
+        "Pulse Up: Ploy": "5"
       },
       "X": {}
     },
     "images": {
-      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Laeradr_Quieting_Heart_Face.webp/revision/latest?cb=20240816044308",
-      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/98/Laeradr_Quieting_Heart_BtlFace_D.webp/revision/latest?cb=20240816044303",
-      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/63/Laeradr_Quieting_Heart_BtlFace_C.webp/revision/latest?cb=20240816044258",
-      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/77/Laeradr_Quieting_Heart_BtlFace.webp/revision/latest?cb=20240816044244"
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/06/Rune_Source_of_Wisdom_Face.webp/revision/latest?cb=20241205201822",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b0/Rune_Source_of_Wisdom_BtlFace_D.webp/revision/latest?cb=20241205202459",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5f/Rune_Source_of_Wisdom_BtlFace_C.webp/revision/latest?cb=20241205202454",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c2/Rune_Source_of_Wisdom_BtlFace.webp/revision/latest?cb=20241205202439"
     },
     "resplendent_images": false,
     "ALT_NAME": [
-      "Quieting Heart",
-      "L\u00e6ra\u00f0r: Quieting Heart",
-      "Base, Normal, Regular L\u00e6ra\u00f0r",
-      "laeradr"
+      "Source of Wisdom",
+      "Rune: Source of Wisdom",
+      "Base Rune",
+      "Normal Rune",
+      "Regular Rune",
+      "rune"
     ],
     "HARD_ALT_NAME": [
-      "Quieting Heart",
-      "L\u00e6ra\u00f0r: Quieting Heart",
-      "Base, Normal, Regular L\u00e6ra\u00f0r",
-      "laeradr"
+      "Source of Wisdom",
+      "Rune: Source of Wisdom",
+      "Base Rune",
+      "Normal Rune",
+      "Regular Rune",
+      "rune"
     ],
     "gender": "M",
     "rarity": 5,
     "pool": "legend",
-    "internal_id": "PID_\u30ec\u30fc\u30e9\u30ba\u5473\u65b9",
-    "voice": "Bob Carter",
+    "internal_id": "PID_\u30eb\u30fc\u30f3",
+    "voice": "Veronica Taylor",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -263,69 +445,233 @@
     "chibi": "heroes",
     "quotes": {
       "Castle Hall": [
-        "To heal those who suffer throughout the nine realms... That was once the role of the Healing Hands.",
-        "The first life I took was that of a king. I transformed my power, and then delivered him to madness and death.",
-        "It is quite simple. I transform the mortal heart how I please\u2014be it into a state of misery or peace.",
-        "My family...",
-        "I once had a family... Though perhaps that, too, is a falsehood."
+        "Midgard...the world of mortals... This is a place I have only heard of in stories and legends.",
+        "The celestial realm of \u00c1sgar\u00f0r is ruled by Alfa\u00f0\u00f6r, the king of heaven.",
+        "There exist mysterious writings that tell of all creation. I wonder who wrote them...",
+        "It is said that there is one creator of all the nine worlds. For what purpose would they do this...",
+        "\u00c1sgar\u00f0r and Vanaheimr are both realms of gods. One day, I would like to visit Vanaheimr, the realm of light."
       ],
       "Visit": [
-        "You must be [S]. I will remember that."
+        "Hello. I am Rune. I offer you greetings from [F]."
       ],
       "Level": [
-        "To quiet hearts... That is what I do.",
-        "Tell me, shall I be pleased or shall I be disappointed?",
-        "I apologize. I have failed to meet your expectations."
+        "One day...I want to be able to fight like the gods and heroes from the stories I have heard.",
+        "Is it even possible for someone like me to fight like a hero?",
+        "I knew it... I am sorry..."
       ],
       "Summon": [
-        "I am L\u00e6ra\u00f0r, leader of the Healing Hands and of the Quieting Hands. Which me do you prefer?"
+        "I am Rune. The Celestial King is after me. That is why I fled \u00c1sgar\u00f0r..."
       ],
       "Learn Skill": [
-        "How shall I offer my gratitude? Would you like me to transform your heart?"
+        "Th-thank you! With this, do you think I can learn to fight?"
       ],
       "Confession": [
-        "My children...have all died...\nNo replacements will ever satisfy the longing in my heart. I could never truly love those who are not mine.\nOf course, they have loved me... That is how I made them.\nIt is a simple thing, to transform a heart. I could even transform my own to be filled with joy.\nHowever, I shall remain as I am, harboring the sadness of losing my family, suffering from my mistakes."
+        "I have been weak since I was little... I never went outside much.\nThe only comfort I felt was from the legendary stories I read... Stories of heroic adventures.\nThere was one... The Twilit Runes. It told of a great battle between the gods and the heroes...\nReading it, I imagined myself as a hero in battle. I want to have an adventure like that one day...\nWhen I am with you, I feel excited for our adventures together. Would you mind if I stay with you awhile longer?"
       ],
       "Special": [
-        "I sow the seeds...",
-        "You haven't the heart.",
-        "Describe the pain.",
-        "A poor prognosis."
+        "Pardon me...",
+        "What should I...",
+        "Fighting...",
+        "I have no choice!"
       ],
       "Status": [
-        "Hm.",
-        "I am L\u00e6ra\u00f0r. I was once leader of the Healing Hands.",
-        "I know the techniques used to move the mortal heart\u2014to soothe it, to crush it\u2014all at my will.",
-        "To heal a heart is to transform it. I select the form it takes.",
-        "Whom do you think would make a truly terrifying assassin? I wonder...",
-        "At the count of three, you will be at my command. One, two...",
-        "Peace, and family... Those two things are all I've ever desired.",
-        "I see the weight that sits on your heart. I could help to lift it, you know..."
+        "Oh...",
+        "I fled from the celestial realm of \u00c1sgar\u00f0r... I am Rune.",
+        "*gasp* Oh, I am sorry. Did I make a mistake?",
+        "I know where I came from, but... I am no god.",
+        "Throughout the nine worlds, there are mysterious writings that tell of all creation.",
+        "I came to realize I am able to decipher some of the writing, but...only a small part.",
+        "Alfa\u00f0\u00f6r is the king of heaven. He...is after me...",
+        "I am interested in learning more about you. Do you mind if I stay?"
       ],
       "Map Select": [
-        "Ah, yes.",
-        "Show me where.",
-        "As you will."
+        "Right.",
+        "What now?",
+        "I will try."
       ],
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
       "resplendent": {}
     },
-    "short_name": "L\u00e6ra\u00f0r",
-    "SEARCH_NAME": "L\u00e6ra\u00f0r",
-    "DISPLAY_NAME": "<:Colorless_Beast:1124845615935918110>L\u00e6ra\u00f0r",
+    "short_name": "Rune",
+    "SEARCH_NAME": "Rune",
+    "DISPLAY_NAME": "<:Colorless_Tome:1124845725960904734>Rune",
     "RANDOM_IGNORE": true,
     "alt": false,
     "reference": [],
     "prf": {
-      "": "quietingbranch",
-      "eff": "quietingbranch",
-      "atk": "quietingbranch",
-      "spd": "quietingbranch",
-      "def": "quietingbranch",
-      "res": "quietingbranch"
+      "": "odrofcreation",
+      "eff": "odrofcreation",
+      "atk": "odrofcreation",
+      "spd": "odrofcreation",
+      "def": "odrofcreation",
+      "res": "odrofcreation"
     },
-    "blessing": "Dark"
+    "blessing": "Light"
+  },
+  "uther": {
+    "name": "Uther",
+    "title": "Frugal Militarist",
+    "description": "Marquess Ostia, the head of the Lycian League. Though his body appears strong, he suffers from an incurable disease. Appears in Fire Emblem: The Blazing Blade.",
+    "origin": "The Blazing Blade",
+    "artist": "Kita Senri (\u5317\u5343\u91cc)",
+    "move": "Armored",
+    "weapon": "Axe",
+    "color": "Green",
+    "duel": false,
+    "id": "1177",
+    "type": false,
+    "version": "9.0",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 17,
+      "atk": 9,
+      "spd": 6,
+      "def": 16,
+      "res": 13
+    },
+    "growth": {
+      "hp": 70,
+      "atk": 90,
+      "spd": 35,
+      "def": 70,
+      "res": 70
+    },
+    "superboon": [
+      "hp",
+      "atk",
+      "def",
+      "res"
+    ],
+    "superbane": [],
+    "weapons": {
+      "Iron Axe": "1",
+      "Steel Axe": "3",
+      "Pursual Axe": "3",
+      "Pursual Axe+": "5"
+    },
+    "assist": {},
+    "special": {
+      "Glowing Ember": "3",
+      "Ignis": "4"
+    },
+    "passive": {
+      "A": {},
+      "B": {
+        "Special Fighter 1": "3",
+        "Special Fighter 2": "4",
+        "Special Fighter 3": "5"
+      },
+      "C": {
+        "Def Tactic 1": "1",
+        "Def Tactic 2": "2",
+        "Def Tactic 3": "4"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/43/Uther_Frugal_Militarist_Face.webp/revision/latest?cb=20241205203125",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/09/Uther_Frugal_Militarist_BtlFace_D.webp/revision/latest?cb=20241205203120",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/db/Uther_Frugal_Militarist_BtlFace_C.webp/revision/latest?cb=20241205203115",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/4/4f/Uther_Frugal_Militarist_BtlFace.webp/revision/latest?cb=20241205203100"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Frugal Militarist",
+      "Uther: Frugal Militarist",
+      "Base Uther",
+      "Normal Uther",
+      "Regular Uther",
+      "Hector's Brother",
+      "uther"
+    ],
+    "HARD_ALT_NAME": [
+      "Frugal Militarist",
+      "Uther: Frugal Militarist",
+      "Base Uther",
+      "Normal Uther",
+      "Regular Uther",
+      "Hector's Brother",
+      "uther"
+    ],
+    "gender": "M",
+    "rarity": 0,
+    "pool": "",
+    "internal_id": "PID_\u30a6\u30fc\u30bc\u30eb",
+    "voice": "Byron Patrick",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "elibe"
+    ],
+    "chibi": "fe7",
+    "quotes": {
+      "Castle Hall": [
+        "Hector, the headstrong fool, has not been in contact in some time. He is a nitwit, hmph... But I worry about him.",
+        "I am sorry about Lord Elbert. I was powerless to help. I did wrong by Eliwood.",
+        "Wounds may heal, but it seems one's innards are not so simple. One must pay for the recklessness of youth.",
+        "What is Nergal after? Commanding the Black Fang across all of Elibe, stirring discord in every land...",
+        "An invasion would be madness. My brother must understand that. If there is a problem, he must act alone."
+      ],
+      "Visit": [
+        "There is something to learn from any castle. I must thank your friend for the introduction."
+      ],
+      "Level": [
+        "None should allow themselves excess luxury. Doing so can lead to mental and physical depravity!\nThe heart of Ostia lies in working hard and paying respect to valor.",
+        "I will aid you as much as I can.",
+        "Urk... *cough* *cough* Worry not. It has settled. It was nothing."
+      ],
+      "Summon": [
+        "I am Uther, Marquess Ostia, leader of Lycia. I cannot shame myself before my brother or his acquaintances."
+      ],
+      "Learn Skill": [
+        "Your thoughtfulness is impressive. I feel compelled to do something in return."
+      ],
+      "Confession": [
+        "If asked to choose between me and his country, my brother would not hesitate in rushing to my side.\nThough he speaks in anger, we are brothers. We are our only family. I would never doubt his affection.\nYet what if the choice were between brother and friend? To choose one would mean abandoning the other.\nHe would come to despise himself, whatever his choice. Ostia's treasure must not bear such a burden.\nI ask that you please think of our meeting as an important twist of fate, [S].\nAnd I want you to watch over my brother...watch over Hector.\nThis is the first and only request I have ever and will ever make, not as Marquess Ostia, but as a brother."
+      ],
+      "Special": [
+        "You fool!",
+        "Calm yourself!",
+        "You will not leave!",
+        "I stand for Ostia!"
+      ],
+      "Status": [
+        "Hmm...",
+        "I am Uther, Marquess Ostia. You may know Hector, my fool of a brother.",
+        "Oh, it is you. Haha... I thought it was that headstrong fool...",
+        "Ah, Hector...don't trouble Lord Eliwood by being overly obstinate.",
+        "For generations, our ancestors dedicated themselves to a sort of...frugal militarism.",
+        "I still regret what happened to Lord Elbert. I was powerless to help.",
+        "Oswin, Hector... This is in your hands now.",
+        "Do your best for all of us, and I will do all I can to help you."
+      ],
+      "Map Select": [
+        "So be it.",
+        "Hmm...",
+        "All will be fine."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "Uther",
+    "SEARCH_NAME": "Uther",
+    "DISPLAY_NAME": "<:Green_Axe:1124845885277343754>Uther",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "pursualaxe",
+      "eff": "pursualaxe",
+      "atk": "pursualaxe",
+      "spd": "pursualaxe",
+      "def": "pursualaxe",
+      "res": "pursualaxe"
+    }
   }
 }

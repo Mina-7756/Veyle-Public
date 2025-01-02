@@ -11379,7 +11379,14 @@
       "Summer Dedue",
       "S Dedue",
       "Beach Dedue",
-      "dedue2"
+      "dedue2",
+      "Frugal Militarist",
+      "Uther: Frugal Militarist",
+      "Base Uther",
+      "Normal Uther",
+      "Regular Uther",
+      "Hector's Brother",
+      "uther"
     ],
     "HARD_ALT_NAME": [
       "ryoma",
@@ -11713,7 +11720,14 @@
       "Summer Dedue",
       "S Dedue",
       "Beach Dedue",
-      "dedue2"
+      "dedue2",
+      "Frugal Militarist",
+      "Uther: Frugal Militarist",
+      "Base Uther",
+      "Normal Uther",
+      "Regular Uther",
+      "Hector's Brother",
+      "uther"
     ],
     "heroes": {
       "aelfric": "<:Red_Tome:1124846175577710642>Aelfric",
@@ -11748,6 +11762,7 @@
       "soren5": "<:Green_Tome:1124845959873036289>Brave Soren",
       "sothe2": "<:Green_Dagger:1124845796169351320>Thief Sothe",
       "tibarn2": "<:Colorless_Beast:1124845615935918110>Pirate Tibarn",
+      "uther": "<:Green_Axe:1124845885277343754>Uther",
       "volke": "<:Red_Dagger:1124846223518605324>Volke"
     },
     "name": "Kita Senri (\u5317\u5343\u91cc)"
@@ -13590,7 +13605,13 @@
       "Asgard Loki",
       "Mythic Loki",
       "Legendary Loki",
-      "loki3"
+      "loki3",
+      "Source of Wisdom",
+      "Rune: Source of Wisdom",
+      "Base Rune",
+      "Normal Rune",
+      "Regular Rune",
+      "rune"
     ],
     "HARD_ALT_NAME": [
       "xander",
@@ -13779,7 +13800,13 @@
       "Asgard Loki",
       "Mythic Loki",
       "Legendary Loki",
-      "loki3"
+      "loki3",
+      "Source of Wisdom",
+      "Rune: Source of Wisdom",
+      "Base Rune",
+      "Normal Rune",
+      "Regular Rune",
+      "rune"
     ],
     "heroes": {
       "camilla": "<:Green_Axe:1124845885277343754>Camilla",
@@ -13797,6 +13824,7 @@
       "laevatein": "<:Red_Sword:1124846201070698536>Laevatein",
       "loki": "<:Colorless_Staff:1124845704444137592>Loki",
       "loki3": "<:Colorless_Staff:1124845704444137592>Mythic Loki",
+      "rune": "<:Colorless_Tome:1124845725960904734>Rune",
       "shamir": "<:Green_Bow:1124845936426897428>Shamir",
       "surtr": "<:Green_Axe:1124845885277343754>Surtr",
       "thorr": "<:Green_Axe:1124845885277343754>Th\u00f3rr",
@@ -24468,7 +24496,12 @@
       "F B Robin",
       "Female Choose Your Legends Robin",
       "robin16",
-      "frobin8"
+      "frobin8",
+      "Steel Warrior",
+      "Hector: Steel Warrior",
+      "Sword Hector",
+      "Attuned Hector",
+      "hector7"
     ],
     "HARD_ALT_NAME": [
       "Valentine Lin",
@@ -24923,7 +24956,12 @@
       "F B Robin",
       "Female Choose Your Legends Robin",
       "robin16",
-      "frobin8"
+      "frobin8",
+      "Steel Warrior",
+      "Hector: Steel Warrior",
+      "Sword Hector",
+      "Attuned Hector",
+      "hector7"
     ],
     "heroes": {
       "asbel": "<:Green_Tome:1124845959873036289>Asbel",
@@ -24940,6 +24978,7 @@
       "frederick3": "<:Green_Axe:1124845885277343754>Young Frederick",
       "hector3": "<:Green_Axe:1124845885277343754>Legendary Hector",
       "hector5": "<:Red_Sword:1124846201070698536>Duo Hector",
+      "hector7": "<:Red_Sword:1124846201070698536>Attuned Hector",
       "inigo": "<:Red_Sword:1124846201070698536>Inigo",
       "leonie": "<:Colorless_Bow:1124845636659982457>Summer Leonie",
       "louise2": "<:Colorless_Bow:1124845636659982457>Bridal Louise",
@@ -27763,6 +27802,28 @@
       "Christmas Hortensia",
       "W Hortensia",
       "hortensia2"
+    ]
+  },
+  "eku": {
+    "heroes": {
+      "leila3": "<:Colorless_Dagger:1124845658617155734>Rearmed Leila"
+    },
+    "name": "\u3048\u304f",
+    "ALT_NAME": [
+      "Superb Shadow",
+      "Leila: Superb Shadow",
+      "Rearmed Leila",
+      "Rearm Leila",
+      "Arm Leila",
+      "leila3"
+    ],
+    "HARD_ALT_NAME": [
+      "Superb Shadow",
+      "Leila: Superb Shadow",
+      "Rearmed Leila",
+      "Rearm Leila",
+      "Arm Leila",
+      "leila3"
     ]
   }
 }

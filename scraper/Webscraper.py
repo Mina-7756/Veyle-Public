@@ -40,7 +40,7 @@ def determine_key(name):
 
 def scrape_page(page_name, alts=None, version=None):
     if alts is None:
-        alts = ["Base, Normal, Regular"]
+        alts = ["Base", "Normal", "Regular"]
     if version is None:
         book = datetime.now().year - 2016
         chapter = datetime.now().month

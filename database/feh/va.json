@@ -21937,7 +21937,12 @@
       "Normal Doga",
       "Normal Mamori",
       "Mamori: Microwavin' Idol",
-      "Normal Bramimmond"
+      "Normal Bramimmond",
+      "Steel Warrior",
+      "Hector: Steel Warrior",
+      "Sword Hector",
+      "Attuned Hector",
+      "hector7"
     ],
     "HARD_ALT_NAME": [
       "Mysterious Knight",
@@ -22089,7 +22094,12 @@
       "Sirius",
       "Normal Bramimmond",
       "edrag1",
-      "M Brammimmond"
+      "M Brammimmond",
+      "Steel Warrior",
+      "Hector: Steel Warrior",
+      "Sword Hector",
+      "Attuned Hector",
+      "hector7"
     ],
     "heroes": {
       "basilio": "<:Green_Axe:1124845885277343754>Basilio",
@@ -22104,6 +22114,7 @@
       "hector4R": "<:Blue_Lance:1124845569496584302>Brave Hector (Resplendent)",
       "hector5": "<:Red_Sword:1124846201070698536>Duo Hector",
       "hector6": "<:Green_Axe:1124845885277343754>Young Hector",
+      "hector7": "<:Red_Sword:1124846201070698536>Attuned Hector",
       "hectorR": "<:Green_Axe:1124845885277343754>Hector (Resplendent)",
       "mamori": "<:Green_Axe:1124845885277343754>Mamori",
       "sirius": "<:Blue_Lance:1124845569496584302>Sirius",
@@ -26751,7 +26762,13 @@
       "Resplendent Micaiah",
       "Resp Micaiah",
       "R Micaiah",
-      "Micaiah (Resplendent)"
+      "Micaiah (Resplendent)",
+      "Source of Wisdom",
+      "Rune: Source of Wisdom",
+      "Base Rune",
+      "Normal Rune",
+      "Regular Rune",
+      "rune"
     ],
     "HARD_ALT_NAME": [
       "micaiah",
@@ -26815,7 +26832,13 @@
       "Resplendent Micaiah",
       "Resp Micaiah",
       "R Micaiah",
-      "Micaiah (Resplendent)"
+      "Micaiah (Resplendent)",
+      "Source of Wisdom",
+      "Rune: Source of Wisdom",
+      "Base Rune",
+      "Normal Rune",
+      "Regular Rune",
+      "rune"
     ],
     "heroes": {
       "manuela": "<:Red_Sword:1124846201070698536>Winter Manuela",
@@ -26827,7 +26850,8 @@
       "micaiah5": "<:Colorless_Tome:1124845725960904734>Legendary Micaiah",
       "micaiah6": "<:Colorless_Tome:1124845725960904734>Summer Micaiah",
       "micaiah7": "<:Green_Tome:1124845959873036289>Attuned Micaiah",
-      "micaiahR": "<:Blue_Tome:1124845593211191297>Micaiah (Resplendent)"
+      "micaiahR": "<:Blue_Tome:1124845593211191297>Micaiah (Resplendent)",
+      "rune": "<:Colorless_Tome:1124845725960904734>Rune"
     },
     "name": "Veronica Taylor"
   },
@@ -29233,6 +29257,52 @@
       "N\u00ed\u00f0h\u00f6ggr: Quieting Dose",
       "Base, Normal, Regular N\u00ed\u00f0h\u00f6ggr",
       "nidhoggr"
+    ]
+  },
+  "hikasayoko": {
+    "heroes": {
+      "leila3": "<:Colorless_Dagger:1124845658617155734>Rearmed Leila"
+    },
+    "name": "Hikasa Yoko (\u65e5\u7b20\u967d\u5b50)",
+    "ALT_NAME": [
+      "Superb Shadow",
+      "Leila: Superb Shadow",
+      "Rearmed Leila",
+      "Rearm Leila",
+      "Arm Leila",
+      "leila3"
+    ],
+    "HARD_ALT_NAME": [
+      "Superb Shadow",
+      "Leila: Superb Shadow",
+      "Rearmed Leila",
+      "Rearm Leila",
+      "Arm Leila",
+      "leila3"
+    ]
+  },
+  "byronpatrick": {
+    "heroes": {
+      "uther": "<:Green_Axe:1124845885277343754>Uther"
+    },
+    "name": "Byron Patrick",
+    "ALT_NAME": [
+      "Frugal Militarist",
+      "Uther: Frugal Militarist",
+      "Base Uther",
+      "Normal Uther",
+      "Regular Uther",
+      "Hector's Brother",
+      "uther"
+    ],
+    "HARD_ALT_NAME": [
+      "Frugal Militarist",
+      "Uther: Frugal Militarist",
+      "Base Uther",
+      "Normal Uther",
+      "Regular Uther",
+      "Hector's Brother",
+      "uther"
     ]
   }
 }
