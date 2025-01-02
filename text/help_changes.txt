@@ -1,4 +1,4 @@
-My name is Veyle, i'm a bot made to show data based on the Fire Emblem games! I was created based on the open-source bot Oifey.
+My name is Ninian, i'm a bot made to show data based on the Fire Emblem games! I was created based on the open-source bot Oifey.
 
 All of the commands can also be used via DMs!
 
