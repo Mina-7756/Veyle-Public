@@ -133658,7 +133658,9 @@
     "HARD_ALT_NAME": [
       "nidhoggr",
       "N\u00ed\u00f0h\u00f6ggr: Quieting Dose",
-      "Base, Normal, Regular N\u00ed\u00f0h\u00f6ggr",
+      "Base N\u00ed\u00f0h\u00f6ggr",
+      "Normal N\u00ed\u00f0h\u00f6ggr",
+      "Regular N\u00ed\u00f0h\u00f6ggr",
       "Quieting Dose"
     ],
     "ALT_NAME": [],
@@ -133755,7 +133757,9 @@
     "HARD_ALT_NAME": [
       "Quieting Heart",
       "laeradr",
-      "Base, Normal, Regular L\u00e6ra\u00f0r",
+      "Base L\u00e6ra\u00f0r",
+      "Normal L\u00e6ra\u00f0r",
+      "Regular L\u00e6ra\u00f0r",
       "L\u00e6ra\u00f0r: Quieting Heart"
     ],
     "ALT_NAME": [],

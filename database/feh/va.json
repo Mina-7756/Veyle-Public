@@ -28835,7 +28835,9 @@
       "jarod",
       "Quieting Heart",
       "L\u00e6ra\u00f0r: Quieting Heart",
-      "Base, Normal, Regular L\u00e6ra\u00f0r",
+      "Base L\u00e6ra\u00f0r",
+      "Normal L\u00e6ra\u00f0r",
+      "Regular L\u00e6ra\u00f0r",
       "laeradr"
     ],
     "HARD_ALT_NAME": [
@@ -28847,7 +28849,9 @@
       "jarod",
       "Quieting Heart",
       "L\u00e6ra\u00f0r: Quieting Heart",
-      "Base, Normal, Regular L\u00e6ra\u00f0r",
+      "Base L\u00e6ra\u00f0r",
+      "Normal L\u00e6ra\u00f0r",
+      "Regular L\u00e6ra\u00f0r",
       "laeradr"
     ]
   },
@@ -29264,13 +29268,17 @@
     "ALT_NAME": [
       "Quieting Dose",
       "N\u00ed\u00f0h\u00f6ggr: Quieting Dose",
-      "Base, Normal, Regular N\u00ed\u00f0h\u00f6ggr",
+      "Base N\u00ed\u00f0h\u00f6ggr",
+      "Normal N\u00ed\u00f0h\u00f6ggr",
+      "Regular N\u00ed\u00f0h\u00f6ggr",
       "nidhoggr"
     ],
     "HARD_ALT_NAME": [
       "Quieting Dose",
       "N\u00ed\u00f0h\u00f6ggr: Quieting Dose",
-      "Base, Normal, Regular N\u00ed\u00f0h\u00f6ggr",
+      "Base N\u00ed\u00f0h\u00f6ggr",
+      "Normal N\u00ed\u00f0h\u00f6ggr",
+      "Regular N\u00ed\u00f0h\u00f6ggr",
       "nidhoggr"
     ]
   },
