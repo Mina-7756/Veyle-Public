@@ -1,8 +1,8 @@
 **Heroes**
-`@Veyle feh` - Heroes
+`@Ninian feh` - Heroes
 
-`@Veyle skill` - Shortcut for Heroes skills.
-`@Veyle art` - Shortcut for Heroes art.
-`@Veyle artist` - Shortcut for Heroes artist.
-`@Veyle va` - Shortcut for Heroes VA.
-`@Veyle quotes` - Shortcut for Heroes quotes.
+`@Ninian skill` - Shortcut for Heroes skills.
+`@Ninian art` - Shortcut for Heroes art.
+`@Ninian artist` - Shortcut for Heroes artist.
+`@Ninian va` - Shortcut for Heroes VA.
+`@Ninian quotes` - Shortcut for Heroes quotes.
