@@ -28783,7 +28783,8 @@
   },
   "bobcarter": {
     "heroes": {
-      "jarod": "<:Blue_Lance:1124845569496584302>Jarod"
+      "jarod": "<:Blue_Lance:1124845569496584302>Jarod",
+      "laeradr": "<:Colorless_Beast:1124845615935918110>L\u00e6ra\u00f0r"
     },
     "name": "Bob Carter",
     "ALT_NAME": [
@@ -28792,7 +28793,11 @@
       "Regular Jarod",
       "Base Jarod",
       "Normal Jarod",
-      "jarod"
+      "jarod",
+      "Quieting Heart",
+      "L\u00e6ra\u00f0r: Quieting Heart",
+      "Base, Normal, Regular L\u00e6ra\u00f0r",
+      "laeradr"
     ],
     "HARD_ALT_NAME": [
       "Nevassa General",
@@ -28800,7 +28805,11 @@
       "Regular Jarod",
       "Base Jarod",
       "Normal Jarod",
-      "jarod"
+      "jarod",
+      "Quieting Heart",
+      "L\u00e6ra\u00f0r: Quieting Heart",
+      "Base, Normal, Regular L\u00e6ra\u00f0r",
+      "laeradr"
     ]
   },
   "michaelsorich": {
@@ -29206,6 +29215,24 @@
       "W Eikthyrnir",
       "W Eiki",
       "eik\u00feyrnir2"
+    ]
+  },
+  "anjalikunapaneni": {
+    "heroes": {
+      "nidhoggr": "<:Red_Beast:1124846309208248381>N\u00ed\u00f0h\u00f6ggr"
+    },
+    "name": "Anjali Kunapaneni",
+    "ALT_NAME": [
+      "Quieting Dose",
+      "N\u00ed\u00f0h\u00f6ggr: Quieting Dose",
+      "Base, Normal, Regular N\u00ed\u00f0h\u00f6ggr",
+      "nidhoggr"
+    ],
+    "HARD_ALT_NAME": [
+      "Quieting Dose",
+      "N\u00ed\u00f0h\u00f6ggr: Quieting Dose",
+      "Base, Normal, Regular N\u00ed\u00f0h\u00f6ggr",
+      "nidhoggr"
     ]
   }
 }

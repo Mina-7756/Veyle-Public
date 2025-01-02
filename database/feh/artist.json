@@ -12614,7 +12614,15 @@
       "M Hraesvelgr",
       "Mythical Hraesvelgr",
       "Legendary Hraesvelgr",
-      "hraesvelgr"
+      "hraesvelgr",
+      "Quieting Dose",
+      "N\u00ed\u00f0h\u00f6ggr: Quieting Dose",
+      "Base, Normal, Regular N\u00ed\u00f0h\u00f6ggr",
+      "nidhoggr",
+      "Quieting Heart",
+      "L\u00e6ra\u00f0r: Quieting Heart",
+      "Base, Normal, Regular L\u00e6ra\u00f0r",
+      "laeradr"
     ],
     "HARD_ALT_NAME": [
       "lucy3",
@@ -12856,7 +12864,15 @@
       "M Hraesvelgr",
       "Mythical Hraesvelgr",
       "Legendary Hraesvelgr",
-      "hraesvelgr"
+      "hraesvelgr",
+      "Quieting Dose",
+      "N\u00ed\u00f0h\u00f6ggr: Quieting Dose",
+      "Base, Normal, Regular N\u00ed\u00f0h\u00f6ggr",
+      "nidhoggr",
+      "Quieting Heart",
+      "L\u00e6ra\u00f0r: Quieting Heart",
+      "Base, Normal, Regular L\u00e6ra\u00f0r",
+      "laeradr"
     ],
     "heroes": {
       "alfonse": "<:Red_Sword:1124846201070698536>Alfonse",
@@ -12876,10 +12892,12 @@
       "heidrun": "<:Green_Beast:1124845912385138738>Hei\u00f0r\u00fan",
       "hel": "<:Green_Axe:1124845885277343754>Hel",
       "hraesvelgr": "<:Blue_Beast:1124845338688233575>Hr\u00e6svelgr",
+      "laeradr": "<:Colorless_Beast:1124845615935918110>L\u00e6ra\u00f0r",
       "letizia": "<:Green_Tome:1124845959873036289>Letizia",
       "lif": "<:Red_Sword:1124846201070698536>L\u00edf",
       "lif3": "<:Red_Sword:1124846201070698536>Rearmed L\u00edf",
       "lucina4": "<:Blue_Lance:1124845569496584302>Brave Lucina",
+      "nidhoggr": "<:Red_Beast:1124846309208248381>N\u00ed\u00f0h\u00f6ggr",
       "nott": "<:Blue_Lance:1124845569496584302>N\u00f3tt",
       "otr": "<:Green_Axe:1124845885277343754>\u00d3tr",
       "ratatoskr": "<:Blue_Beast:1124845338688233575>Ratatoskr",

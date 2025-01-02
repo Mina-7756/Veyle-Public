@@ -1,30 +1,30 @@
 {
-  "fomortiis2": {
-    "name": "Fomortiis",
-    "title": "Dark of Night",
-    "description": "The Demon King who once cast a long shadow over the continent of Magvel. His intention is to adorn Askr's festival night with terror... Appears in Fire Emblem: The Sacred Stones.",
-    "origin": "The Sacred Stones",
-    "artist": "Daisuke Izuka",
+  "nidhoggr": {
+    "name": "N\u00ed\u00f0h\u00f6ggr",
+    "title": "Quieting Dose",
+    "description": "A member of Yggdrasill's Healing Hands who prefers to remain intoxicated in order to keep her true feelings from coming to the surface.",
+    "origin": "Heroes",
+    "artist": "Kozaki Yusuke (\u30b3\u30b6\u30ad\u30e6\u30fc\u30b9\u30b1)",
     "move": "Armored",
     "weapon": "Beast",
     "color": "Red",
     "duel": false,
-    "id": "1183",
-    "type": false,
-    "version": "9.0",
+    "id": "1173",
+    "type": "legendary",
+    "version": "8.11",
     "duo": false,
     "harmonized": false,
     "emblem": false,
     "base": {
-      "hp": 23,
-      "atk": 12,
-      "spd": 3,
-      "def": 10,
-      "res": 13
+      "hp": 22,
+      "atk": 16,
+      "spd": 4,
+      "def": 9,
+      "res": 10
     },
     "growth": {
-      "hp": 60,
-      "atk": 80,
+      "hp": 65,
+      "atk": 75,
       "spd": 30,
       "def": 90,
       "res": 75
@@ -33,413 +33,64 @@
       "def"
     ],
     "superbane": [
+      "atk",
       "spd",
       "res"
     ],
     "weapons": {
       "Whelp (Armored)": "1",
-      "Yearling (Arm.)": "3",
+      "Yearling (Arm.)": "2",
       "Adult (Armored)": "3",
-      "Icy Ravager": "5"
+      "Enticing Dose": "5"
     },
     "assist": {},
     "special": {
-      "Holy Vestments": "3",
-      "Aegis": "4"
+      "Glowing Ember": "3",
+      "Ignis": "4",
+      "Sturdy Beast": "5"
     },
     "passive": {
       "A": {
-        "Leaden Regrets": "5"
+        "Divine Toxin": "5"
       },
       "B": {
-        "Hardy Fighter 1": "2",
-        "Hardy Fighter 2": "3",
-        "Hardy Fighter 3": "4",
-        "Shield Fighter": "5"
+        "Slick Fighter 1": "2",
+        "Slick Fighter 2": "3",
+        "Slick Fighter 3": "4",
+        "Slick Fighter 4": "5"
       },
       "C": {
         "A/D Far Save 1": "2",
         "A/D Far Save 2": "3",
         "A/D Far Save 3": "4",
-        "A/D Briar F Save": "5"
+        "A/D Twin F Save": "5"
       },
       "X": {}
     },
     "images": {
-      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b4/Fomortiis_Dark_of_Night_Face.webp/revision/latest?cb=20241213044016",
-      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/3/3c/Fomortiis_Dark_of_Night_BtlFace_D.webp/revision/latest?cb=20241213044011",
-      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/b/b8/Fomortiis_Dark_of_Night_BtlFace_C.webp/revision/latest?cb=20241213044006",
-      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/98/Fomortiis_Dark_of_Night_BtlFace.webp/revision/latest?cb=20241213043951"
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c0/Nidhoggr_Quieting_Dose_Face.webp/revision/latest?cb=20231206040838",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/69/Nidhoggr_Quieting_Dose_BtlFace_D.webp/revision/latest?cb=20240315043753",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/fd/Nidhoggr_Quieting_Dose_BtlFace_C.webp/revision/latest?cb=20240315043748",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c0/Nidhoggr_Quieting_Dose_BtlFace.webp/revision/latest?cb=20241129044043"
     },
     "resplendent_images": false,
     "ALT_NAME": [
-      "Dark of Night",
-      "Fomortiis: Dark of Night",
-      "Winter Fomortiis",
-      "Christmas Fomortiis",
-      "W Fomortiis",
-      "fomortiis2"
+      "Quieting Dose",
+      "N\u00ed\u00f0h\u00f6ggr: Quieting Dose",
+      "Base, Normal, Regular N\u00ed\u00f0h\u00f6ggr",
+      "nidhoggr"
     ],
     "HARD_ALT_NAME": [
-      "Dark of Night",
-      "Fomortiis: Dark of Night",
-      "Winter Fomortiis",
-      "Christmas Fomortiis",
-      "W Fomortiis",
-      "fomortiis2"
+      "Quieting Dose",
+      "N\u00ed\u00f0h\u00f6ggr: Quieting Dose",
+      "Base, Normal, Regular N\u00ed\u00f0h\u00f6ggr",
+      "nidhoggr"
     ],
-    "gender": "M",
-    "rarity": 0,
-    "pool": "seasonal",
-    "internal_id": "PID_\u51ac\u796d\u30d5\u30a9\u30c7\u30b9",
-    "voice": "Not yet recorded.",
-    "resplendent": false,
-    "resplendent_voice": false,
-    "RANDOM_POOL": [
-      "magvel"
-    ],
-    "chibi": "fe8",
-    "quotes": {
-      "Castle Hall": [
-        "Winter festival? Why does this call to mind those cursed sacred stones? Why does it enrage me so?!",
-        "I am king over all Magvel's evil. I am that which guides the world to chaos. Descend into despair!",
-        "Why? Why do the little brats gather so close to me?! Begone! I am no winter envoy!",
-        "The smiles and laughs of humans... This joyfulness is unwelcome in my world. I shall grind them all to dust.",
-        "Why must I lend my aid to these mortals' winter festival? Lyon, you wretch..."
-      ],
-      "Visit": [
-        "Fools lost in festival merriment! All of you will be thrust into the depths of the darkest of nightmares!"
-      ],
-      "Level": [
-        "Winter-festival blessings? What idiocy. I bring naught for you but the eternal blight of darkness!",
-        "I shall grant you the greatest gift... A future decorated in death and unyielding despair!",
-        "Curses! I am being thrown off! Is this outfit to blame?!"
-      ],
-      "Summon": [
-        "The time has come. My resurrection is nigh! The Demon King Fomortiis shall at last... What is this? A festival?!"
-      ],
-      "Learn Skill": [
-        "*chuckle* With this power, I shall fill the festivities with despair!"
-      ],
-      "Confession": [
-        "\u3010Summoner\u3011\n, you wretch...\nWhy have I been summoned to this winter festival? Humans enjoying themselves in harmony? BAH!\nSimpleton. Did you believe if you dressed me up in this ridiculous outfit that I would change my ways?!\nI shall submerge this festival in a sea of despair and wrap the world in the embrace of endless darkness!\nYou! Do not applaud me! This is no performance! I am serious! Deathly serious! Brats! Do not laugh at me!\nFine! I shall bestow upon you these toys! Get in a line! Begone from my sight once you have what is yours!\nI am Demon King Fomortiis, not some common jester! I shall exact wintery vengeance upon you someday!"
-      ],
-      "Special": [
-        "Your winter gift.",
-        "My festival begins.",
-        "Rejoice.",
-        "Lose yourself..."
-      ],
-      "Status": [
-        "-",
-        "What do you mean I am to be a winter-festival envoy? I am Fomortiis.",
-        "When you touch me next, your life will be forfeit.",
-        "Mortals are naive. They know not their place.",
-        "Flames burn brightest just before they are extinguished. This festival is no different...",
-        "You will pay for making me take part in this foolishness.",
-        "Lyon, you wretch... What are you so happy about?",
-        "Terror, despair, horror...which do you wish? It shall be yours."
-      ],
-      "Map Select": [
-        "Ah.",
-        "Hmmm...",
-        "Tremble in fear."
-      ],
-      "Conversation": false,
-      "Duo Skill": false,
-      "Back Unit Supporting": false,
-      "resplendent": {}
-    },
-    "short_name": "Winter Fomortiis",
-    "SEARCH_NAME": "Winter Fomortiis",
-    "DISPLAY_NAME": "<:Red_Beast:1124846309208248381>Winter Fomortiis",
-    "RANDOM_IGNORE": true,
-    "alt": false,
-    "reference": [
-      "fomortiis"
-    ],
-    "prf": {
-      "": "icyravager",
-      "eff": "icyravager",
-      "atk": "icyravager",
-      "spd": "icyravager",
-      "def": "icyravager",
-      "res": "icyravager"
-    }
-  },
-  "alear6": {
-    "name": "Alear",
-    "title": "Gifted Dragons",
-    "description": "Two Divine Dragons who adorn Askr's winter festival. And they are joined by the guardian spirit of the Somniel too. They appear in Fire Emblem Engage.",
-    "origin": "Engage",
-    "artist": "\u8449\u5c71\u3048\u3044\u3057",
-    "move": "Infantry",
-    "weapon": "Breath",
-    "color": "Blue",
-    "duel": false,
-    "id": "1180",
-    "type": false,
-    "version": "9.0",
-    "duo": false,
-    "harmonized": false,
-    "emblem": false,
-    "base": {
-      "hp": 18,
-      "atk": 10,
-      "spd": 7,
-      "def": 8,
-      "res": 6
-    },
-    "growth": {
-      "hp": 50,
-      "atk": 75,
-      "spd": 90,
-      "def": 50,
-      "res": 90
-    },
-    "superboon": [
-      "spd",
-      "res"
-    ],
-    "superbane": [
-      "hp",
-      "atk",
-      "def"
-    ],
-    "weapons": {
-      "Fire Breath": "1",
-      "Fire Breath+": "3",
-      "Flametongue": "3",
-      "Wintery Arts": "5"
-    },
-    "assist": {},
-    "special": {
-      "Chilling Wind": "3",
-      "Iceberg": "4",
-      "Dragon's Roar": "5"
-    },
-    "passive": {
-      "A": {
-        "Emblems' Miracle": "5"
-      },
-      "B": {
-        "Spd/Res Bulwark 1": "2",
-        "Spd/Res Bulwark 2": "3",
-        "Spd/Res Bulwark 3": "4",
-        "S/R Spiked Wall": "5"
-      },
-      "C": {
-        "Even Res Wave 1": "2",
-        "Even Res Wave 2": "3",
-        "Even Res Wave 3": "4",
-        "Even Res Wave D": "5"
-      },
-      "X": {}
-    },
-    "images": {
-      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d6/Alear_Gifted_Dragons_Face.webp/revision/latest?cb=20241213044201",
-      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/2/25/Alear_Gifted_Dragons_BtlFace_D.webp/revision/latest?cb=20241213044156",
-      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/f/f8/Alear_Gifted_Dragons_BtlFace_C.webp/revision/latest?cb=20241213044151",
-      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/07/Alear_Gifted_Dragons_BtlFace.webp/revision/latest?cb=20241213044136"
-    },
-    "resplendent_images": false,
-    "ALT_NAME": [
-      "Gifted Dragons",
-      "Alear: Gifted Dragons",
-      "Winter Alear",
-      "Winter Duo Alear",
-      "Christmas Alear",
-      "Christmas Duo Alear",
-      "W Alear",
-      "alear6"
-    ],
-    "HARD_ALT_NAME": [
-      "Gifted Dragons",
-      "Alear: Gifted Dragons",
-      "Winter Alear",
-      "Winter Duo Alear",
-      "Christmas Alear",
-      "Christmas Duo Alear",
-      "W Alear",
-      "alear6"
-    ],
-    "gender": "",
-    "rarity": 0,
-    "pool": "seasonal",
-    "internal_id": "PID_\u6bd4\u7ffc\u30ea\u30e5\u30fc\u30eb\u7537",
-    "voice": "Not yet recorded.",
-    "resplendent": false,
-    "resplendent_voice": false,
-    "RANDOM_POOL": [
-      "elyos"
-    ],
-    "chibi": "fe17",
-    "quotes": {
-      "Castle Hall": [
-        "**Alear:** Isn't Sommie a cute reindeer? Pulling a sleigh like that, the path glittering like a starry sky!",
-        "**Alear:** After my thousand-year sleep, I woke up to my mother, new friends, and a whole new life...\nSo I suppose I know what it's like to wake up to find wonderful gifts!",
-        "**Alear:** Let's do our best to deliver presents to everyone's bedside! But quietly, of course. Wouldn't want to wake them!",
-        "**Alear:** I saw a beautiful ice sculpture earlier that looked like a jewel. I wonder if that's what dragonstones look like...",
-        "**Alear:** Something about the snowscape is familiar. I feel like I made a vow, a pinky promise, in a place like this."
-      ],
-      "Visit": [
-        "**Alear:** Oops, you caught us! We were on our way to deliver a present to your bedside from [F]."
-      ],
-      "Level": [
-        "**Alear:** The winter festival is so fun! Let's go make more memories together!",
-        "**Alear:** I'm all warmed up and ready to have fun no matter the weather!",
-        "**Alear:** Brr, it's gotten cold... How about we put on more layers and try again?"
-      ],
-      "Summon": [
-        "Merry engage! We are the Divine Dragon Alear, here to celebrate the winter festival."
-      ],
-      "Learn Skill": [
-        "**Alear:** Thank you for the gift! I'll have to think of what to get you in return."
-      ],
-      "Confession": [
-        "**Alear:** Look at this food, Alear! Not even the Somniel's Caf\u00e9 Terrace had whole roast chickens or star-shaped sweets.\n**Alear:** Even the stalls themselves are a treat for the eyes. And speaking of stalls, I bought a present for you!\n**Alear:** Thank you! And what a coincidence\u2014 I have something for you too. Why don't we open them together?\n**Alear:** Oh, a snowflake badge! Somehow it doesn't surprise me that we got each other the same thing.\n**Alear:** I'd expect nothing less from my other self. It looks great on you! Of course, I got Sommie one too. Don't tell me...\n**Alear:** Yep, I also got Sommie a badge! Our little reindeer shines even brighter with two of them.\nThank you, Alear. This gift will be a wonderful reminder of all the fun we've had here.\nI'll cherish these memories long after the festival is over. Even thousands of years from now!"
-      ],
-      "Special": [
-        "**Duo:** Merry Engage!",
-        "**Duo:** Sommie! Here we go!",
-        "**Alear:** Winter of Divine Dragons!",
-        "**Alear:** For the winter festival!"
-      ],
-      "Status": [
-        "-",
-        "\"Meeting another me is the greatest gift of the winter festival.\" \"I feel the same!\""
-      ],
-      "Map Select": [
-        "It's snowing!",
-        "Look how it sparkles!",
-        "Come on, Sommie!"
-      ],
-      "Conversation": false,
-      "Duo Skill": false,
-      "Back Unit Supporting": false,
-      "resplendent": {}
-    },
-    "short_name": "Winter Duo Alear",
-    "SEARCH_NAME": "Winter Duo Alear",
-    "DISPLAY_NAME": "<:Blue_Breath:1124845312637403236>Winter Duo Alear",
-    "RANDOM_IGNORE": true,
-    "alt": false,
-    "reference": [
-      "alear",
-      "alear2",
-      "alear3",
-      "alear4",
-      "alear5"
-    ],
-    "prf": {
-      "": "winteryarts",
-      "eff": "winteryarts",
-      "atk": "winteryarts",
-      "spd": "winteryarts",
-      "def": "winteryarts",
-      "res": "winteryarts"
-    }
-  },
-  "eik\u00feyrnir2": {
-    "name": "Eik\u00feyrnir",
-    "title": "Blessed Strength",
-    "description": "A member of Yggdrasill's Healing Hands who, as winter envoy, extends a standing invitation for all to start on a path to physical training.",
-    "origin": "Heroes",
-    "artist": "P-POCO",
-    "move": "Cavalry",
-    "weapon": "Beast",
-    "color": "Blue",
-    "duel": false,
-    "id": "1184",
-    "type": false,
-    "version": "9.0",
-    "duo": false,
-    "harmonized": false,
-    "emblem": false,
-    "base": {
-      "hp": 20,
-      "atk": 13,
-      "spd": 5,
-      "def": 9,
-      "res": 6
-    },
-    "growth": {
-      "hp": 60,
-      "atk": 80,
-      "spd": 35,
-      "def": 90,
-      "res": 50
-    },
-    "superboon": [
-      "def"
-    ],
-    "superbane": [
-      "res"
-    ],
-    "weapons": {
-      "Whelp (Cavalry)": "1",
-      "Yearling (Cavalry)": "3",
-      "Adult (Cavalry)": "3",
-      "Delivering Antler": "5"
-    },
-    "assist": {
-      "Smite": "3"
-    },
-    "special": {},
-    "passive": {
-      "A": {
-        "Solid Ground 1": "3",
-        "Solid Ground 2": "4",
-        "Solid Ground 3": "5"
-      },
-      "B": {},
-      "C": {
-        "Breath of Life 1": "1",
-        "Breath of Life 2": "2",
-        "Breath of Life 3": "4"
-      },
-      "X": {}
-    },
-    "images": {
-      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/63/Eikthyrnir_Blessed_Strength_Face.webp/revision/latest?cb=20241213043941",
-      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d7/Eikthyrnir_Blessed_Strength_BtlFace_D.webp/revision/latest?cb=20241213043936",
-      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/8/8a/Eikthyrnir_Blessed_Strength_BtlFace_C.webp/revision/latest?cb=20241213043931",
-      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/51/Eikthyrnir_Blessed_Strength_BtlFace.webp/revision/latest?cb=20241213043916"
-    },
-    "resplendent_images": false,
-    "ALT_NAME": [
-      "Blessed Strength",
-      "Eik\u00feyrnir: Blessed Strength",
-      "Winter Eik\u00feyrnir",
-      "Winter Eikthyrnir",
-      "Winter Eiki",
-      "Christmas Eik\u00feyrnir",
-      "Christmas Eikthyrnir",
-      "Christmas Eiki",
-      "W Eik\u00feyrnir",
-      "W Eikthyrnir",
-      "W Eiki",
-      "eik\u00feyrnir2"
-    ],
-    "HARD_ALT_NAME": [
-      "Blessed Strength",
-      "Eik\u00feyrnir: Blessed Strength",
-      "Winter Eik\u00feyrnir",
-      "Winter Eikthyrnir",
-      "Winter Eiki",
-      "Christmas Eik\u00feyrnir",
-      "Christmas Eikthyrnir",
-      "Christmas Eiki",
-      "W Eik\u00feyrnir",
-      "W Eikthyrnir",
-      "W Eiki",
-      "eik\u00feyrnir2"
-    ],
-    "gender": "M",
-    "rarity": 4,
-    "pool": "grail",
-    "internal_id": "PID_\u51ac\u796d\u30a8\u30a4\u30af\u30b9\u30eb\u30cb\u30eb",
-    "voice": "Not yet recorded.",
+    "gender": "F",
+    "rarity": 5,
+    "pool": "legend",
+    "internal_id": "PID_\u30cb\u30fc\u30ba\u30d8\u30c3\u30b0\u5473\u65b9",
+    "voice": "Anjali Kunapaneni",
     "resplendent": false,
     "resplendent_voice": false,
     "RANDOM_POOL": [
@@ -448,420 +99,233 @@
     "chibi": "heroes",
     "quotes": {
       "Castle Hall": [
-        "Reindeer are such strong creatures. With legs that effortlessly power through snow. It's inspiring.",
-        "Mending the body is one thing, but training with others does its own kind of healing.",
-        "To become strong, you must learn to steel yourself against nature's fury. I welcome the challenge of the cold.",
-        "Marching through snow greatly strengthens one's legs.",
-        "No, I'm not cold in this. It will take a lot more than snow and ice to slow me down."
+        "The injured wail and cry, but they get nice and quiet real quick if there's a few drops of poison involved.",
+        "Poison is different from medicine. It can paralyze a person and make their pain go away in an instant.",
+        "My power over poison is a gift from my pops. I like to think it's proof that I'm his favorite.",
+        "I'm better than Hr\u00e6svelgr, to be sure. I mean, she saved me once way back when, but these days...",
+        "Ratatoskr is easily overwhelmed and clumsy as a newborn deer. But I guess she's never boring."
       ],
       "Visit": [
-        "My name is Eik\u00feyrnir. We'll be training all winter over at [F]'s castle."
+        "*hic* I'm...N\u00ed\u00f0h\u00f6ggr. I'm here to... Uh... What was it again? Oh yeah! I'm N\u00ed\u00f0h\u00f6ggr."
       ],
       "Level": [
-        "The chill of snow. The power of ice. Train your body in the cold and watch how clear your mind becomes.",
-        "A body that has been trained well deflects such things like the winter's cold.",
-        "Is my body really...stiffening up in this cold? Pitiful. I must train harder..."
+        "I'm the Quieting Dose. That's me.",
+        "*hic* Heh. I'm starting to feel good...",
+        "Haha! I'm dizzy..."
       ],
       "Summon": [
-        "I am Eik\u00feyrnir, winter's envoy. It's truly amazing, the body you can obtain in the cold."
+        "I am the Quieting Dose, N\u00ed\u00f0h\u00f6ggr. Forget about family, I just wanna relax and have a good time... *hic*"
       ],
       "Learn Skill": [
-        "You like my muscles? Thank you for noticing."
+        "Uh... For me? Wh-what the heck? Why are you being nice? You're throwing me off."
       ],
       "Confession": [
-        "Toys and clothing, books and sweets. I understand why children may want these things.\nBut no present compares to the gift of training. A body fortified against illness, a spirit that never breaks.\nA healthy heart in a strong body. That sounds like the perfect gift to me.\nOf course I won't forget about your training this winter, [S].\nTake these dumbbells in hand, focus your mind, and allow your body to do the rest.\nStay consistent, and I believe you can become an even stronger hero."
+        "Ah... *hic* Hey, Summoner, why don't you take a bite too?\nFamily? They're just people ya can't stand but can't cut out of your life 'cause you're too connected.\nOne time, I went to heal some people with Hr\u00e6svelgr and Ratatoskr. Wanna hear about it?\nNo, you don't. It was a rough time.\nThat's why I'm going it alone now. I'm good like this. Seriously. But...\nAh no! I'm not going there! I've had too much of this fruit, but...maybe I I need just one more."
       ],
       "Special": [
-        "It's the winter festival!",
-        "All you can handle!",
-        "There is no roof too high.",
-        "I do not feel cold."
-      ],
-      "Status": [
-        "*sigh*",
-        "It is my duty to serve as envoy for the winter festival.",
-        "Hmm? No. I feel no cold.",
-        "The body is the final armor. It must be polished, made to shine.",
-        "What my sisters want? I do not pretend to know.",
-        "Carrying gifts to the rooftops is good training.",
-        "I have happy memories of L\u00e6ra\u00f0r giving us gifts during celebrations.",
-        "Preparations were made for forging your body. Now we train together."
-      ],
-      "Map Select": [
-        "I see.",
-        "Guide me.",
-        "I will deliver."
-      ],
-      "Conversation": false,
-      "Duo Skill": false,
-      "Back Unit Supporting": false,
-      "resplendent": {}
-    },
-    "short_name": "Winter Eik\u00feyrnir",
-    "SEARCH_NAME": "Winter Eik\u00feyrnir",
-    "DISPLAY_NAME": "<:Blue_Beast:1124845338688233575>Winter Eik\u00feyrnir",
-    "RANDOM_IGNORE": true,
-    "alt": false,
-    "reference": [
-      "eikthyrnir"
-    ],
-    "prf": {
-      "": "deliveringantler",
-      "eff": "deliveringantler",
-      "atk": "deliveringantler",
-      "spd": "deliveringantler",
-      "def": "deliveringantler",
-      "res": "deliveringantler"
-    }
-  },
-  "shez7": {
-    "name": "Shez",
-    "title": "Snowfield Envoy",
-    "description": "A mercenary who wandered F\u00f3dlan alone. Her new mission is assuming the role of winter envoy. Appears in Fire Emblem Warriors: Three Hopes.",
-    "origin": "Three Houses",
-    "artist": "TAKUBON (\u305f\u304f\u307c\u3093)",
-    "move": "Cavalry",
-    "weapon": "Dagger",
-    "color": "Green",
-    "duel": false,
-    "id": "1182",
-    "type": false,
-    "version": "9.0",
-    "duo": false,
-    "harmonized": false,
-    "emblem": false,
-    "base": {
-      "hp": 18,
-      "atk": 10,
-      "spd": 9,
-      "def": 8,
-      "res": 5
-    },
-    "growth": {
-      "hp": 50,
-      "atk": 80,
-      "spd": 90,
-      "def": 50,
-      "res": 40
-    },
-    "superboon": [
-      "spd"
-    ],
-    "superbane": [
-      "hp",
-      "def"
-    ],
-    "weapons": {
-      "Iron Dagger": "1",
-      "Steel Dagger": "3",
-      "Silver Dagger": "3",
-      "Red-Fist Blades": "5"
-    },
-    "assist": {},
-    "special": {
-      "New Moon": "3",
-      "Luna": "4"
-    },
-    "passive": {
-      "A": {
-        "Swift Ice": "5"
-      },
-      "B": {
-        "Disarm Trap 1": "2",
-        "Disarm Trap 2": "3",
-        "Disarm Trap 3": "4",
-        "Full Disarm": "5"
-      },
-      "C": {
-        "Pulse Smoke 1": "2",
-        "Pulse Smoke 2": "3",
-        "Pulse Smoke 3": "4",
-        "Pulse Smog": "5"
-      },
-      "X": {}
-    },
-    "images": {
-      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/a/ae/Shez_Snowfield_Envoy_Face.webp/revision/latest?cb=20241213044126",
-      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/09/Shez_Snowfield_Envoy_BtlFace_D.webp/revision/latest?cb=20241213044121",
-      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/d/d5/Shez_Snowfield_Envoy_BtlFace_C.webp/revision/latest?cb=20241213044116",
-      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/0/05/Shez_Snowfield_Envoy_BtlFace.webp/revision/latest?cb=20241213044101"
-    },
-    "resplendent_images": false,
-    "ALT_NAME": [
-      "Snowfield Envoy",
-      "Shez: Snowfield Envoy",
-      "Winter Shez",
-      "Winter Female Shez",
-      "Christmas Shez",
-      "W Shez",
-      "W F Shez",
-      "shez7"
-    ],
-    "HARD_ALT_NAME": [
-      "Snowfield Envoy",
-      "Shez: Snowfield Envoy",
-      "Winter Shez",
-      "Winter Female Shez",
-      "Christmas Shez",
-      "W Shez",
-      "W F Shez",
-      "shez7"
-    ],
-    "gender": "F",
-    "rarity": 0,
-    "pool": "seasonal",
-    "internal_id": "PID_\u51ac\u796d\u30b7\u30a7\u30ba\u5973",
-    "voice": "Dawn M. Bennett",
-    "resplendent": false,
-    "resplendent_voice": false,
-    "RANDOM_POOL": [
-      "fodlan"
-    ],
-    "chibi": "fodlan",
-    "quotes": {
-      "Castle Hall": [
-        "The voice in my head is telling me it's not a good time to get distracted by a festival. But...I do like this job.",
-        "A winter festival, huh? Back in F\u00f3dlan I had no time to think of such things, what with the constant war and all.",
-        "I don't have time to discuss how cold it is here. There's hordes of children waiting for presents.",
-        "These dual blades were entrusted to me. They're actually pretty handy for this job.",
-        "I'll stand out like a sore thumb wearing these clothes. But...I suppose they're perfect for a winter festival."
-      ],
-      "Visit": [
-        "Ah, I take it I'm at the right place? I'm here to deliver a winter-festival gift from [F]."
-      ],
-      "Level": [
-        "I won't let anything get in my way, not with people counting on me.",
-        "Obstruction eliminated. I'll continue my mission.",
-        "At this rate, I'll be hard-pressed to make it in time."
-      ],
-      "Summon": [
-        "I'm Shez. My work as a mercenary brings me all over the place. So, now I'm to be a winter envoy? You got it."
-      ],
-      "Learn Skill": [
-        "You got me a gift too? I accept."
-      ],
-      "Confession": [
-        "I'm a mercenary who'll complete any job that's asked of me. It's just who I am.\nI can be known to throw myself into dangerous situations for a job, even when the outcome is dire.\nStill, other times, I get paid to stand around and look tough.\nBut this go-around stands out as being truly meaningful, since now I'm a winter envoy.\nWhen I deliver presents to children, they smile at me and their eyes light up like stars.\nI'm not picky, but if you're offering more work like this, I'd gladly take you up on it."
-      ],
-      "Special": [
-        "It's the winter festival!",
-        "Now I'm excited!",
-        "Have THIS present!",
-        "What a lovely evening."
-      ],
-      "Status": [
-        "Hoo...",
-        "As a winter envoy, I have to be sure not to get lost.",
-        "Ah! Oh, great. Now I've got snow in all the wrong places.",
-        "No, it's not too heavy. Pile on the gifts!",
-        "Walking through the snow is good training.",
-        "The town looks so festive with the decorations... You don't get a lot of pretty on the battlefield.",
-        "*sneeze* Oh, I'm fine. Just training.",
-        "Please, have this gift. I sure hope you like it."
-      ],
-      "Map Select": [
-        "Yes.",
-        "What now?",
-        "I'll deliver."
-      ],
-      "Conversation": false,
-      "Duo Skill": false,
-      "Back Unit Supporting": false,
-      "resplendent": {}
-    },
-    "short_name": "Winter Female Shez",
-    "SEARCH_NAME": "Winter Female Shez",
-    "DISPLAY_NAME": "<:Green_Dagger:1124845796169351320>Winter Female Shez",
-    "RANDOM_IGNORE": true,
-    "alt": false,
-    "reference": [
-      "shez",
-      "shez2",
-      "shez3",
-      "shez4",
-      "shez5",
-      "shez6"
-    ],
-    "prf": {
-      "": "redfistblades",
-      "eff": "redfistblades",
-      "atk": "redfistblades",
-      "spd": "redfistblades",
-      "def": "redfistblades",
-      "res": "redfistblades"
-    }
-  },
-  "hortensia2": {
-    "name": "Hortensia",
-    "title": "Winter's Dearest",
-    "description": "Second princess of Elusia. She grew up in a country known for its deep snow, therefore is highly knowledgeable about winter festivals. Appears in Fire Emblem Engage.",
-    "origin": "Engage",
-    "artist": "\u9262\u4eba",
-    "move": "Cavalry",
-    "weapon": "Staff",
-    "color": "Colorless",
-    "duel": false,
-    "id": "1181",
-    "type": false,
-    "version": "9.0",
-    "duo": false,
-    "harmonized": false,
-    "emblem": false,
-    "base": {
-      "hp": 18,
-      "atk": 10,
-      "spd": 9,
-      "def": 4,
-      "res": 8
-    },
-    "growth": {
-      "hp": 50,
-      "atk": 80,
-      "spd": 90,
-      "def": 30,
-      "res": 50
-    },
-    "superboon": [
-      "spd"
-    ],
-    "superbane": [
-      "hp",
-      "def",
-      "res"
-    ],
-    "weapons": {
-      "Assault": "4",
-      "Snowman Staff": "5"
-    },
-    "assist": {
-      "Heal": "2",
-      "Mend": "2",
-      "Ice Lock": "3",
-      "Ice Lock+": "5"
-    },
-    "special": {
-      "Imbue": "2",
-      "Miracle": "3",
-      "Holy Pressure": "5"
-    },
-    "passive": {
-      "A": {
-        "Atk/Spd Catch 1": "2",
-        "Atk/Spd Catch 2": "3",
-        "Atk/Spd Catch 3": "4",
-        "Atk/Spd Catch 4": "5"
-      },
-      "B": {
-        "Wrathful Staff 1": "2",
-        "Wrathful Staff 2": "3",
-        "Wrathful Staff 3": "4",
-        "Poetic Justice": "5"
-      },
-      "C": {
-        "Twinkling Anima": "5"
-      },
-      "X": {}
-    },
-    "images": {
-      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/1/13/Hortensia_Winters_Dearest_Face.webp/revision/latest?cb=20241213044236",
-      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/9c/Hortensia_Winters_Dearest_BtlFace_D.webp/revision/latest?cb=20241213044231",
-      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/50/Hortensia_Winters_Dearest_BtlFace_C.webp/revision/latest?cb=20241213044226",
-      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/5/5d/Hortensia_Winters_Dearest_BtlFace.webp/revision/latest?cb=20241213044211"
-    },
-    "resplendent_images": false,
-    "ALT_NAME": [
-      "Winter's Dearest",
-      "Hortensia: Winter's Dearest",
-      "Winter Hortensia",
-      "Christmas Hortensia",
-      "W Hortensia",
-      "hortensia2"
-    ],
-    "HARD_ALT_NAME": [
-      "Winter's Dearest",
-      "Hortensia: Winter's Dearest",
-      "Winter Hortensia",
-      "Christmas Hortensia",
-      "W Hortensia",
-      "hortensia2"
-    ],
-    "gender": "F",
-    "rarity": 0,
-    "pool": "seasonal",
-    "internal_id": "PID_\u51ac\u796d\u30aa\u30eb\u30c6\u30f3\u30b7\u30a2",
-    "voice": "Amber Connor",
-    "resplendent": false,
-    "resplendent_voice": false,
-    "RANDOM_POOL": [
-      "elyos"
-    ],
-    "chibi": "fe17",
-    "quotes": {
-      "Castle Hall": [
-        "Before the Fell Dragon returned, Ivy, Father, and I enjoyed winter festivals together. We can never do that again.",
-        "Wintertide Village in Elusia is home to talented merchants who celebrate the winter festival there all year round.",
-        "We can decorate everywhere during this season! Trees! Rooms! We can make it all as cute as we want!",
-        "I'm deciding what to get everyone! No eavesdropping, Summoner! You don't want to spoil the surprise!",
-        "The people of Elusia always have a grand festival to help them make it through the long winter."
-      ],
-      "Visit": [
-        "Happy winter festival! This is cute, isn't it? I pray that this castle makes it through the winter too."
-      ],
-      "Level": [
-        "This is how the winter festival is supposed to be! Let's keep having fun!",
-        "I'm familiar with winter festivals, so this result is no surprise.",
-        "I won't lose, even in a blizzard!"
-      ],
-      "Summon": [
-        "I am Hortensia, princess of Elusia. Happy winter festival! Wait... You want me to fight like this?!"
-      ],
-      "Learn Skill": [
-        "A present for me? This makes me so happy! I'm cuter now thanks to you!"
-      ],
-      "Confession": [
-        "I've always liked the winter festival. Towns and villages full of cheer, the dark nights twinkling with light...\nEveryone's always in a good mood! There were so many times I wished the festival would last forever.\nThat wish came true thanks to you! I mean, I'm not in Elusia, and neither is Father...\nBut, now I know the truth. I didn't want the festival to last forever\u2014 I wanted everyone to be happy!\nSo I'm going to fight for that. I know this look doesn't inspire confidence, but it's cute and that's OK! Right?!"
-      ],
-      "Special": [
-        "This'll warm you up!",
-        "Cute festival!",
-        "Present for ya.",
-        "Winter engage!"
+        "Keep it coming!",
+        "That's the stuff!",
+        "One more can't hurt...",
+        "Sk\u00e1l!"
       ],
       "Status": [
         "-",
-        "This'll warm you up!",
-        "Present for ya.",
-        "*sigh* The people of Elusia look forward to the winter festival every year.",
-        "Of all my outfits, I'm proud to say this one's the cutest.",
-        "Need someone to walk you down to the festivities? Fine, fine. C'mon.",
-        "I can't believe I got a compliment from Ivy. I'm never changing clothes again!",
-        "Let me show you around the festival, OK? I know where to find all the cutest things."
+        "N\u00ed\u00f0h\u00f6ggr! That's meee! I handle poisons for... For... Ah, I lost my train of thought there.",
+        "Care for a bite? Juuust a nibble? You might like it...",
+        "Ahh... Let me savor this bite for a moment...",
+        "Ugh. Indulge one day, regret it the next...",
+        "Hr\u00e6svelgr hates fun. Always sooo...on edge.",
+        "Ratatoskr can make her own choices, y'know?",
+        "And this can help you forget your troubles\u2014for a while, at least..."
       ],
       "Map Select": [
-        "It's the winter festival!",
-        "Look at all the snow!",
-        "I'm having a blast!"
+        "Comin' right up!",
+        "Slow down...",
+        "Lemme...just..."
       ],
       "Conversation": false,
       "Duo Skill": false,
       "Back Unit Supporting": false,
       "resplendent": {}
     },
-    "short_name": "Winter Hortensia",
-    "SEARCH_NAME": "Winter Hortensia",
-    "DISPLAY_NAME": "<:Colorless_Staff:1124845704444137592>Winter Hortensia",
+    "short_name": "N\u00ed\u00f0h\u00f6ggr",
+    "SEARCH_NAME": "N\u00ed\u00f0h\u00f6ggr",
+    "DISPLAY_NAME": "<:Red_Beast:1124846309208248381>N\u00ed\u00f0h\u00f6ggr",
     "RANDOM_IGNORE": true,
     "alt": false,
-    "reference": [
-      "hortensia"
-    ],
+    "reference": [],
     "prf": {
-      "": "snowmanstaff",
-      "eff": "snowmanstaff",
-      "atk": "snowmanstaff",
-      "spd": "snowmanstaff",
-      "def": "snowmanstaff",
-      "res": "snowmanstaff"
-    }
+      "": "enticingdose",
+      "eff": "enticingdose",
+      "atk": "enticingdose",
+      "spd": "enticingdose",
+      "def": "enticingdose",
+      "res": "enticingdose"
+    },
+    "blessing": "Astra"
+  },
+  "laeradr": {
+    "name": "L\u00e6ra\u00f0r",
+    "title": "Quieting Heart",
+    "description": "Leader of the Healing Hands of Yggdrasill. He is known to control people's hearts.",
+    "origin": "Heroes",
+    "artist": "Kozaki Yusuke (\u30b3\u30b6\u30ad\u30e6\u30fc\u30b9\u30b1)",
+    "move": "Armored",
+    "weapon": "Beast",
+    "color": "Colorless",
+    "duel": false,
+    "id": "1172",
+    "type": "legendary",
+    "version": "8.11",
+    "duo": false,
+    "harmonized": false,
+    "emblem": false,
+    "base": {
+      "hp": 24,
+      "atk": 13,
+      "spd": 4,
+      "def": 11,
+      "res": 9
+    },
+    "growth": {
+      "hp": 60,
+      "atk": 80,
+      "spd": 30,
+      "def": 75,
+      "res": 90
+    },
+    "superboon": [
+      "res"
+    ],
+    "superbane": [
+      "spd",
+      "def"
+    ],
+    "weapons": {
+      "Whelp (Armored)": "1",
+      "Yearling (Arm.)": "2",
+      "Adult (Armored)": "3",
+      "Quieting Branch": "5"
+    },
+    "assist": {},
+    "special": {
+      "Chilling Wind": "3",
+      "Iceberg": "4",
+      "Armored Floe": "5"
+    },
+    "passive": {
+      "A": {
+        "Atk/Res Form 1": "2",
+        "Atk/Res Form 2": "3",
+        "Atk/Res Form 3": "4",
+        "Atk/Res Fortune": "5"
+      },
+      "B": {
+        "Yggdrasill's Alter": "5"
+      },
+      "C": {
+        "Distant Guard 1": "2",
+        "Distant Guard 2": "3",
+        "Distant Guard 3": "4",
+        "Barricade": "5"
+      },
+      "X": {}
+    },
+    "images": {
+      "portrait": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/73/Laeradr_Quieting_Heart_Face.webp/revision/latest?cb=20240816044308",
+      "damage": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/9/98/Laeradr_Quieting_Heart_BtlFace_D.webp/revision/latest?cb=20240816044303",
+      "special": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/6/63/Laeradr_Quieting_Heart_BtlFace_C.webp/revision/latest?cb=20240816044258",
+      "attack": "https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/77/Laeradr_Quieting_Heart_BtlFace.webp/revision/latest?cb=20240816044244"
+    },
+    "resplendent_images": false,
+    "ALT_NAME": [
+      "Quieting Heart",
+      "L\u00e6ra\u00f0r: Quieting Heart",
+      "Base, Normal, Regular L\u00e6ra\u00f0r",
+      "laeradr"
+    ],
+    "HARD_ALT_NAME": [
+      "Quieting Heart",
+      "L\u00e6ra\u00f0r: Quieting Heart",
+      "Base, Normal, Regular L\u00e6ra\u00f0r",
+      "laeradr"
+    ],
+    "gender": "M",
+    "rarity": 5,
+    "pool": "legend",
+    "internal_id": "PID_\u30ec\u30fc\u30e9\u30ba\u5473\u65b9",
+    "voice": "Bob Carter",
+    "resplendent": false,
+    "resplendent_voice": false,
+    "RANDOM_POOL": [
+      "askr"
+    ],
+    "chibi": "heroes",
+    "quotes": {
+      "Castle Hall": [
+        "To heal those who suffer throughout the nine realms... That was once the role of the Healing Hands.",
+        "The first life I took was that of a king. I transformed my power, and then delivered him to madness and death.",
+        "It is quite simple. I transform the mortal heart how I please\u2014be it into a state of misery or peace.",
+        "My family...",
+        "I once had a family... Though perhaps that, too, is a falsehood."
+      ],
+      "Visit": [
+        "You must be [S]. I will remember that."
+      ],
+      "Level": [
+        "To quiet hearts... That is what I do.",
+        "Tell me, shall I be pleased or shall I be disappointed?",
+        "I apologize. I have failed to meet your expectations."
+      ],
+      "Summon": [
+        "I am L\u00e6ra\u00f0r, leader of the Healing Hands and of the Quieting Hands. Which me do you prefer?"
+      ],
+      "Learn Skill": [
+        "How shall I offer my gratitude? Would you like me to transform your heart?"
+      ],
+      "Confession": [
+        "My children...have all died...\nNo replacements will ever satisfy the longing in my heart. I could never truly love those who are not mine.\nOf course, they have loved me... That is how I made them.\nIt is a simple thing, to transform a heart. I could even transform my own to be filled with joy.\nHowever, I shall remain as I am, harboring the sadness of losing my family, suffering from my mistakes."
+      ],
+      "Special": [
+        "I sow the seeds...",
+        "You haven't the heart.",
+        "Describe the pain.",
+        "A poor prognosis."
+      ],
+      "Status": [
+        "Hm.",
+        "I am L\u00e6ra\u00f0r. I was once leader of the Healing Hands.",
+        "I know the techniques used to move the mortal heart\u2014to soothe it, to crush it\u2014all at my will.",
+        "To heal a heart is to transform it. I select the form it takes.",
+        "Whom do you think would make a truly terrifying assassin? I wonder...",
+        "At the count of three, you will be at my command. One, two...",
+        "Peace, and family... Those two things are all I've ever desired.",
+        "I see the weight that sits on your heart. I could help to lift it, you know..."
+      ],
+      "Map Select": [
+        "Ah, yes.",
+        "Show me where.",
+        "As you will."
+      ],
+      "Conversation": false,
+      "Duo Skill": false,
+      "Back Unit Supporting": false,
+      "resplendent": {}
+    },
+    "short_name": "L\u00e6ra\u00f0r",
+    "SEARCH_NAME": "L\u00e6ra\u00f0r",
+    "DISPLAY_NAME": "<:Colorless_Beast:1124845615935918110>L\u00e6ra\u00f0r",
+    "RANDOM_IGNORE": true,
+    "alt": false,
+    "reference": [],
+    "prf": {
+      "": "quietingbranch",
+      "eff": "quietingbranch",
+      "atk": "quietingbranch",
+      "spd": "quietingbranch",
+      "def": "quietingbranch",
+      "res": "quietingbranch"
+    },
+    "blessing": "Dark"
   }
 }

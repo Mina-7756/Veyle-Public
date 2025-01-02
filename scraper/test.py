@@ -18,19 +18,18 @@ with open(file, 'w') as fp:
 
 
 units = [
-    "Fomortiis:_Dark_of_Night",
-    "Alear:_Gifted_Dragons",
-    "Eikþyrnir:_Blessed_Strength",
-    "Shez:_Snowfield_Envoy",
-    "Hortensia:_Winter's_Dearest"
+    "Níðhöggr: Quieting Dose",
+    "Læraðr: Quieting Heart"
 ]
 
 
 
-#alts = None
-alts = ["Winter", "Christmas", "W"]
+alts = None     # uses defaults such as "normal" and "regular"
+#version = None  # will calculate the book & chapter the game is currently on when this is run
+#alts = ["Winter", "Christmas", "W"]
+version = "8.11"
 for i in range(0, len(units)):
-    Webscraper.scrape_page(f"/wiki/{units[i]}", alts=alts)
+    Webscraper.scrape_page(f"/wiki/{units[i]}", alts=alts, version=version)
     
 
 #with open(file, 'w') as fp:

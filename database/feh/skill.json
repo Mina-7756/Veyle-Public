@@ -7883,7 +7883,8 @@
         "nah2": "3",
         "diamant2": "3",
         "bors": "3",
-        "pjazi": "3"
+        "pjazi": "3",
+        "nidhoggr": "3"
       }
     },
     "refine": {},
@@ -8058,7 +8059,8 @@
         "timerra": "4",
         "reginn3": "4",
         "askr3": "4",
-        "bors": "4"
+        "bors": "4",
+        "nidhoggr": "4"
       }
     },
     "refine": {},
@@ -8192,7 +8194,8 @@
         "nagi2": "3",
         "marianne3": "3",
         "celine2": "3",
-        "alear6": "3"
+        "alear6": "3",
+        "laeradr": "3"
       }
     },
     "refine": {},
@@ -8287,7 +8290,8 @@
         "lumera3": "4",
         "thea2": "4",
         "nagi2": "4",
-        "alear6": "4"
+        "alear6": "4",
+        "laeradr": "4"
       }
     },
     "refine": {},
@@ -37242,7 +37246,8 @@
         "micaiah5": "5",
         "lilina5": "5",
         "ganglot": "5",
-        "wil": "5"
+        "wil": "5",
+        "laeradr": "4"
       },
       "Distant Guard 2": {},
       "Distant Guard 1": {}
@@ -74456,7 +74461,8 @@
       "Atk/Res Form 3": {
         "sophia2": "4",
         "soren4": "4",
-        "xane": "5"
+        "xane": "5",
+        "laeradr": "4"
       },
       "Atk/Res Form 2": {},
       "Atk/Res Form 1": {}
@@ -95159,7 +95165,8 @@
       "A/D Far Save 3": {
         "fomortiis": "5",
         "robin9": "5",
-        "fomortiis2": "4"
+        "fomortiis2": "4",
+        "nidhoggr": "4"
       },
       "A/D Far Save 2": {},
       "A/D Far Save 1": {}
@@ -113408,7 +113415,8 @@
     "reference": {
       "Armored Floe": {
         "tiki10": "5",
-        "corrin14": "5"
+        "corrin14": "5",
+        "laeradr": "5"
       }
     },
     "refine": {},
@@ -131331,7 +131339,8 @@
     ],
     "reference": {
       "Sturdy Beast": {
-        "askr3": "5"
+        "askr3": "5",
+        "nidhoggr": "5"
       }
     },
     "icon": false,
@@ -133593,6 +133602,241 @@
     "icon": 2298,
     "HARD_ALT_NAME": [
       "Twinkling Anima"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "enticingdose": {
+    "name": "Enticing Dose",
+    "skill": [
+      {
+        "name": "Enticing Dose",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of turn and after unit acts (if Canto triggers, after Canto), inflicts Atk/Def-7 and \u3010Sabotage\u3011on foes within 3 rows or 3 columns centered on unit through their next actions.\nIf unit is transformed or unit's HP \u2265 25% at start of combat, deals damage to foe = 25% of foe's max HP as combat begins (activates only when unit can attack in combat; only highest value applied; does not stack with other \"deals X damage as combat begins\" effects; effects that reduce damage during combat do not apply; will not reduce foe's HP below 1; excluding certain foes, such as R\u00f8kkr).\nIf unit is transformed or unit's HP \u2265 25% at start of combat, inflicts penalty on foe's Atk/Def = 6 + 20% of unit's Def at start of combat, reduces the percentage of foe's non-Special \"reduce damage by X%\" skills by 50% (excluding area-of-effect Specials), deals damage = 30% of foe's max HP (excluding area-of-effect Specials; excluding certain foes, such as R\u00f8kkr), and reduces damage from foe's attacks by X during combat (excluding area-of-effect Specials), and also, when foe's attack triggers foe's Special, reduces damage from foe's attacks by an additional X (excluding area-of-effect Specials; X = total damage dealt to foe; min 10; max 20).\nAt start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2, and unit can counterattack regardless of foe's range.\n\u3010Sabotage\u3011\nInflicts penalty on unit's Atk/Spd/Def/Res during combat = highest penalty on each stat between unit and allies within 2 spaces of unit through its next action. Calculates each stat penalty independently.\n",
+        "stats": {
+          "mt": "14",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Red_Beast",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Enticing Dose": {
+        "nidhoggr": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "nidhoggr",
+      "N\u00ed\u00f0h\u00f6ggr: Quieting Dose",
+      "Base, Normal, Regular N\u00ed\u00f0h\u00f6ggr",
+      "Quieting Dose"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": false
+  },
+  "divinetoxin": {
+    "name": "Divine Toxin",
+    "skill": [
+      {
+        "name": "Divine Toxin",
+        "stats": {
+          "sp": "300"
+        },
+        "slot": "Passive A",
+        "exclusive": true,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "If unit can transform, transformation effects gain \"if unit is within 2 spaces of a beast or dragon ally, or if number of adjacent allies other than beast or dragon allies \u2264 2\" as a trigger condition (in addition to existing conditions).\nIf defending in Aether Raids, at the start of enemy turn 1, if conditions for transforming are met, unit transforms.\nAt start of player phase or enemy phase, grants\u3010Dosage\u3011to unit and allies within 2 spaces of unit for 1 turn.\nIf unit is transformed or if foe initiates combat, grants Atk/Def/Res+10 to unit, neutralizes foe's bonuses to Atk/Def, grants Special cooldown charge +1 to unit per attack (only highest value applied; does not stack), and neutralizes effects that inflict \"Special cooldown charge -X\" on unit during combat.\n\u3010Dosage\u3011\nGrants Atk/Spd/Def/Res+5 to unit during combat and restores 10 HP to unit after combat.\nWhen a foe triggers \"grants the\u3010Bonus\u3011 effects active on foe\" and \"neutralizes any \u3010Bonus\u3011active on foe\" effects from skills such as Essence Drain on unit with this status active, prevents those effects on unit and other targets and neutralizes any\u3010Bonus\u3011effects active on that foe (does not neutralize\u3010Bonus\u3011 effects applied at the same time).\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance)"
+      }
+    ],
+    "reference": {
+      "Divine Toxin": {
+        "nidhoggr": "5"
+      }
+    },
+    "icon": 2299,
+    "HARD_ALT_NAME": [
+      "Divine Toxin"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "adtwinfsave": {
+    "name": "A D Twin F Save",
+    "skill": [
+      {
+        "name": "A/D Twin F Save",
+        "stats": {
+          "sp": "300"
+        },
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": false,
+        "restriction_movement": [
+          "**Can only** be used by: ",
+          [
+            "Armored"
+          ]
+        ],
+        "description": "If foe with Range = 2 initiates combat against an ally within 2 spaces of unit, triggers \u3010Savior\u3011on unit.\nIf foe's Range = 2, grants Atk/Def+4 to unit during combat, any \"reduces damage by X%\" effect that can be triggered only once per combat by unit's equipped Special skill can be triggered up to twice per combat (excludes boosted Special effects from engaging; only highest value applied; does not stack), and restores 7 HP to unit when unit deals damage to foe during combat (triggers even if 0 damage is dealt).\n\u3010Savior\u3011\nUnit takes ally's space, enters combat in ally's place, and receives all after-combat effects.\nSavior will not trigger if ally is on terrain that unit cannot move to or if multiple units are able to use Savior during the same combat. If Savior triggers, after-combat movement effects do not occur"
+      }
+    ],
+    "reference": {
+      "A/D Twin F Save": {
+        "nidhoggr": "5"
+      }
+    },
+    "icon": 2300,
+    "HARD_ALT_NAME": [
+      "A/D Twin F Save"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive C",
+    "wpn": false
+  },
+  "quietingbranch": {
+    "name": "Quieting Branch",
+    "skill": [
+      {
+        "name": "Quieting Branch",
+        "description": "Accelerates Special trigger (cooldown count-1).\nAt start of turn, if unit's HP \u2265 25%, inflicts Def/Res-7, Panic, and\u3010Sabotage\u3011 on closest foes and any foe within 2 spaces of those foes through their next actions, and inflicts\u3010Assign Decoy\u3011and status preventing counterattacks on foes with the lowest Def with Range = 1 and foes with the lowest Def with Range = 2 among closest foes and any foe within 2 spaces of those foes through their next actions.\nAt start of combat, if unit's HP \u2265 25%, inflicts penalty on foe's Atk/Def = 20% of unit's Res at start of combat + 6, grants Special cooldown count-2 to unit before foe's first attack, and reduces damage from foe's attacks by 20% of unit's Res during combat (excluding area-of-effect Specials), and also, if foe's attack triggers foe's Special, reduces damage from foe's attacks by 20% of unit's Res during combat (excluding area-of-effect Specials), and restores 7 HP to unit after combat.\nAt start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2, and unit can counterattack regardless of foe's range.\n\u3010Sabotage\u3011\nInflicts penalty on unit's Atk/Spd/Def/Res during combat = highest penalty on each stat between unit and allies within 2 spaces of unit through its next action. Calculates each stat penalty independently.\n\u3010Assign Decoy\u3011\nIf foe's Range = unit's Range and foe initiates combat against an ally within 2 spaces of unit, triggers\u3010Savior\u3011on unit (that turn only; triggers only if unit is not equipped with a skill that can trigger the Savior effect).\n\u3010Savior\u3011\nUnit takes ally's space, enters combat in ally's place, and receives all after-combat effects.\n",
+        "stats": {
+          "mt": "14",
+          "rng": "1",
+          "sp": "400"
+        },
+        "exclusive": true,
+        "slot": "Weapon",
+        "weapon_type": "Colorless_Beast",
+        "restriction_weapon": false,
+        "restriction_movement": false
+      }
+    ],
+    "reference": {
+      "Quieting Branch": {
+        "laeradr": "5"
+      }
+    },
+    "refine": {},
+    "icon": false,
+    "HARD_ALT_NAME": [
+      "Quieting Heart",
+      "laeradr",
+      "Base, Normal, Regular L\u00e6ra\u00f0r",
+      "L\u00e6ra\u00f0r: Quieting Heart"
+    ],
+    "ALT_NAME": [],
+    "slot": "Weapon",
+    "wpn": false
+  },
+  "atkresfortune": {
+    "name": "Atk Res Fortune",
+    "skill": [
+      {
+        "name": "Atk/Res Fortune",
+        "stats": {
+          "sp": "300"
+        },
+        "slot": "Passive A",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Beast",
+            "Blue_Beast",
+            "Green_Beast",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "If unit can transform, transformation effects gain \"if unit is within 2 spaces of a beast or dragon ally, or if number of adjacent allies other than beast or dragon allies \u2264 2\" as a trigger condition (in addition to existing conditions).\nIf defending in Aether Raids, at the start of enemy turn 1, if conditions for transforming are met, unit transforms.\nIf unit is transformed or if foe initiates combat, grants Atk/Res+8 to unit and neutralizes foe's bonuses to Atk/Def during combat, and restores 7 HP to unit after combat"
+      }
+    ],
+    "reference": {
+      "Atk/Res Fortune": {
+        "laeradr": "5"
+      }
+    },
+    "icon": 2301,
+    "HARD_ALT_NAME": [
+      "Atk/Res Fortune"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive A",
+    "wpn": false
+  },
+  "yggdrasillsalter": {
+    "name": "Yggdrasill's Alter",
+    "skill": [
+      {
+        "name": "Yggdrasill's Alter",
+        "stats": {
+          "sp": "300"
+        },
+        "slot": "Passive B",
+        "exclusive": true,
+        "restriction_weapon": false,
+        "restriction_movement": false,
+        "description": "At start of player phase or enemy phase, inflicts Atk/Def-7 and\u3010Discord\u3011on foes that are within 2 spaces of another foe through their next actions.\nInflicts penalty on foe's Atk/Def during combat = number of foes on the map with the\u3010Discord\u3011 effect active (including target) \u00d7 3 + 5 (max 14), deals damage = 20% of unit's Res (excluding area-of-effect Specials), and unit makes a guaranteed follow-up attack during combat, and also, when Special triggers, neutralizes foe's \"reduces damage by X%\" effects from foe's non-Special skills during combat (excluding area-of-effect Specials).\n\u3010Discord\u3011\nInflicts Atk/Spd/Def/Res-X on unit during combat (X = 2 + number of allies within 2 spaces of unit; max 5) through its next action"
+      }
+    ],
+    "reference": {
+      "Yggdrasill's Alter": {
+        "laeradr": "5"
+      }
+    },
+    "icon": 2302,
+    "HARD_ALT_NAME": [
+      "Yggdrasill's Alter"
+    ],
+    "ALT_NAME": [],
+    "slot": "Passive B",
+    "wpn": false
+  },
+  "barricade": {
+    "name": "Barricade",
+    "skill": [
+      {
+        "name": "Barricade",
+        "stats": {
+          "sp": "300"
+        },
+        "slot": "Passive C",
+        "exclusive": false,
+        "restriction_weapon": [
+          "**Can only** be used by: ",
+          [
+            "Red_Breath",
+            "Red_Beast",
+            "Blue_Breath",
+            "Blue_Beast",
+            "Green_Breath",
+            "Green_Beast",
+            "Colorless_Breath",
+            "Colorless_Beast"
+          ]
+        ],
+        "restriction_movement": false,
+        "description": "Distant Guard 3\nFoes with Range = 1 cannot warp into spaces within 3 spaces of unit and foes with Range = 2 cannot warp into spaces within 4 spaces of unit (in either case, does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains).\nGrants Def/Res+4 to allies within 3 spaces of unit and neutralizes their penalties to Def/Res during their combat.\nIf unit is within 3 spaces of an ally, grants Def/Res+4 to unit and neutralizes unit's penalties to Def/Res during combat"
+      }
+    ],
+    "reference": {
+      "Barricade": {
+        "laeradr": "5"
+      }
+    },
+    "icon": 2303,
+    "HARD_ALT_NAME": [
+      "Barricade"
     ],
     "ALT_NAME": [],
     "slot": "Passive C",
