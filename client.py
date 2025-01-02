@@ -2,10 +2,11 @@ import discord, os, random
 from discord.ext import tasks
 
 random_status = [
-    "Taller than Edelgard",
+    "New year, new Veyle!",
+    "Thank you, Mina!",
     "Try out compare! @Ninian fe4 lewyn!ced, lewyn!arthur 14",
     "Cipher cards look pretty cool: @Ninian cipher",
-    "Have you seen my sister?",
+    "Have you seen my brother?",
     "@Ninian calendar",
     "@Ninian legendary"
 ]
