@@ -3,11 +3,11 @@ from discord.ext import tasks
 
 random_status = [
     "Taller than Edelgard",
-    "Try out compare! @Veyle fe4 lewyn!ced, lewyn!arthur 14",
-    "Cipher cards look pretty cool: @Veyle cipher",
+    "Try out compare! @Ninian fe4 lewyn!ced, lewyn!arthur 14",
+    "Cipher cards look pretty cool: @Ninian cipher",
     "Have you seen my sister?",
-    "@Veyle calendar",
-    "@Veyle legendary"
+    "@Ninian calendar",
+    "@Ninian legendary"
 ]
 
 discord.utils.setup_logging()
