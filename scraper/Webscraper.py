@@ -6,6 +6,16 @@ import json
 import portrait
 import utility
 
+POSSIBLE_BLESSINGS = [  #in lowercase plz
+    "fire",
+    "water",
+    "wind",
+    "earth",
+    "light",
+    "dark",
+    "astra",
+    "anima"
+]
 
 obj = {}
 
@@ -167,9 +177,10 @@ def scrape_page(page_name, alts=None, version=None):
         if "Legendary Effect" in i.text:
             strings = list(i.stripped_strings)
             blank['blessing'] = strings[1]
-        if "Mythic Effect" in i.text and '2' not in i.text:
+        if "Mythic Effect" in i.text:
             strings = list(i.stripped_strings)
-            blank['blessing'] = strings[1]
+            if strings[1].lower() in POSSIBLE_BLESSINGS:
+                blank['blessing'] = strings[1]
 
         if "Ally Boost" in i.text:
             strings = list(i.stripped_strings)
