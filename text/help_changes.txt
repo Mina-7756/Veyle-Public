@@ -1,13 +1,14 @@
-My name is Veyle, i'm a bot made to show data based on the Fire Emblem games! I was created based on the open-source bot Oifey.
+My name is Ninian, I'm a bot made to show data from Fire Emblem games! I'm a creator-endorsed fork of Veyle, which was created based on the open-source bot Oifey.
 
 All of the commands can also be used via DMs!
 
 To use them, type `/` to see all of the available ones!
 To use the classic way (via text), do this:
 
-`@Veyle help`
+`@Ninian help`
 
-And a list of commands will be show!
+And a list of commands will be shown!
 
-[Support me on Ko-Fi](https://ko-fi.com/mina_7756)
+[Support the lead maintainer of Ninian](https://ko-fi.com/froginata)
+[Support the creator of Veyle on Ko-Fi](https://ko-fi.com/mina_7756)
 [Support the creator of Oifey on Ko-Fi](https://ko-fi.com/izumi)

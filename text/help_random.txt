@@ -1,8 +1,8 @@
-`@Veyle random` - Picks a random character from the main games or Heroes.
+`@Ninian random` - Picks a random character from the main games or Heroes.
 
 And you can pick a character from a specific region:
 
-`@Veyle random archanea`
+`@Ninian random archanea`
 Only the first words needs to be the region's name, everything else doesn't matter.
 
 Available regions: `archanea` `askr` `fateslandia` `ylisse` `elibe` `magvel` `valentia` `jugdral` `tellius` `fodlan` `saga` `tokyo`
@@ -14,6 +14,6 @@ Also works with slash commands:
 **Disabling random commands**
 
 To disable it in a channel, type `o!NoRandom` (uppercase and lowercase letters matter!) in the topic of the channel. 
-All random commands will be disabled, and the bot will not find any entries if used in a game command (ex. `@Veyle feh random`).
+All random commands will be disabled, and the bot will not find any entries if used in a game command (ex. `@Ninian feh random`).
 
 To enable it again, just remove `o!NoRandom` from the channel's topic.

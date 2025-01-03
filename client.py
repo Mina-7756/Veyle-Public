@@ -1,15 +1,14 @@
-import discord, random
+import discord, os, random
 from discord.ext import tasks
 
-OWNER_ID = 611005635223617577
-
 random_status = [
-    "Taller than Edelgard",
-    "Try out compare! @Veyle fe4 lewyn!ced, lewyn!arthur 14",
-    "Cipher cards look pretty cool: @Veyle cipher",
-    "Have you seen my sister?",
-    "@Veyle calendar",
-    "@Veyle legendary"
+    "New year, new Veyle!",
+    "Thank you, Mina!",
+    "Try out compare! @Ninian fe4 lewyn!ced, lewyn!arthur 14",
+    "Cipher cards look pretty cool: @Ninian cipher",
+    "Have you seen my brother?",
+    "@Ninian calendar",
+    "@Ninian legendary"
 ]
 
 discord.utils.setup_logging()
@@ -25,7 +24,7 @@ class Oifey(discord.AutoShardedClient):
         self.debug = True
         self.maji = None
         
-        self.owner = OWNER_ID
+        self.owner = int(os.getenv('OWNER_ID'))
 
     async def on_ready(self) -> None:
         print(f"Logged in as {self.user} {self.user.id}!")
