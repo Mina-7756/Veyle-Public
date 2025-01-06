@@ -3123,7 +3123,7 @@
   },
   "chivalry": {
     "name": "Chivalry",
-    "desc": "Unit deals +2 damage and takes 2 less damage.\n**Note: Due to a mistranslation, the in-game description states that you need to initiate combat.",
+    "desc": "If Foe's HP=100%, unit deals +2 damage and takes 2 less damage.\n**Note: Due to a mistranslation, the in-game description states that you need to initiate combat.",
     "cost": 0,
     "reference": {
       "Bond Ring": "Xander S"
