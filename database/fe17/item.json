@@ -7351,9 +7351,7 @@
             "Silver Fist",
             "Silver Art"
         ],
-        "equip": {
-            "stats": {"spd": 5}
-        }
+        "equip": {}
     },
     "shieldingart": {
         "name": "Shielding Art",
