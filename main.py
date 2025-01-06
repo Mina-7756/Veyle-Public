@@ -140,6 +140,8 @@ async def ninian(ctx):
 
 fe6.special["ninian"] = ninian
 
+fe6.special["you"] = ninian
+
 # lorenz
 """
 @maji.commands.classic("fe3")
