@@ -329,7 +329,7 @@
                 "growth": "+2",
                 "affinity": "wind"
             },
-            "": {
+            "Ninian": {
                 "base": "0",
                 "growth": "+5",
                 "affinity": "ice"
@@ -619,7 +619,7 @@
                 "growth": "+4",
                 "affinity": "wind"
             },
-            "": {
+            "Ninian": {
                 "base": "0",
                 "growth": "+4",
                 "affinity": "ice"
@@ -921,7 +921,7 @@
             "con": 3
         },
         "support": {
-            "": {
+            "Ninian": {
                 "base": "0",
                 "growth": "+3",
                 "affinity": "ice"
